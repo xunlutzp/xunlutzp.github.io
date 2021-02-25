@@ -1,0 +1,39 @@
+{
+    "plugins": [
+        "-search",
+        "-lunr",
+        "-sharing",
+        "search-pro",
+        "sharing-plus",
+        "github-buttons",
+        "tbfed-pagefooter"
+    ],
+    "pluginsConfig": {
+        "github-buttons": {
+            "buttons": [
+                {
+                    "user": "zcx980605",
+                    "repo": "Survive_XYSM_dev",
+                    "type": "star",
+                    "count": true,
+                    "size": "small"
+                }
+            ]
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": true,
+            "pocket": false,
+            "qq": false,
+            "qzone": true,
+            "twitter": false,
+            "weibo": true
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy 本书编委会全体成员",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
+}

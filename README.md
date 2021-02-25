@@ -34,11 +34,13 @@
 
 + **执行编委会**
 
-    临五XXX      临五XXX      临五XXX      临五XXX
+    |临五XXX   |   临五XXX   |   临五XXX   |   临五XXX|
 
 + **编委会成员**（按照姓氏拼音顺序排列）
 
-    临五XXX      临五XXX      临五XXX      临五XXX
+    |临五XXX   |   临五XXX   |   临五XXX   |   临五XXX|
+    |临五XXX   |   临五XXX   |   临五XXX   |   临五XXX|
+    |临五XXX   |   临五XXX   |   临五XXX   |   临五XXX|
 
 
 + **联系方式：**
