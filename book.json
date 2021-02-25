@@ -6,7 +6,8 @@
         "search-pro",
         "sharing-plus",
         "github-buttons",
-        "tbfed-pagefooter"
+        "tbfed-pagefooter",
+        "expandable-chapters-small"
     ],
     "pluginsConfig": {
         "github-buttons": {
