@@ -2,7 +2,8 @@
 
 * [简介](README.md)
 * [前言](qian-yan.md)
-* [学习方法介绍]
+* [声明](sheng-ming.md)
+* [学习方法介绍](Ch1_xue-xi-fang-fa-jie-shao/readme.md)
     * [解剖学学习方法与资料](Ch1_xue-xi-fang-fa-jie-shao/1_0_jie-pou-xue.md)
         * [系统解剖学学习体会](Ch1_xue-xi-fang-fa-jie-shao/1_1_xi-tong-jie-pou-xue-xue-xi-ti-hui.md)
         * [解剖学学习经验](Ch1_xue-xi-fang-fa-jie-shao/1_2_jie-pou-xue-xue-xi-jing-yan.md)
