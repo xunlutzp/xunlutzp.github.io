@@ -3,6 +3,7 @@
         "-search",
         "-lunr",
         "-sharing",
+        "-livereload",
         "search-pro",
         "sharing-plus",
         "github-buttons",
