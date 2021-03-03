@@ -19,7 +19,7 @@
 
     查找每年辅修学历学位开设的通知步骤：
 
-    1. 打开http://tz.its.csu.edu.cn/，输入你的账户密码，在检索栏里输入“辅修”并检索，这样历年来的辅修通知你都可以看到。
+    1. 打开 http://tz.its.csu.edu.cn/ ，输入你的账户密码，在检索栏里输入“辅修”并检索，这样历年来的辅修通知你都可以看到。
 
         ![查找辅修相关通知](https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch1_11_1.png)
 
@@ -97,68 +97,68 @@
 
 + 我要从哪里获得资源？
 
-    电子书等资源检索，可以参考这篇帖子：https://www.douban.com/note/524087426/
+&emsp;&emsp;&emsp;电子书等资源检索，可以参考这篇帖子：https://www.douban.com/note/524087426/
 
-    电子书搜索：https://ebook.chongbuluo.com/
+&emsp;&emsp;&emsp;电子书搜索：https://ebook.chongbuluo.com/
 
-    加州大学出版社eScholarship Editions：http://publishing.cdlib.org/ucpressebooks/
+&emsp;&emsp;&emsp;加州大学出版社eScholarship Editions：http://publishing.cdlib.org/ucpressebooks/
 
-    Springer出版社：http://link.springer.com/
+&emsp;&emsp;&emsp;Springer出版社：http://link.springer.com/
 
-    哈佛大学图书馆：https://library.harvard.edu/
+&emsp;&emsp;&emsp;哈佛大学图书馆：https://library.harvard.edu/
 
-    国立台湾大学图书馆公开取用电子书系统：https://www.lib.ntu.edu.tw/
+&emsp;&emsp;&emsp;国立台湾大学图书馆公开取用电子书系统：https://www.lib.ntu.edu.tw/
 
-    国立台湾大学图书馆服务部落格：http://tul.blog.ntu.edu.tw/
+&emsp;&emsp;&emsp;国立台湾大学图书馆服务部落格：http://tul.blog.ntu.edu.tw/
 
-    世界数字图书馆：https://www.wdl.org/zh/
+&emsp;&emsp;&emsp;世界数字图书馆：https://www.wdl.org/zh/
 
-    香港旧报纸：https://mmis.hkpl.gov.hk/zh/old-hk-collection
+&emsp;&emsp;&emsp;香港旧报纸：https://mmis.hkpl.gov.hk/zh/old-hk-collection
 
-    书格网：https://new.shuge.org/
+&emsp;&emsp;&emsp;书格网：https://new.shuge.org/
 
-    一零一藏书阁：http://www.101vv.com/
+&emsp;&emsp;&emsp;一零一藏书阁：http://www.101vv.com/
 
-    计算机书籍网站：http://bestcbooks.com/
+&emsp;&emsp;&emsp;计算机书籍网站：http://bestcbooks.com/
 
-    古登堡计划（版权过期的书）：http://www.gutenberg.org/
+&emsp;&emsp;&emsp;古登堡计划（版权过期的书）：http://www.gutenberg.org/
 
-    免费教科书：https://openstax.org/
+&emsp;&emsp;&emsp;免费教科书：https://openstax.org/
 
-    面向教师的教育书籍和资源：https://www.bookyards.com/en/welcome
+&emsp;&emsp;&emsp;面向教师的教育书籍和资源：https://www.bookyards.com/en/welcome
 
-    美国科幻杂志旧刊封面/全文：http://www.luminist.org/archives/SF/
+&emsp;&emsp;&emsp;美国科幻杂志旧刊封面/全文：http://www.luminist.org/archives/SF/
 
-    文献期刊获取网站：
+&emsp;&emsp;&emsp;文献期刊获取网站：
 
-    https://www.academia.edu/
+&emsp;&emsp;&emsp;&emsp;&emsp;https://www.academia.edu/
 
-    https://scholar.google.com
+&emsp;&emsp;&emsp;&emsp;&emsp;https://scholar.google.com
 
-    http://sci-hub.st/
-
-
-    一些文章网站：
-
-    中国社会科学网：http://www.cssn.cn/
+&emsp;&emsp;&emsp;&emsp;&emsp;http://sci-hub.st/
 
 
-    工具书、百科式网站
+&emsp;&emsp;&emsp;一些文章网站：
 
-    斯坦福哲学百科：https://plato.stanford.edu/index.html
+&emsp;&emsp;&emsp;&emsp;&emsp;中国社会科学网：http://www.cssn.cn/
 
-    精神分析词典：https://nosubject.com/Main_Page
 
-    台湾昆虫谱：http://gaga.biodiv.tw/new23/cp021.htm
+&emsp;&emsp;&emsp;工具书、百科式网站
 
-    科幻百科全书：http://www.sf-encyclopedia.com
+&emsp;&emsp;&emsp;&emsp;&emsp;斯坦福哲学百科：https://plato.stanford.edu/index.html
 
-    全历史：https://www.allhistory.com/
+&emsp;&emsp;&emsp;&emsp;&emsp;精神分析词典：https://nosubject.com/Main_Page
 
-    占星学词典：http://theastrologydictionary.com/
+&emsp;&emsp;&emsp;&emsp;&emsp;台湾昆虫谱：http://gaga.biodiv.tw/new23/cp021.htm
 
-    知识产权-盗版相关政策及诉讼、判决新闻：https://torrentfreak.com/
+&emsp;&emsp;&emsp;&emsp;&emsp;科幻百科全书：http://www.sf-encyclopedia.com
 
-    医学插画、视频网：https://www.kenhub.com/en/videos
+&emsp;&emsp;&emsp;&emsp;&emsp;全历史：https://www.allhistory.com/
+
+&emsp;&emsp;&emsp;&emsp;&emsp;占星学词典：http://theastrologydictionary.com/
+
+&emsp;&emsp;&emsp;&emsp;&emsp;知识产权-盗版相关政策及诉讼、判决新闻：https://torrentfreak.com/
+
+&emsp;&emsp;&emsp;&emsp;&emsp;医学插画、视频网：https://www.kenhub.com/en/videos
 
 <p align="right">老林</p>
