@@ -8,7 +8,8 @@
         "sharing-plus",
         "github-buttons",
         "tbfed-pagefooter",
-        "expandable-chapters-small"
+        "expandable-chapters-small",
+        "mermaid-gb3"
     ],
     "pluginsConfig": {
         "github-buttons": {
