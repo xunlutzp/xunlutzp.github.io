@@ -48,33 +48,33 @@ Q1：参加iGEM需要具备哪些技能？
 <table border="1">
     <tbody>
         <tr>
-            <td width="141" rowspan="2" style="border:solid windowtext 1.0pt;">
+            <th width="141" rowspan="2" style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>项目</b>
                 </p>
-            </td>
-            <td width="104" rowspan="2" style="border:solid windowtext 1.0pt;">
+            </th>
+            <th width="104" rowspan="2" style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>专业知识</b>
                 </p>
-            </td>
-            <td width="312" colspan="2" style="border:solid windowtext 1.0pt;">
+            </th>
+            <th width="312" colspan="2" style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>技能</b>
                 </p>
-            </td>
+            </th>
         </tr>
         <tr>
-            <td width="151" style="border:solid windowtext 1.0pt;">
+            <th width="151" style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>必备</b>
                 </p>
-            </td>
-            <td width="161" style="border:solid windowtext 1.0pt;">
+            </th>
+            <th width="161" style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>包括但不限于</b>
                 </p>
-            </td>
+            </th>
         </tr>
         <tr>
             <td width="141" rowspan="2" style="border:solid windowtext 1.0pt;">
@@ -267,34 +267,34 @@ Q1：参加iGEM需要具备哪些技能？
 
 Q2：临床专业参与哪个方向收益最大？报名哪个方向最有竞争力？
 
-<table border="1" style="border-collapse:collapse;border:none;">
+<table border="1">
     <tbody>
         <tr>
-            <td width="106" style="border:solid windowtext 1.0pt;">
+            <th width="106" style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>项目</b>
                 </p>
-            </td>
-            <td width="84" style="border:solid windowtext 1.0pt;">
+            </th>
+            <th width="84" style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>收益度<br />/5星</b>
                 </p>
-            </td>
-            <td width="128" style="border:solid windowtext 1.0pt;">
+            </th>
+            <th width="128" style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>建议</b>
                 </p>
-            </td>
-            <td width="84" style="border:solid windowtext 1.0pt;">
+            </th>
+            <th width="84" style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>竞争力<br />/5星</b>
                 </p>
-            </td>
-            <td width="159" style="border:solid windowtext 1.0pt;">
+            </th>
+            <th width="159" style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>建议</b>
                 </p>
-            </td>
+            </th>
         </tr>
         <tr>
             <td width="106" style="border:solid windowtext 1.0pt;">
@@ -494,16 +494,16 @@ Q2：临床专业参与哪个方向收益最大？报名哪个方向最有竞争
 <table border="1" style="border-collapse:collapse;border:none;">
 	<tbody>
 		<tr>
-			<td width="276" valign="top" style="border:solid windowtext 1.0pt;">
+			<th width="276" valign="middle" style="border:solid windowtext 1.0pt;">
 				<p align="center">
 					<b>时间</b>
 				</p>
-			</td>
-			<td width="277" valign="top" style="border:solid windowtext 1.0pt;">
+			</th>
+			<th width="277" valign="middle" style="border:solid windowtext 1.0pt;">
 				<p align="center">
 					<b>项目</b>
 				</p>
-			</td>
+			</th>
 		</tr>
 		<tr>
 			<td width="276" rowspan="3" style="border:solid windowtext 1.0pt;">
@@ -511,21 +511,21 @@ Q2：临床专业参与哪个方向收益最大？报名哪个方向最有竞争
 					<b>二月至五月</b>
 				</p>
 			</td>
-			<td width="277" valign="top" style="border:solid windowtext 1.0pt;">
+			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					建立团队&amp;筹集项目资金
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td width="277" valign="top" style="border:solid windowtext 1.0pt;">
+			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					头脑风暴&amp;选题
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td width="277" valign="top" style="border:solid windowtext 1.0pt;">
+			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					确定研究目标&amp;制定并分配任务
 				</p>
@@ -537,21 +537,21 @@ Q2：临床专业参与哪个方向收益最大？报名哪个方向最有竞争
 					<b>六月至八月</b>
 				</p>
 			</td>
-			<td width="277" valign="top" style="border:solid windowtext 1.0pt;">
+			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					开始湿实验
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td width="277" valign="top" style="border:solid windowtext 1.0pt;">
+			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					完成数学建模、人文参与、硬/软件设计等
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td width="277" valign="top" style="border:solid windowtext 1.0pt;">
+			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					处理实验数据，形成项目成果
 				</p>
@@ -563,21 +563,21 @@ Q2：临床专业参与哪个方向收益最大？报名哪个方向最有竞争
 					<b>九月、十月</b>
 				</p>
 			</td>
-			<td width="277" valign="top" style="border:solid windowtext 1.0pt;">
+			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					设计并完成Wiki、海报、展示
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td width="277" valign="top" style="border:solid windowtext 1.0pt;">
+			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					提交实验样品
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td width="277" valign="top" style="border:solid windowtext 1.0pt;">
+			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					参加Giant Jamboree展示研究成果
 				</p>

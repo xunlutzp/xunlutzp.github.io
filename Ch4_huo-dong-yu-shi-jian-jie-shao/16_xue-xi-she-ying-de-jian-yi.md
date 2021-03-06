@@ -24,27 +24,27 @@
 <table border="0" style="border-collapse:collapse;border:none;">
     <tr>
         <td>
-            <p align="center">
+            <div align="center">
                 <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_1.jpeg" alt="手机">
-            </p>
+            </div>
             <p align="center">手机</p>
         </td>
         <td>
-            <p align="center">
+            <div align="center">
                 <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_2.jpeg" alt="数码相机">
-            </p>
+            </div>
             <p align="center">数码相机</p>
         </td>
         <td>
-            <p align="center">
+            <div align="center">
                 <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_3.jpeg" alt="胶片相机">
-            </p>
+            </div>
             <p align="center">胶片相机</p>
         </td>
         <td>
-            <p align="center">
+            <div align="center">
                 <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_4.jpeg" alt="拍立得">
-            </p>
+            </div>
             <p align="center">拍立得</p>
         </td>
     </tr>
@@ -90,14 +90,14 @@
         <table border="0" style="border-collapse:collapse;border:none;">
             <tr>
                 <td>
-                    <p align="center">
+                    <div align="center">
                         <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_7.jpeg" alt="小光圈大景深示例p1">
-                    </p>
+                    </div>
                 </td>
                 <td>
-                    <p align="center">
+                    <div align="center">
                         <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_8.jpeg" alt="小光圈大景深示例p2">
-                    </p>
+                    </div>
                 </td>
             </tr>
         </table>
@@ -108,14 +108,14 @@
         <table border="0" style="border-collapse:collapse;border:none;">
             <tr>
                 <td>
-                    <p align="center">
+                    <div align="center">
                         <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_9.jpeg" alt="大光圈小景深示例p1">
-                    </p>
+                    </div>
                 </td>
                 <td>
-                    <p align="center">
+                    <div align="center">
                         <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_10.jpeg" alt="大光圈小景深示例p2">
-                    </p>
+                    </div>
                 </td>
             </tr>
         </table>
@@ -151,21 +151,21 @@
         <table border="0" style="border-collapse:collapse;border:none;">
         <tr>
         <td>
-        <p align="center">
+        <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_14.jpeg" alt="Instagram">
-        </p>
+        </div>
         <p align="center">Instagram</p>
         </td>
         <td>
-        <p align="center">
+        <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_15.jpeg" alt="谢子龙影像艺术馆">
-        </p>
+        </div>
         <p align="center">谢子龙影像艺术馆</p>
         </td>
         <td>
-        <p align="center">
+        <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_16.jpeg" alt="奥山由之摄影集">
-        </p>
+        </div>
         <p align="center">奥山由之摄影集</p>
         </td>
         </tr>

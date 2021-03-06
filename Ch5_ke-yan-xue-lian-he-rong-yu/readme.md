@@ -1,9 +1,0 @@
-这是一个示例文件
-
-# 一级标题
-
-Ch5_ke-yan-xue-lian-he-rong-yu/readme.md
-
-# 二级标题
-
-Hello World!
