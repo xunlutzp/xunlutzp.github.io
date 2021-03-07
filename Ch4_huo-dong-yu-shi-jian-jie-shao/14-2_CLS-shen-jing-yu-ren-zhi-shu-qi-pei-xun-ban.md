@@ -15,10 +15,10 @@
 CLS暑期培训班每年在不同的地方举办，一般是一年在北大，一年在清华。我参加的那年（2018年）在北大举行。在每年三四月的时候会在官网发布招生简章，2018年的招生简章如下：（ http://www.cls.edu.cn/Academicactivities/notices/index4093.shtml ）
 
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_14-2_1.jpeg" alt="CLS2018招生简章p1">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_14-2_1.jpeg" alt="CLS2018招生简章p1">
 </div>
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_14-2_2.jpeg" alt="CLS2018招生简章p2">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_14-2_2.jpeg" alt="CLS2018招生简章p2">
 </div>
 
 在报名的时候需要注意几点：
@@ -42,7 +42,7 @@ CLS暑期培训班每年在不同的地方举办，一般是一年在北大，�
 附.2018年CLS神经认知夏令营的流程如下：
 
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_14-2_3.jpeg" alt="2018CLS神经认知夏令营流程">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_14-2_3.jpeg" alt="2018CLS神经认知夏令营流程">
 </div>
 <br/>
 <p align="right">唐牧云<br/>写于2021年3月2日</p>

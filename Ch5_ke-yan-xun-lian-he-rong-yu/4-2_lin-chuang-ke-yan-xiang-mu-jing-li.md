@@ -9,15 +9,15 @@
 
 <table border=0 align="center">
     <tr>
-        <td><div align=center><img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch5_4-2_1.jpeg" alt="培训阶段的记录1"></div>
+        <td><div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-2_1.jpeg" alt="培训阶段的记录1"></div>
         </td>
-        <td><div align=center><img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch5_4-2_2.jpeg" alt="培训阶段的记录2"></div>
+        <td><div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-2_2.jpeg" alt="培训阶段的记录2"></div>
         </td>
     </tr>
     <tr>
-        <td><div align=center><img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch5_4-2_3.jpeg" alt="培训阶段的记录3"></div>
+        <td><div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-2_3.jpeg" alt="培训阶段的记录3"></div>
         </td>
-        <td><div align=center><img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch5_4-2_4.jpeg" alt="培训阶段的记录4"></div>
+        <td><div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-2_4.jpeg" alt="培训阶段的记录4"></div>
         </td>
     </tr>
 </table>
@@ -55,10 +55,10 @@
 >
 > 3. 文献检索：推荐文献检索：
 >     1. 大木虫学术导航 http://www.4243.net/
->         <div align=center><img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch5_4-2_5.png" alt="大木虫学术导航"></div>
+>         <div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-2_5.png" alt="大木虫学术导航"></div>
 >
 >     2. https://sci-hub.tf/
->         <div align=center><img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch5_4-2_6.png" alt="SCI-HUB"></div>
+>         <div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-2_6.png" alt="SCI-HUB"></div>
 >
 >     3. 若能够使用VPN，直接Google学术也非常便捷
 

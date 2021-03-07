@@ -2,9 +2,9 @@
 
 <table border=0  align="center">
     <tr>
-        <td><div align=center><img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-0_1.png" alt="临床交换"></div>
+        <td><div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-0_1.png" alt="临床交换"></div>
         </td>
-        <td><div align=center><img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-0_2.png" alt="科研交换"></div>
+        <td><div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-0_2.png" alt="科研交换"></div>
         </td>
     </tr>
 </table>

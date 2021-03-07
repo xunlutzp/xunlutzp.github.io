@@ -16,7 +16,7 @@
 “iGEM，全称International Genetically Engineered Machine Competition，即国际基因工程机器大赛，是合成生物学（Synthetic Biology）领域的国际性大学生最高级别学术竞赛。iGEM希望参赛者从天然生物系统入手，构建标准化的生物元器件，进而对天然生物系统进行更高效、更可靠、以及更精准地改造，或者设计全新的人工生物系统。”
 
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch2_4_1.png" alt="iGEM">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_4_1.png" alt="iGEM">
 </div>
 
 具体内容不赘述，感兴趣的自己上官网，里面啥都有（狗头）。总结一下，iGEM就是一个以合成生物学为主题的学术性比赛。分为大学组及高中组，大家利用课余时间完成自主选题和设计，然后在暑假进行实验工作，最后在当年的十月底左右前往美国Boston参加全球的项目展示，是否得奖也即日揭晓。个人觉得，完成一个iGEM项目大致需要几类人：**实验工作者（实验主力），干实验工作者（预测建模），前端工程师（搭建网站），美术工作者（项目全套设计）和社会活动工作者（宣传，扩大影响）**。
@@ -28,7 +28,7 @@
 作为湘雅医学院临床医学五年制的学姐，我讲的含金量理应与大家的保研息息相关才行。在2019年，中南大学已经颁布了红头文件将iGEM大赛收录到了竞赛目录里，序列号72号，属于国际级比赛。附件我会附在最后，方便需要的朋友们查阅。
 
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch2_4_2.png" alt="竞赛目录第72号">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_4_2.png" alt="竞赛目录第72号">
 </div>
 
 所以它的含金量我相信大家都明白了（不懂的建议结合保研政策来看），在此我还想划一个重点：根据保研政策来看，一般团队项目的加分都是需要除以奖状上总人数的，iGEM肯定是属于团队比赛，但是比赛最终颁发的奖状却人人（仅指去美国参加最终项目展示的所有人）都有且上面只会有自己一个人的名字。<font color=gray>所以，其实在政策不大改的前提下，这里面的确有可做的文章。</font>
@@ -38,7 +38,7 @@
 总而言之，在学业不受影响的情况下（不知道药理期中还在不在双十一），我还是很乐意看到学弟学妹们去参加的。
 
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch2_4_3.png" alt="设计流程">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_4_3.png" alt="设计流程">
 </div>
 
 ## 给学妹学弟们的小建议
@@ -486,7 +486,7 @@ Q2：临床专业参与哪个方向收益最大？报名哪个方向最有竞争
 ## 大赛赛程
 
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch2_4_4.png" alt="iGEM竞赛赛程">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_4_4.png" alt="iGEM竞赛赛程">
 </div>
 
 <br/>

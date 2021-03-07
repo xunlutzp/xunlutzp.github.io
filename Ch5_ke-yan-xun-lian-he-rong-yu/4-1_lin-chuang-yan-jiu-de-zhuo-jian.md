@@ -29,31 +29,31 @@
 1. 利用MIMIC III数据库的数据发表的文章，浙大某急诊科医生2018年发表在《重症医疗监护》中的论文。
 
     <div align=center>
-    <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch5_4-1_1.png" alt="浙大急诊科医生2018年利用MIMIC III数据库的数据发表的文章">
+    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-1_1.png" alt="浙大急诊科医生2018年利用MIMIC III数据库的数据发表的文章">
     </div>
     <br/>
 
 2. 利用随机对照试验发表的二次研究，浙大某急诊科医生2019年发表在JCR1区，影响因子7.414的文章。
 
     <div align=center>
-    <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch5_4-1_2.png" alt="浙大急诊科医生2019年利用随机对照试验发表的二次研究文章">
+    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-1_2.png" alt="浙大急诊科医生2019年利用随机对照试验发表的二次研究文章">
     </div>
     <br/>
 
 3. 利用GEO数据库进行基因网状分析，浙大某急诊科医生2020年发表在JCR2区，影响因子4.124的文章。
 
     <div align=center>
-    <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch5_4-1_3.png" alt="浙大急诊科医生2020年利用GEO数据库进行基因网状分析发表的文章">
+    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-1_3.png" alt="浙大急诊科医生2020年利用GEO数据库进行基因网状分析发表的文章">
     </div>
     <br/>
 
 4. 利用ELSA数据库进行分析: ELSA数据库：全称是English longitudinal study of aging，开放获取，国人也有文章发表。
 
     <div align=center>
-    <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch5_4-1_4.jpeg" alt="国人利用ELSA数据库发表的文章1">
+    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-1_4.jpeg" alt="国人利用ELSA数据库发表的文章1">
     </div>
     <div align=center>
-    <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch5_4-1_5.jpeg" alt="国人利用ELSA数据库发表的文章2">
+    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-1_5.jpeg" alt="国人利用ELSA数据库发表的文章2">
     </div>
     <br/>
 

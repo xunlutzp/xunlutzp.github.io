@@ -39,15 +39,15 @@
 
 <table border=0 align="center">
     <tr>
-        <td><div align=center><img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch6_3_1.jpeg" alt="株洲市中心医院宿舍走廊"></div>
+        <td><div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch6_3_1.jpeg" alt="株洲市中心医院宿舍走廊"></div>
         </td>
-        <td><div align=center><img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch6_3_2.jpeg" alt="株洲市中心医院宿舍内景p1"></div>
+        <td><div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch6_3_2.jpeg" alt="株洲市中心医院宿舍内景p1"></div>
         </td>
     </tr>
     <tr>
-        <td><div align=center><img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch6_3_3.jpeg" alt="株洲市中心医院宿舍内景p2"></div>
+        <td><div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch6_3_3.jpeg" alt="株洲市中心医院宿舍内景p2"></div>
         </td>
-        <td><div align=center><img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch6_3_4.jpeg" alt="株洲市中心医院自习室"></div>
+        <td><div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch6_3_4.jpeg" alt="株洲市中心医院自习室"></div>
         </td>
     </tr>
 </table>

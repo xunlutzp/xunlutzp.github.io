@@ -21,7 +21,7 @@ Part 3：专业知识临床考试，共考4天，考核学科包括内科、外�
 评估期：获得香港执业医师资格的最后一个阶段，通过LMCHK考试后，需要进过12个月的临床实习，包括4个主要科室，每个科室实习3个月。
 
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch1_10_1.png" alt="HKMLE">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch1_10_1.png" alt="HKMLE">
 </div>
 
 ## 考试资格
@@ -35,7 +35,7 @@ Part 3：专业知识临床考试，共考4天，考核学科包括内科、外�
 + 相关材料：《香港醫務委員會2021 年執業資格試 (第一次考試)》和《香港醫務委員會執照組2021 年執業資格試(第一次考試)考生指南》见附件。
 
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch1_10_2.png" alt="HKMLE考试资格">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch1_10_2.png" alt="HKMLE考试资格">
 </div>
 
 ## 附件占位符

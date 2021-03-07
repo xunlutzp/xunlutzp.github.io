@@ -21,7 +21,7 @@
 暑期班的主要形式是学术讲座（一般上/下午各一场），邀请的讲者是来自北京大学和清华大学的神经科学PI，其中包括著名的饶毅老师。他们讲座的内容涵盖了离子通道和神经递质、神经环路、神经系统疾病、神经系统成像以及心理学的神经生理机制等神经科学研究领域，可以说是神经生物学选修课Plus版，让我在1周的时间内对神经科学的过去、现在和未来有了初步的认识。说实话，因为生物学的基础比较薄弱，有时提到某个分子、基因、离子通道或某条信号通路或某种技术，我会云里雾里，于是赶紧在笔记本写上课后查阅，借此机会了解了不少陌生的生物学知识；讲座时间长犯困也是难免，但有些老师真的能让我全程在线，比如李毓龙老师讲神经传递，以囊泡转运机制的发现史为主线，讲述了2013年三位诺奖得主的工作，语言幽默风趣，还不时点人提问“如果是你，你怎么来设计这个实验”；讲座结束后会有提问时间，提问结束后老师还经常被围一圈，当然大多是生科的同学在提问，不过即使旁听也能学习别人如何思考如何提问以及从老师口中得到他的理解。此外，主办方还安排了实验室参观，我去了北京大学王克桢实验楼、北京生命科学研究所和北京脑科学与类脑研究中心，问就是高端。
 
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_14-3_1.jpeg" alt="CLS暑期班合影">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_14-3_1.jpeg" alt="CLS暑期班合影">
 </div>
 <center>CLS暑期班合影</center>
 <br/>
@@ -29,12 +29,12 @@
 除了满满当当的课表，难忘的还有与优秀组员共度的时光：一起经历北京夏天的大雨，一起吃遍北大的食堂，一起撸串，一起逛北大、清华和南铜锣巷，一起排练节目“冰与火之歌”（凉凉+暖暖）；还有大家努力准备文献汇报比赛的三个夜晚——在金光生命科学大楼讨论到十点左右，一起回到酒店接近十一点，洗个澡继续修改PPT到十二点多——最后出乎意料拿了第一，每人获赠一本《北大读本》，结课后大家互相在上面签名，约着以后发了SCI请吃柳叶刀烧烤，这大概就是最好的相遇和礼物。
 
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_14-3_2.jpeg" alt="小组成员合影">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_14-3_2.jpeg" alt="小组成员合影">
 </div>
 <center>小组成员合影</center>
 <br/>
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_14-3_3.jpeg" alt="《北大读本》与签名留念">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_14-3_3.jpeg" alt="《北大读本》与签名留念">
 </div>
 <center>《北大读本》与签名留念</center>
 <br/>
@@ -44,12 +44,12 @@
 中科院神经科学研究所是蒲慕明院士领导的国内该领域研究的国字招牌，很幸运有机会去那里学习了两周。研究所的建筑是日本人设计的，与日本东京大学相仿，在里面上课和瞎逛真的很有感觉。与CLS暑期班一样，ION暑校的主要形式也是学术讲座（一般上午或下午安排两场），但内容更为全面和升级，邀请的讲者是所里不同研究组的PI。此外，还安排了两个特殊环节：一个是博士生经验交流，邀请的是发表了《Nature Neuroscience》一作和《Nature》一作的两位师兄，听别人的故事还是蛮有意思的，记得一位学长分享了自己如何从实验室管家到考研进研究组最后发顶刊的心路历程，还有自己设计各种实验装置并申请专利的插曲；另一个是蒲慕明院士的夜谈会，回顾了他从美国归华建立中科院神经所至今二十年，还叮嘱我们如何做人做事做科学、如何自我教育等等，最后还分享了几本科学家的传记和他本人的读书笔记（电子邮件索取）。
 
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_14-3_4.jpeg" alt="中科院神经科学研究所建筑">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_14-3_4.jpeg" alt="中科院神经科学研究所建筑">
 </div>
 <center>中科院神经科学研究所建筑</center>
 <br/>
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_14-3_5.jpeg" alt="蒲院士夜谈会后合影">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_14-3_5.jpeg" alt="蒲院士夜谈会后合影">
 </div>
 <center>蒲院士夜谈会后合影</center>
 <br/>

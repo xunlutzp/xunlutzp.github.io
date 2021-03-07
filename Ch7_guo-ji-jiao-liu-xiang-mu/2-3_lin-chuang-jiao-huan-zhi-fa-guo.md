@@ -17,7 +17,7 @@
 手术期间我会询问是否能拍照片，经过医生允许后我留下的照片和视频都是很好的学习素材。术后我会把拍下来的几个关键步骤在ipad上做成文档，批注一下。同时也会去谷歌、油管多搜索一下相关的资源，强化对当天知识的学习。如果下班之后可以拿到隔天的手术安排，我会提前去预习一下手术内容，了解病人的病史、手术方法、适应症，甚至哪怕只是相关的英文词汇。这些都让我在隔天和主刀交谈时更为流利和有目的性，带着自己的思考去看手术，收获会更大。手术期间如果有当地的学生在场，我也会和他们聊一聊，因为主刀也不能时刻和我讲话，有什么事情及时和同学沟通，也挺方便的和轻松的。有一次手术我遇到了一个美女学霸，她从手术开始carry我到最后，生怕我哪个步骤没听懂，有一些时候即使我没问，她都会很热心的给我讲解。
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-3_1.webp" alt="和带教的合影">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-3_1.webp" alt="和带教的合影">
 <br/>图：和带教的合影
 </p>
 <p align="right">16级临五 吴钰清</p>
@@ -29,11 +29,11 @@
 CHU de Rouen是全法较为知名的教学医院，而骨科对交换的学生还是相对宽松的。科主任是一位又高又壮，很幽默、有个性的爷爷。科室有十多位级别较高的医师，每位再带1-2位住院医师，住院医下面还有大五和大六的实习生。我的带教比较忙，不会拿出很多时间来带教，我基本上是“散养”状态，更多要依靠自己主动去学习。法国的实习相对宽松，下午可以在医院也可以自由安排时间。带教老师并不会要求我一直跟着他，他给了我一张安排表，可以自己选择任何一场手术去观摩学习，遇上不懂的问题可以随时问他，也会耐心解答。相比于内科，外科要相对忙碌，每天早晨7点45的早交班会，要求包括实习生在内的所有医生到场，由值班医生交代前一天的病例，交班会结束后所有医生再去共进早餐，早餐后就会开启一天的手术。
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-3_2.jpeg" alt="CHU De Rouen">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-3_2.jpeg" alt="CHU De Rouen">
 <br/>图：实习医院CHU De Rouen
 </p>
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-3_3.jpeg" alt="科室早交班">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-3_3.jpeg" alt="科室早交班">
 <br/>图：科室的早交班会
 </p>
 
@@ -44,7 +44,7 @@ CHU de Rouen是全法较为知名的教学医院，而骨科对交换的学生�
 相对于国内医院摩肩接踵，法国医院的环境特别好。医院里不单单是只有药房、诊室、病房，大厅里面还设有咖啡厅、小吃店之类的，好多人会坐在咖啡厅一起交流，人文关怀气息很浓。医院内部装修简单干净，摆放了很多绿植放在医院大厅里，缓解了严肃的氛围，给人一种很舒服的感觉。
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-3_4.jpeg" alt="骨科手术室">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-3_4.jpeg" alt="骨科手术室">
 <br/>图：骨科手术室
 </p>
 
@@ -53,7 +53,7 @@ CHU de Rouen是全法较为知名的教学医院，而骨科对交换的学生�
 在非英语母语国家实习的困难之一就是语言，有时候遇到英语不太好的法国人交流就会很困难，但这边同学们英语都非常好，日常交流都没问题。法国这边有时会闹罢工，地铁线会突然关闭，公交车也不是很准时，交通不是那么方便。和我一起来的还有很多来自其他国家比如拉丁美洲的同学，不管是法国还是外国的同学，对中国的学生都很亲切友好，他们也非常想要去了解中国，我们交流探讨了很多问题。
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-3_5.jpeg" alt="和来自全球的实习生一起出游">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-3_5.jpeg" alt="和来自全球的实习生一起出游">
 <br/>图：实习期间和来自全球的实习生一起出游
 </p>
 <p align="right">16级临五 华玉泽</p>

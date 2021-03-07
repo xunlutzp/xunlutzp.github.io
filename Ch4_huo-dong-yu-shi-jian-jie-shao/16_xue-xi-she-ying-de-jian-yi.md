@@ -25,25 +25,25 @@
     <tr>
         <td>
             <div align="center">
-                <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_1.jpeg" alt="手机">
+                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_1.jpeg" alt="手机">
             </div>
             <p align="center">手机</p>
         </td>
         <td>
             <div align="center">
-                <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_2.jpeg" alt="数码相机">
+                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_2.jpeg" alt="数码相机">
             </div>
             <p align="center">数码相机</p>
         </td>
         <td>
             <div align="center">
-                <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_3.jpeg" alt="胶片相机">
+                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_3.jpeg" alt="胶片相机">
             </div>
             <p align="center">胶片相机</p>
         </td>
         <td>
             <div align="center">
-                <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_4.jpeg" alt="拍立得">
+                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_4.jpeg" alt="拍立得">
             </div>
             <p align="center">拍立得</p>
         </td>
@@ -68,7 +68,7 @@
         技术的学习大致可以分为三个方面
 
         <div align=center>
-        <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_5.png" alt="摄影技术学习的三个方面">
+        <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_5.png" alt="摄影技术学习的三个方面">
         </div>
 
         以拍摄技能的学习为例：主要是要理解并掌握与摄影相关的一些概念以及拍摄技巧。学习时你应该试着从多个角度去看待这些概念，**并去思考这些东西究竟是如何影响着你的拍摄画面**。
@@ -76,7 +76,7 @@
         比如：光圈（Aperture）：通过学习，你既要知道光圈物理层面的含义（镜头上控制镜头通光量的装置），也要知道光圈对拍摄画面的影响：**光圈可以影响最终画面的亮暗和画面清晰的范围**。
 
         <div align=center>
-        <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_6.jpeg" alt="光圈">
+        <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_6.jpeg" alt="光圈">
         </div>
         <center>（图片来源于网络，仅供学习交流，如有侵权请联系删除）</center>
 
@@ -91,12 +91,12 @@
             <tr>
                 <td>
                     <div align="center">
-                        <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_7.jpeg" alt="小光圈大景深示例p1">
+                        <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_7.jpeg" alt="小光圈大景深示例p1">
                     </div>
                 </td>
                 <td>
                     <div align="center">
-                        <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_8.jpeg" alt="小光圈大景深示例p2">
+                        <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_8.jpeg" alt="小光圈大景深示例p2">
                     </div>
                 </td>
             </tr>
@@ -109,12 +109,12 @@
             <tr>
                 <td>
                     <div align="center">
-                        <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_9.jpeg" alt="大光圈小景深示例p1">
+                        <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_9.jpeg" alt="大光圈小景深示例p1">
                     </div>
                 </td>
                 <td>
                     <div align="center">
-                        <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_10.jpeg" alt="大光圈小景深示例p2">
+                        <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_10.jpeg" alt="大光圈小景深示例p2">
                     </div>
                 </td>
             </tr>
@@ -127,15 +127,15 @@
 
         下图总结了摄影学习中一些较为关键的概念,你可以尝试<b>按照我刚才的思路逐一去学习去理解去运用这些概念</b>。
         <div align=center>
-        <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_11.png" alt="拍摄技能的学习">
+        <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_11.png" alt="拍摄技能的学习">
         </div>
         <div align=center>
-        <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_12.png" alt="后期图片处理的学习">
+        <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_12.png" alt="后期图片处理的学习">
         </div>
 
         除此以外，拍摄不同题材的事物需要学习相对应的知识，这是一个**逐渐积累的过程**。
         <div align=center>
-        <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_13.png" alt="摄影中其他需要学习的知识">
+        <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_13.png" alt="摄影中其他需要学习的知识">
         </div>
 
         学习这些技能，你可以选择去网上报名相应的课程，也可以选择知名摄影师的线下面授课程，还可以自行查阅相关书籍进行学习。总之无论通过何种途径进行学习，最重要的就是要去思考学到的东西究竟是如何影响着你的拍摄的，你可以通过它们去创造什么？**你应该多去思考学到的东西如何去帮助你有效的表达（拍出符合自我想法的照片），而不应该拘泥于工具和技术本身。**
@@ -152,19 +152,19 @@
         <tr>
         <td>
         <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_14.jpeg" alt="Instagram">
+        <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_14.jpeg" alt="Instagram">
         </div>
         <p align="center">Instagram</p>
         </td>
         <td>
         <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_15.jpeg" alt="谢子龙影像艺术馆">
+        <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_15.jpeg" alt="谢子龙影像艺术馆">
         </div>
         <p align="center">谢子龙影像艺术馆</p>
         </td>
         <td>
         <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_16.jpeg" alt="奥山由之摄影集">
+        <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_16.jpeg" alt="奥山由之摄影集">
         </div>
         <p align="center">奥山由之摄影集</p>
         </td>
@@ -180,7 +180,7 @@
 ## 拍摄一组作品的大致流程是怎样的？
 
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_17.png" alt="拍摄流程">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_17.png" alt="拍摄流程">
 </div>
 
 ## 对摄影更广义的理解（整体观）
@@ -188,7 +188,7 @@
 事实上，广义上的摄影包括的概念不仅仅包括了现在主流的运用数码相机的拍摄流程，它还包括了传统的胶卷摄影，以及传统的后期图像处理技术（暗房工艺）。此外对摄影史及摄影理论的研究也属于摄影的一部分。
 
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch4_16_18.png" alt="广义上的摄影">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_16_18.png" alt="广义上的摄影">
 </div>
 
 摄影是一门需要在掌握技术的基础上发挥自己的创造力的学科，理解各种技术是有必要的，但**更重要的是审美的不断提升**。只有不断的实践与思考，才能真正拍出令自己满意的照片。希望看完这篇分享的你们能从中有所收获！

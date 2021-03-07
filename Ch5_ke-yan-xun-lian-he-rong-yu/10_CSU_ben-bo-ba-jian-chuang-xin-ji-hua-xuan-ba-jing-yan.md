@@ -44,9 +44,9 @@
 
 <table border=0  align="center">
     <tr>
-        <td><div align=center><img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch5_10_1.jpeg" alt="截图：发送的邮件"></div>
+        <td><div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_10_1.jpeg" alt="截图：发送的邮件"></div>
         </td>
-        <td><div align=center><img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch5_10_2.jpeg" alt="截图：收到的回复"></div>
+        <td><div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_10_2.jpeg" alt="截图：收到的回复"></div>
         </td>
     </tr>
 </table>

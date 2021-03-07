@@ -5,7 +5,7 @@
 我为期一个月的实习所在地，是日本千叶县。千葉（chiba），属关东地方，离东京一个半小时的新干线。南朝太平洋，西临东京湾，走着走着就到了海边。那里坐落着迪斯尼乐园、幕张国际会展中心，却不像东京总是繁华。除了以新干线车站为中心的地方灯火通明，摩肩接踵，周边的地方很少有高楼大厦。周边的街区一到七点就黑黢黢的，我的寄宿家庭就是一片低矮房屋中一幢地中海风格的两层小楼，夜晚昏黄的地灯常明，静谧安详。
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-1_1.jpeg" alt="夕阳下的千葉街道">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-1_1.jpeg" alt="夕阳下的千葉街道">
 <br/>图：冬日的千葉四点半就会迎来夕阳
 </p>
 
@@ -14,7 +14,7 @@
 在日本，医院主要分为大学医院和私人诊所。大学医院承担着大多数教学和科研任务，拥有最高水平的医生和医疗技术。千叶大学作为首都圈内著名的国立大学，其大学医院是千叶地区最好的医院。在日本的医保制度下，民众每月缴纳保险金，就诊私人诊所及地方医院，有需要则由医生转诊至大学医院，约70%可以由医保报销。直接到大学医院就诊的患者将要承担觉的自费医疗费用。所以在心内科、妇产科、肝胆外科实习的日本同学告诉我，他们一般只接收其他医院或诊所转诊而来的病人。
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-1_2.jpeg" alt="早晨的千叶大学医院">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-1_2.jpeg" alt="早晨的千叶大学医院">
 <br/>图：实习最后一天早晨的千叶大学医院
 </p>
 
@@ -27,7 +27,7 @@
 科里还有十几名低年资、高年资主治医生，三名特任助教，以及几位教授，会根据自己的特长组成不同的诊疗小组，负责病人的诊治。医生们各有自己的专长，吉川先生是寄生虫专家，最近他已经结束了进修，专攻寄生虫学；刚从美国留学回来的福澤先生则是神经学专家。
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-1_3.jpeg" alt="生坂教授的办公室">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-1_3.jpeg" alt="生坂教授的办公室">
 <br/>图：生坂教授的办公室，亮点是左边书架上豪斯的脸
 </p>
 
@@ -38,7 +38,7 @@
 每天九点正式上班前，带教们会在助教办公室集合，唠着嗑等待当日的患者分配。整个科室每天竟然只有4、5个首诊病人。三位特任助教轮流作为当日负责人，会根据主治医生们的兴趣、特长等情况分配首诊病例和跟班实习生。
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-1_4.jpeg" alt="每天就诊的病人信息表">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-1_4.jpeg" alt="每天就诊的病人信息表">
 <br/>图：每天就诊的病人信息表
 </p>
 
@@ -51,7 +51,7 @@
 在综合诊疗科比较常见的疾病是神经肌肉类疾病、精神疾病以及感染类疾病。我有幸见到了一些罕见的疾病以及许多次精彩的鉴别诊断过程。2月5日的患者是一位老年女性，病例最显著的特点是心梗治疗后长期居高不下的CK值。老奶奶在无人搀扶的情况下无法下蹲、起立，体查时她双腿的肌张力也极低。被大家公认为“步行字典”的石塚先生根据发病时间、体查结果用VINDICATE法(vascular、infection、neoplasm、degenerative、idiopathic、congenital、autoimmune、trauma、endocrine）锁定了最可能的初步诊断--免疫介导的坏死性肌炎，后来检查结果也证实了他的猜测。这个病例让我真正体会到了诊断的魅力。
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-1_5.jpeg" alt="日本同学搀扶无法站立的老奶奶">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-1_5.jpeg" alt="日本同学搀扶无法站立的老奶奶">
 <br/>图：日本同学扶住了体查时无法站立的老奶奶
 </p>
 
@@ -60,14 +60,14 @@
 每天首诊病人的诊断结束一般都是两三点。每次我和带教们都饿得嗷嗷叫，但很多病人来自日本全国偏远地区，等了几个月才等到了这个机会，所以带教们总是以病人优先。在科里的一个月，我没有一次在三点前吃到过中饭，最晚一次在下午五点才吃到午饭。带教们则更加辛苦，除了首诊病人，还有几个复诊病人。如果首诊病人病情复杂，几乎就没有时间吃东西。有的医生还有教学任务。有的医生还有其他诊所的工作，类似国内多点执业。
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-1_6.jpeg" alt="麻辣担担面饭团">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-1_6.jpeg" alt="麻辣担担面饭团">
 <br/>图：下午五点的午饭-麻辣担担面饭团
 </p>
 
 另外，科室每周四的下午三点开始是病例讨论会，不定时则有多学科联合会诊讨论，通过和其他科室视频连线进行讨论。讨论会并不是一个读ppt小聚会，而是诊断过程的重现。主管医生会根据时间轴依次抛出病人的症状、体征、辅助检查，大家随时可以提问相关症状、体征、辅助检查是否阳性，也可以随时提出自己的鉴别诊断。直到大家再也想不出其他诊断，主管医生便揭晓答案，并带大家对该疾病进行系统性的学习。
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-1_7.jpeg" alt="病例讨论">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-1_7.jpeg" alt="病例讨论">
 <br/>图：正在进行病例讨论
 </p>
 
@@ -95,7 +95,7 @@
 其他带教们看出我求生欲很强，于是哄堂大笑救我于水火。
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-1_8.jpeg" alt="和生坂教授的合影">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-1_8.jpeg" alt="和生坂教授的合影">
 <br/>图：我和生坂教授的合影
 </p>
 
@@ -107,11 +107,11 @@
 我们同学之间打针能把静脉打肿，横川先生又是胖胖的并不很好抽的那一种，我还是很有心理负担的。果然，消完毒之后那手感和我之前摸骨瘦如柴的同学完全不一样。但是横川先生一直鼓励我，我竟然一针见血。他开心且惊讶地笑了，“不错啊！”。横川先生的表情总是能让人很有成就感。
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-1_9.jpeg" alt="止血带和血液样本">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-1_9.jpeg" alt="止血带和血液样本">
 <br/>图：止血带和血液样本
 </p>
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-1_10.jpeg" alt="利器盒">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-1_10.jpeg" alt="利器盒">
 <br/>图：利器盒
 </p>
 
@@ -120,7 +120,7 @@
 横川先生还热衷于演示各种症状和体征以便我理解和记忆深刻。他演的NPH病人和各种步态比YouTube视频里的经典多了，和我们的呼吸内科杨威老师一样极具才华。32岁就成为特任助教的横川先生，最近还刚获得了诊断学phD，他请大家一起出去聚餐庆祝他获得phD的日子正好就是我的生日，简直不能太巧了。带教们给我准备了一个特别的蛋糕，一个人在异国他乡过生日的我瞬间就好感动。
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-1_11.jpeg" alt="别具一格的生日蛋糕">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-1_11.jpeg" alt="别具一格的生日蛋糕">
 <br/>图：别具一格的生日蛋糕
 </p>
 
@@ -137,7 +137,7 @@
 福澤先生、保科先生和吉川先生是“拉面党”，在发现我还挺能吃辣（一个在长沙最不能吃辣的杭州人在日本突然变得很能吃辣了）之后，就邀请我一起去尝试因为太辣而一直不敢尝试的拉面店——“蒙古拉面”。仿佛有一个中国人一道就有靠山一样。最后福澤先生和吉川先生还是很没骨气地选择了看起来完全不辣的3度辣拉面，而挑战了5度辣拉面的我竟然不如保科先生，流着泪走出了面店。
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-1_12.jpeg" alt="和带教一起等位蒙古拉面">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-1_12.jpeg" alt="和带教一起等位蒙古拉面">
 <br/>图：和带教一起在寒风中等位蒙古拉面
 </p>
 
@@ -147,7 +147,7 @@
 因为2月份只有我一个留学生，我受到了日本妈妈们完全的宠爱。每个周末知子就会和其他寄宿家庭的妈妈们带我出去玩。我们吃了地道的拉面、品种超出我想象的回转寿司，还去了东京著名的竞马场。一位阿姨亲自给我穿非常繁复而传统的和服，教我茶道。一个姐姐带我们去了ktv，对三国特别感兴趣的日本人都跟我学起了《曹操》这首歌。一个奶奶不厌其烦教我如何做正宗的日式抹茶，还把她养的布偶luna让我尽情撸。
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-1_13.jpeg" alt="艺术品和爱玩的猫">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-1_13.jpeg" alt="艺术品和爱玩的猫">
 <br/>图：奶奶自己做的艺术品和爱玩的luna
 </p>
 
@@ -160,7 +160,7 @@
 一个月太快，再也不能享受每天都被带教请吃食堂的中饭了，被帅哥们拴在裤腰带照顾日子就这样飞逝而去。生坂教授说他还等着以后我去日本留学，能给他翻译成龙的电影。真心希望我和带教们说“以后想来日本学习”的愿望能成真！
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch7_2-1_14.jpeg" alt="离别前的大合影">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_2-1_14.jpeg" alt="离别前的大合影">
 <br/>图：离别前的大合影
 </p>
 <p align="right">16级临五 毛世航</p>

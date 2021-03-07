@@ -22,7 +22,7 @@
 数学建模说的简单一点，就是用大学生的方式解决小学生的数学应用题，附张图给大家感受一下：
 
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch2_7_1.png" alt="数学建模">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_7_1.png" alt="数学建模">
 </div>
 
 但是又有很多不同，最大的不同就是没有一个标准答案。这些问题大多具有开放性和可优化性，没有最好只有更好，重在考查解决问题的过程中你所运用的数学，计算机，社会调查，材料，金融，物理，资料搜集，行业知识甚至生活常识是否得当。因此，在边学边进步的过程中，你可以快速地获得从未接触过的知识，然后迅速投入运用，之后你就掌握了它。

@@ -29,11 +29,11 @@
 准备参加生理竞赛的弟弟妹妹们，我希望你们在参加之前，仔细权衡利弊，不要轻易开始，毕竟目前生理竞赛不可保研。一旦开始，就应满怀热情，全力以赴，向着国际舞台出发，在万众瞩目中享受独属于你的高光时刻。
 
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch2_3_1.png" alt="Balairung Hall">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_3_1.png" alt="Balairung Hall">
 </div>
 <br/>
 <div align=center>
-<img src="https://cdn.jsdelivr.net/gh/zcx980605/Survive_XYSM_dev@master/Image/Ch2_3_2.png" alt="Examination Hall">
+<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_3_2.png" alt="Examination Hall">
 </div>
 
 <p align="right">马嘉遥</p>
