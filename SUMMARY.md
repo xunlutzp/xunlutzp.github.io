@@ -47,7 +47,7 @@
         * [！小语种的学习--日语](Ch3_yu-yan-xue-xi-jie-shao/5-1.md)
         * [德语学习](Ch3_yu-yan-xue-xi-jie-shao/5-2_de-yu-xue-xi.md)
         * [法语学习感悟](Ch3_yu-yan-xue-xi-jie-shao/5-3_fa-yu-xue-xi-gan-wo.md)
-        * [！小语种的学习--俄语](Ch3_yu-yan-xue-xi-jie-shao/5-4.md)
+        * [俄语学习经验贴](Ch3_yu-yan-xue-xi-jie-shao/5-4_e-yu-xue-xi-jing-yan.md)
 * [活动与实践介绍](Ch4_huo-dong-yu-shi-jian-jie-shao/readme.md)
     * [！解剖学标本暑期制作活动](Ch4_huo-dong-yu-shi-jian-jie-shao/1.md)
     * [！社会实践团的湘西支教活动](Ch4_huo-dong-yu-shi-jian-jie-shao/2.md)

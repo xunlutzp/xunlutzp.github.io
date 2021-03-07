@@ -13,7 +13,7 @@
 * [红会志愿活动经历及心得](9_hong-hui-zhi-yuan-huo-dong-jing-li.md)
 * [篮球活动及篮球训练](10_lan-qiu-huo-dong-ji-lan-qiu-xun-lian.md)
 * [艺术团经历](11_yi-shu-tuan-jing-li.md)
-* [橘子洲长跑/附三夜跑](12.md)
+* [运动心得](12_yun-dong-xin-de.md)
 * [编程学习与应用](13_bian-cheng-xue-xi-yu-ying-yong.md)
 * [神经科学暑校活动](14-0_shen-jing-ke-xue-shu-xiao.md)
     * [中科院神经所科研实习及神经科学暑期学校经验分享](14-1_ION-shi-xi-ji-shen-jing-ke-xue-shu-xiao-jing-yan.md)

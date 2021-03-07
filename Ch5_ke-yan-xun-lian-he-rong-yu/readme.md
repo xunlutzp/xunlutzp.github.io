@@ -16,7 +16,7 @@
 + [CSU荣誉、头衔与奖学金解读](7_CSU-rong-yu-tou-xian-jiang-xue-jin-jie-du.md)
 + [综合素质测评解读](8_zong-he-su-zhi-ce-ping-jie-du.md)
 + [临五保研政策解读](9_lin-wu-bao-yan-zheng-ce-jie-du.md)
-+ [！湘雅医院本博计划解读](10.md)
++ [中南大学“本-博”拔尖创新人才培养计划选拔经验](10_CSU_ben-bo-ba-jian-chuang-xin-ji-hua-xuan-ba-jing-yan.md)
 + [综合选拔政策解读](11-0_zong-he-xuan-ba-zheng-ce-jie-du.md)
     + [精神科综合选拔经验](11-1_jing-shen-ke-zong-xuan-jing-yan.md)
     + [湘雅医院感染科综合选拔经验](11-2_xiang-ya-yi-yuan-gan-ran-ke-zong-xuan-jing-yan.md)
