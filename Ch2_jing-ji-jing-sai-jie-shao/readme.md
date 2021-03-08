@@ -2,7 +2,7 @@
 
 ----
 
-+ [全国临床技能大赛](1.md)
++ [中国大学生医学技术技能大赛参赛感想](1_yi-xue-ji-shu-ji-neng-da-sai-can-sai-gan-xiang.md)
 + [挑战杯系列赛事经验分享](2_tiao-zhan-bei-xi-lie-sai-shi-jing-yan.md)
 + [生理学竞赛经验贴](3_sheng-li-xue-jing-sai-jing-yan.md)
 + [iGEM大赛经验贴](4_iGEM-da-sai-jing-yan.md)

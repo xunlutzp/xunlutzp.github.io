@@ -2,7 +2,7 @@
 
 这是《湘雅医学院生存手册》内部测试版，不得传播
 
-本页，[前言](qian-yan.md)<sup>[ 1](#脚注1)</sup>，[声明](sheng-ming.md)，全部的[第一章：学习方法介绍](Ch1_xue-xi-fang-fa-jie-shao/readme.md)，[第二章：竞技竞赛介绍](Ch2_jing-ji-jing-sai-jie-shao/readme.md)（除外未提交的一篇），[第三章：语言学习介绍](Ch3_yu-yan-xue-xi-jie-shao/readme.md)（除外未提交的一篇），[第四章：活动与实践介绍](Ch4_huo-dong-yu-shi-jian-jie-shao/readme.md)（除外未提交的三篇），[第五章：科研训练和荣誉](Ch5_ke-yan-xun-lian-he-rong-yu/readme.md)，[第六章：基地医院实习体会](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/readme.md)（除外未提交的两篇），[第七章：国际交流项目](Ch7_guo-ji-jiao-liu-xiang-mu/readme.md)，[第八章：世界观，价值观与感悟](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/readme.md)页面填入了内容。
+本页，[前言](qian-yan.md)<sup>[ 1](#脚注1)</sup>，[声明](sheng-ming.md)，全部的[第一章：学习方法介绍](Ch1_xue-xi-fang-fa-jie-shao/readme.md)，[第二章：竞技竞赛介绍](Ch2_jing-ji-jing-sai-jie-shao/readme.md)（已全部提交，但一篇被标记为待完善），[第三章：语言学习介绍](Ch3_yu-yan-xue-xi-jie-shao/readme.md)（除外未提交的一篇），[第四章：活动与实践介绍](Ch4_huo-dong-yu-shi-jian-jie-shao/readme.md)（除外未提交的两篇），[第五章：科研训练和荣誉](Ch5_ke-yan-xun-lian-he-rong-yu/readme.md)，[第六章：基地医院实习体会](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/readme.md)（除外未提交的两篇），[第七章：国际交流项目](Ch7_guo-ji-jiao-liu-xiang-mu/readme.md)，[第八章：世界观，价值观与感悟](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/readme.md)页面填入了内容。
 
 部分附件已上传，但均未嵌入文中。
 
