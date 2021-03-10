@@ -1,4 +1,10 @@
 {
+    "title": "寻路桐梓坡",
+    "language": "zh-hans",
+    "author": "寻路桐梓坡编委会全体成员",
+    "styles": {
+        "website": "website.css"
+    },
     "plugins": [
         "-search",
         "-lunr",

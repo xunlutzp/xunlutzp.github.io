@@ -66,10 +66,11 @@
         * [中科院神经所科研实习及神经科学暑期学校经验分享](Ch4_huo-dong-yu-shi-jian-jie-shao/14-1_ION-shi-xi-ji-shen-jing-ke-xue-shu-xiao-jing-yan.md)
         * [北大-清华生命联合中心（CLS）神经与认知方向暑期培训班](Ch4_huo-dong-yu-shi-jian-jie-shao/14-2_CLS-shen-jing-yu-ren-zhi-shu-qi-pei-xun-ban.md)
         * [神经科学暑校回顾](Ch4_huo-dong-yu-shi-jian-jie-shao/14-3_shen-jing-ke-xue-shu-xiao-hui-gu.md)
-    * [！公众号建立--自媒体](Ch4_huo-dong-yu-shi-jian-jie-shao/15.md)
-    * [学习摄影的一些建议](Ch4_huo-dong-yu-shi-jian-jie-shao/16_xue-xi-she-ying-de-jian-yi.md)
-    * [湘雅之声经历](Ch4_huo-dong-yu-shi-jian-jie-shao/17_xiang-ya-zhi-sheng-jing-li.md)
-    * [湘雅内科小老师授课比赛](Ch4_huo-dong-yu-shi-jian-jie-shao/18_xiang-ya-nei-ke-xiao-lao-shi-shou-ke-bi-sai.md)
+    * [摄影的学习](Ch4_huo-dong-yu-shi-jian-jie-shao/15-0_she-ying-de-xue-xi.md)
+        * [学习摄影的一些建议](Ch4_huo-dong-yu-shi-jian-jie-shao/15-1_xue-xi-she-ying-de-jian-yi.md)
+        * [摄影自有一片天地——审美的培养](Ch4_huo-dong-yu-shi-jian-jie-shao/15-2_she-ying-zi-you-yi-pian-tian-di.md)
+    * [湘雅之声经历](Ch4_huo-dong-yu-shi-jian-jie-shao/16_xiang-ya-zhi-sheng-jing-li.md)
+    * [湘雅内科小老师授课比赛](Ch4_huo-dong-yu-shi-jian-jie-shao/17_xiang-ya-nei-ke-xiao-lao-shi-shou-ke-bi-sai.md)
 * [科研训练和荣誉](Ch5_ke-yan-xun-lian-he-rong-yu/readme.md)
     * [大学生创新创业心得](Ch5_ke-yan-xun-lian-he-rong-yu/1_da-chuang-xin-de.md)
     * [基础医学技能学习介绍](Ch5_ke-yan-xun-lian-he-rong-yu/2_ji-chu-yi-xue-ji-neng-xue-xi-jie-shao.md)
@@ -122,6 +123,3 @@
     * [何为“临床躺学”](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/7_he-wei-lin-chuang-tang-xue.md)
     * [学习生活中常见问题的Tips](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/8_xue-xi-sheng-huo-chang-jian-wen-ti-TIPS.md)
     * [社论——按图索骥VS自由探索](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/9_she-lun-an-tu-suo-ji-VS-zi-you-tan-suo.md)
-
-
-
