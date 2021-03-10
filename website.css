@@ -1,0 +1,29 @@
+.markdown-section h2{
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-left-color: #ccc;
+    text-indent: 4px;
+    margin-top: 1em;
+    margin-bottom: .5em;
+    font-weight: 700;
+}
+.markdown-section h3{
+    margin-top: 1em;
+    margin-bottom: .5em;
+    font-weight: 500;
+}
+.markdown-section h4{
+    margin-top: .75em;
+    margin-bottom: .25em;
+    font-weight: 300;
+}
+.markdown-section h5{
+    margin-top: .75em;
+    margin-bottom: .25em;
+    font-weight: 300;
+}
+.markdown-section h6{
+    margin-top: .75em;
+    margin-bottom: .25em;
+    font-weight: 300;
+}
