@@ -45,39 +45,39 @@
 
 Q1：参加iGEM需要具备哪些技能？
 
-<table border="1">
+<table>
     <tbody>
         <tr>
-            <th width="141" rowspan="2" style="border:solid windowtext 1.0pt;">
+            <th rowspan="2" style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>项目</b>
                 </p>
             </th>
-            <th width="104" rowspan="2" style="border:solid windowtext 1.0pt;">
+            <th rowspan="2" style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>专业知识</b>
                 </p>
             </th>
-            <th width="312" colspan="2" style="border:solid windowtext 1.0pt;">
+            <th colspan="2" style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>技能</b>
                 </p>
             </th>
         </tr>
         <tr>
-            <th width="151" style="border:solid windowtext 1.0pt;">
+            <th style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>必备</b>
                 </p>
             </th>
-            <th width="161" style="border:solid windowtext 1.0pt;">
+            <th style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>包括但不限于</b>
                 </p>
             </th>
         </tr>
         <tr>
-            <td width="141" rowspan="2" style="border:solid windowtext 1.0pt;">
+            <td rowspan="2" style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>Experiment</b>
                 </p>
@@ -85,36 +85,36 @@ Q1：参加iGEM需要具备哪些技能？
                     <b>实验</b>
                 </p>
             </td>
-            <td width="104" rowspan="2" style="border:solid windowtext 1.0pt;">
+            <td rowspan="2" style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     分子生物学
                 </p>
             </td>
-            <td width="151" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     DNA水平试验技能（PCR、养细胞、提质粒、转染、核酸电泳等）
                 </p>
             </td>
-            <td width="161" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     RNA/蛋白/表观水平试验技能（动物实验较少）
                 </p>
             </td>
         </tr>
         <tr>
-            <td width="151" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     简单数据处理、作图
                 </p>
             </td>
-            <td width="161" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     SPSS, GraphPad, excel
                 </p>
             </td>
         </tr>
         <tr>
-            <td width="141" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>Human
                         Practices</b>
@@ -123,24 +123,24 @@ Q1：参加iGEM需要具备哪些技能？
                     <b>人文参与</b>
                 </p>
             </td>
-            <td width="104" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     无特殊
                 </p>
             </td>
-            <td width="151" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     策划、宣传、组织、外联
                 </p>
             </td>
-            <td width="161" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     表演、宣讲、新媒体
                 </p>
             </td>
         </tr>
         <tr>
-            <td width="141" rowspan="2" style="border:solid windowtext 1.0pt;">
+            <td rowspan="2" style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>Modeling</b>
                 </p>
@@ -148,17 +148,17 @@ Q1：参加iGEM需要具备哪些技能？
                     <b>建模</b>
                 </p>
             </td>
-            <td width="104" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     数学建模
                 </p>
             </td>
-            <td width="151" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     生物建模&amp;数据拟合
                 </p>
             </td>
-            <td width="161" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     MATLAB, Orgin, Python, R, Perl等；
                 </p>
@@ -168,24 +168,24 @@ Q1：参加iGEM需要具备哪些技能？
             </td>
         </tr>
         <tr>
-            <td width="104" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     生物信息学
                 </p>
             </td>
-            <td width="151" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     复杂数据处理、生物数据库使用
                 </p>
             </td>
-            <td width="161" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     Python, R, Perl等任何可用于高通量数据处理软件/编程语言
                 </p>
             </td>
         </tr>
         <tr>
-            <td width="141" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>Art
                         &amp; Design</b>
@@ -194,24 +194,24 @@ Q1：参加iGEM需要具备哪些技能？
                     <b>美工</b>
                 </p>
             </td>
-            <td width="104" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     美术、设计
                 </p>
             </td>
-            <td width="151" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     平面设计（海报、网站、宣传材料等）
                 </p>
             </td>
-            <td width="161" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     Ae, Pr, Ps, 板绘
                 </p>
             </td>
         </tr>
         <tr>
-            <td width="141" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>Wiki</b>
                 </p>
@@ -219,24 +219,24 @@ Q1：参加iGEM需要具备哪些技能？
                     <b>网站搭建</b>
                 </p>
             </td>
-            <td width="104" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     前端框架搭建
                 </p>
             </td>
-            <td width="151" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     HTML、CSS、 JAVAScript
                 </p>
             </td>
-            <td width="161" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     C/C++, JAVA, Python等任一高级编程语言
                 </p>
             </td>
         </tr>
         <tr>
-            <td width="141" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>Article
                         &amp; Presentation</b>
@@ -245,17 +245,17 @@ Q1：参加iGEM需要具备哪些技能？
                     <b>项目成文与汇报</b>
                 </p>
             </td>
-            <td width="104" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     英语
                 </p>
             </td>
-            <td width="151" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     口语、英语论文写作、生物/医学专业英语
                 </p>
             </td>
-            <td width="161" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     托福、雅思等
                 </p>
@@ -263,41 +263,42 @@ Q1：参加iGEM需要具备哪些技能？
         </tr>
     </tbody>
 </table>
-<br/>
+
+<p></p>
 
 Q2：临床专业参与哪个方向收益最大？报名哪个方向最有竞争力？
 
-<table border="1">
+<table>
     <tbody>
         <tr>
-            <th width="106" style="border:solid windowtext 1.0pt;">
+            <th style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>项目</b>
                 </p>
             </th>
-            <th width="84" style="border:solid windowtext 1.0pt;">
+            <th style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>收益度<br />/5星</b>
                 </p>
             </th>
-            <th width="128" style="border:solid windowtext 1.0pt;">
+            <th style="border:solid windowtext 1.0pt;">
                 <p align="center">
-                    <b>建议</b>
+                    <b>&emsp;&emsp;建议&emsp;&emsp;</b>
                 </p>
             </th>
-            <th width="84" style="border:solid windowtext 1.0pt;">
+            <th style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>竞争力<br />/5星</b>
                 </p>
             </th>
-            <th width="159" style="border:solid windowtext 1.0pt;">
+            <th style="border:solid windowtext 1.0pt;">
                 <p align="center">
-                    <b>建议</b>
+                    <b>&emsp;&emsp;建议&emsp;&emsp;</b>
                 </p>
             </th>
         </tr>
         <tr>
-            <td width="106" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>Experiment</b>
                 </p>
@@ -305,29 +306,29 @@ Q2：临床专业参与哪个方向收益最大？报名哪个方向最有竞争
                     <b>实验</b>
                 </p>
             </td>
-            <td width="84" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     ☆☆☆
                 </p>
             </td>
-            <td width="128" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     脱离临床的基础实验技能，对于临床研究来说并非必备。建议具有相关技能或未来规划者选择。
                 </p>
             </td>
-            <td width="84" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     ☆
                 </p>
             </td>
-            <td width="159" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     临床同学即使具有一定的基础实验技能，也往往比生命科学、基础医学专业的同学的实验水平差一些。不具有竞争力。
                 </p>
             </td>
         </tr>
         <tr>
-            <td width="106" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>Human
                         Practices</b>
@@ -336,29 +337,29 @@ Q2：临床专业参与哪个方向收益最大？报名哪个方向最有竞争
                     <b>人文参与</b>
                 </p>
             </td>
-            <td width="84" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     ☆☆☆☆
                 </p>
             </td>
-            <td width="128" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     组织、策划、宣传都属于实用技能，职场必备。即使没有专门选择也可以参与。
                 </p>
             </td>
-            <td width="84" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     ☆☆☆☆
                 </p>
             </td>
-            <td width="159" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     需要有一定相关经历，从事过学生组织工作、项目策划、新媒体运营者为佳。具有一定竞争力。
                 </p>
             </td>
         </tr>
         <tr>
-            <td width="106" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>Modeling</b>
                 </p>
@@ -366,29 +367,29 @@ Q2：临床专业参与哪个方向收益最大？报名哪个方向最有竞争
                     <b>建模</b>
                 </p>
             </td>
-            <td width="84" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     ☆☆☆☆
                 </p>
             </td>
-            <td width="128" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     数学建模预测、生物信息学技术，即使在临床研究中也可以用到且较吃香。建议具有相关技能或规划者选择。
                 </p>
             </td>
-            <td width="84" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     ☆
                 </p>
             </td>
-            <td width="159" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     需要相关技能。一般由生物信息专业的同学来做，临床同学竞争力较差。
                 </p>
             </td>
         </tr>
         <tr>
-            <td width="106" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>Art
                         &amp; Design</b>
@@ -397,29 +398,29 @@ Q2：临床专业参与哪个方向收益最大？报名哪个方向最有竞争
                     <b>美工</b>
                 </p>
             </td>
-            <td width="84" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     ☆☆
                 </p>
             </td>
-            <td width="128" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     通用技能，学了不亏，各种场合都拿得出手。建议具有相关技能的爱好者选择。
                 </p>
             </td>
-            <td width="84" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     ☆☆
                 </p>
             </td>
-            <td width="159" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     需要相关技能，最好有一些作品。
                 </p>
             </td>
         </tr>
         <tr>
-            <td width="106" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>Wiki</b>
                 </p>
@@ -427,29 +428,29 @@ Q2：临床专业参与哪个方向收益最大？报名哪个方向最有竞争
                     <b>网站搭建</b>
                 </p>
             </td>
-            <td width="84" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     ☆
                 </p>
             </td>
-            <td width="128" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     建议具有相关技能的爱好者及想转行前端程序员者选择。
                 </p>
             </td>
-            <td width="84" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     ☆☆☆
                 </p>
             </td>
-            <td width="159" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     需要相关技能。但这方面人才较少，选拔标准较低，具有相关技能者较有竞争力。
                 </p>
             </td>
         </tr>
         <tr>
-            <td width="106" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p align="center">
                     <b>Article
                         &amp; Presentation</b>
@@ -458,22 +459,22 @@ Q2：临床专业参与哪个方向收益最大？报名哪个方向最有竞争
                     <b>项目成文与汇报</b>
                 </p>
             </td>
-            <td width="84" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     ☆☆☆☆☆
                 </p>
             </td>
-            <td width="128" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     提高自身专业英语、书面、口语能力，得到一个在国际平台交流学习、展示自我的机会，可以与世界各地一流大学团队交流切磋。
                 </p>
             </td>
-            <td width="84" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     ☆☆☆☆☆
                 </p>
             </td>
-            <td width="159" style="border:solid windowtext 1.0pt;">
+            <td style="border:solid windowtext 1.0pt;">
                 <p>
                     需要较高英语水平，在托福高分的基础上，有出国交流、大会汇报论文写作经历者为佳。临床同学英语高手很多，比较具有竞争力。
                 </p>
@@ -481,7 +482,6 @@ Q2：临床专业参与哪个方向收益最大？报名哪个方向最有竞争
         </tr>
     </tbody>
 </table>
-<br/>
 
 ## 大赛赛程
 
@@ -489,95 +489,93 @@ Q2：临床专业参与哪个方向收益最大？报名哪个方向最有竞争
 <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_4_4.png" alt="iGEM竞赛赛程">
 </div>
 
-<br/>
-
-<table border="1" style="border-collapse:collapse;border:none;">
+<table>
 	<tbody>
 		<tr>
-			<th width="276" valign="middle" style="border:solid windowtext 1.0pt;">
+			<th valign="middle" style="border:solid windowtext 1.0pt;">
 				<p align="center">
 					<b>时间</b>
 				</p>
 			</th>
-			<th width="277" valign="middle" style="border:solid windowtext 1.0pt;">
+			<th valign="middle" style="border:solid windowtext 1.0pt;">
 				<p align="center">
 					<b>项目</b>
 				</p>
 			</th>
 		</tr>
 		<tr>
-			<td width="276" rowspan="3" style="border:solid windowtext 1.0pt;">
+			<td rowspan="3" style="border:solid windowtext 1.0pt;">
 				<p align="center">
 					<b>二月至五月</b>
 				</p>
 			</td>
-			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
+			<td valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					建立团队&amp;筹集项目资金
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
+			<td valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					头脑风暴&amp;选题
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
+			<td valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					确定研究目标&amp;制定并分配任务
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td width="276" rowspan="3" style="border:solid windowtext 1.0pt;">
+			<td rowspan="3" style="border:solid windowtext 1.0pt;">
 				<p align="center">
 					<b>六月至八月</b>
 				</p>
 			</td>
-			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
+			<td valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					开始湿实验
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
+			<td valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					完成数学建模、人文参与、硬/软件设计等
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
+			<td valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					处理实验数据，形成项目成果
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td width="276" rowspan="3" style="border:solid windowtext 1.0pt;">
+			<td rowspan="3" style="border:solid windowtext 1.0pt;">
 				<p align="center">
 					<b>九月、十月</b>
 				</p>
 			</td>
-			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
+			<td valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					设计并完成Wiki、海报、展示
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
+			<td valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					提交实验样品
 				</p>
 			</td>
 		</tr>
 		<tr>
-			<td width="277" valign="middle" style="border:solid windowtext 1.0pt;">
+			<td valign="middle" style="border:solid windowtext 1.0pt;">
 				<p>
 					参加Giant Jamboree展示研究成果
 				</p>
@@ -585,7 +583,6 @@ Q2：临床专业参与哪个方向收益最大？报名哪个方向最有竞争
 		</tr>
 	</tbody>
 </table>
-<br/>
 
 下面是前几届一些队伍的wiki，有时间可以观摩一下。
 
