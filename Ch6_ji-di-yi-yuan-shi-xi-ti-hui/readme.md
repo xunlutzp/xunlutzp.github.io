@@ -10,6 +10,6 @@
 + [长沙市第一医院实习经验](6_chang-sha-shi-yi-yi-yuan-shi-xi-jing-yan.md)
 + [长沙市第三医院实习经验](7_chang-sha-shi-san-yi-yuan-shi-xi-jing-yan.md)
 + [长沙市中心医院实习经历](8_chang-sha-shi-zhong-xin-yi-yuan-shi-xi-jing-li.md)
-+ [！湘雅医院实习体会](9.md)
++ [湘雅医院实习心得](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/9_xiang-ya-fu-yi-shi-xi-xin-de.md)
 + [！湘雅二医院实习体会](10.md)
 + [湘雅三医院实习体会](11_xiang-ya-fu-san-shi-xi-ti-hui.md)
