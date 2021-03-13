@@ -44,5 +44,4 @@ CLS暑期培训班每年在不同的地方举办，一般是一年在北大，�
 <div align=center>
 <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_14-2_3.jpeg" alt="2018CLS神经认知夏令营流程">
 </div>
-<br/>
 <p align="right">唐牧云<br/>写于2021年3月2日</p>

@@ -7,12 +7,17 @@
     border-left-style: solid;
     border-left-width: 3px;
     border-left-color: #ccc;
-    text-indent: 6px;
+    padding-left: 6px;
     margin-top: 1em;
     margin-bottom: .5em;
     font-weight: 500;
 }
 .markdown-section h4{
+    text-decoration-style: solid;
+    text-decoration-line: underline;
+    text-decoration-color: #000;
+    text-underline-position: under;
+    padding-left: 2px;
     margin-top: .75em;
     margin-bottom: .25em;
     font-weight: 500;
@@ -20,7 +25,7 @@
 .markdown-section h5{
     margin-top: .75em;
     margin-bottom: .25em;
-    font-weight: 300;
+    font-weight: 500;
 }
 .markdown-section h6{
     margin-top: .75em;
