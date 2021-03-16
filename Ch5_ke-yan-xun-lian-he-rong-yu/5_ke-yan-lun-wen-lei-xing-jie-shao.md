@@ -8,21 +8,21 @@
 
 **《The New England Journal of Medicine》**<sup>[\[2\]](#脚注2)</sup>
 
-|文章类型|文章要求|
+|文章类型|&emsp;&emsp;&emsp;文章要求&emsp;&emsp;&emsp;|
 |----|----|
-|Original Research--Original Article|2700字，5个图/表，40个参考文献|
-|Original Research--Special Article|2700字，5个图/表，40个参考文献|
-|Clinical Cases--Brief Report|2000字，3个图/表，25个参考文献，1-3个病人或单个家系|
-|Clinical Cases--Clinical Problem Solving|2500字，25个参考文献|
-|Review Articles-- Clinical Practice Review|2500字，50个参考文献，临床相关|
-|Commentary--Editorial|750字，1个图/表，10个参考文献|
-|Commentary-- Perspective|1200字，1个表/图，5个参考文献|
-|Commentary-- Clinical Implications of Basic Research|750字，1个图，5个参考文献|
-|Commentary-- Letter to the Editor|175/400字，3周内/3周外发表文章，3名作者|
-|Visual Articles--Images in Clinical Medicines|高质量，高分辨率，2名作者，同行评议|
-|Visual Articles--Videos in Clinical Medicines|见网址要求|
+|Original Research<br/>&emsp;-Original Article|2700字，5个图/表，40个参考文献|
+|Original Research<br/>&emsp;-Special Article|2700字，5个图/表，40个参考文献|
+|Clinical Cases<br/>&emsp;-Brief Report|2000字，3个图/表，25个参考文献，1-3个病人或单个家系|
+|Clinical Cases<br/>&emsp;-Clinical Problem Solving|2500字，25个参考文献|
+|Review Articles<br/>&emsp;-Clinical Practice Review|2500字，50个参考文献，临床相关|
+|Commentary<br/>&emsp;-Editorial|750字，1个图/表，10个参考文献|
+|Commentary<br/>&emsp;- Perspective|1200字，1个表/图，5个参考文献|
+|Commentary<br/>&emsp;-Clinical Implications of<br/>&emsp;&ensp;Basic Research|750字，1个图，5个参考文献|
+|Commentary<br/>&emsp;-Letter to the Editor|175/400字，3周内/3周外发表文章，3名作者|
+|Visual Articles<br/>&emsp;-Images in Clinical Medicines|高质量，高分辨率，2名作者，同行评议|
+|Visual Articles<br/>&emsp;-Videos in Clinical Medicines|见网址要求|
 |Special Reports|2700字，5个条目，40个参考文献|
-|Health Law, Ethics, and Human Rights or Health Policy Report|2500字，与法律，道德，或人权相关|
+|Health Law, Ethics, and Human<br/>Rights or Health Policy Report|2500字，与法律，道德，或人权相关|
 |Medicine and Society|2000字，医疗相关的社会问题|
 |Sounding Board|2000字，卫生政策问题的评论|
 
@@ -34,7 +34,7 @@
 |----|----|
 |Articles|原始报告，不超过5页，3-4个图/表，2000-2500字，30-50个参考文献|
 |News and Commentary|编辑撰写或委托|
-|Correspondence/ letters to the Editor|3名作者，单个机构，热点问题简短评论|
+|Correspondence/<br/>letters to the Editor|3名作者，单个机构，热点问题简短评论|
 |Obituaries（讣告）|诺贝尔奖得主或同等地位的科学家|
 |Commentary|对政治、伦理和社会影响有关的热点问题采取行动的评论|
 |Books & Arts|书籍、艺术展览、表演等文化活动的评论，编辑委托|

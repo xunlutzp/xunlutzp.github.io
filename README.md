@@ -15,14 +15,39 @@
 
 + [第一章：学习方法介绍](Ch1_xue-xi-fang-fa-jie-shao/readme.md)（一篇未提交，且未编入目录）❌
 + [第二章：竞技竞赛介绍](Ch2_jing-ji-jing-sai-jie-shao/readme.md)（已全部提交，但一篇被标记为待完善）⭕
-+ [第三章：语言学习介绍](Ch3_yu-yan-xue-xi-jie-shao/readme.md)（已全部提交）✔
++ [第三章：语言学习介绍](Ch3_yu-yan-xue-xi-jie-shao/readme.md)（已全部提交）✅
 + [第四章：活动与实践介绍](Ch4_huo-dong-yu-shi-jian-jie-shao/readme.md)（一篇未提交）❌
-+ [第五章：科研训练和荣誉](Ch5_ke-yan-xun-lian-he-rong-yu/readme.md)（已全部提交）✔
-+ [第六章：基地医院实习体会](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/readme.md)（一篇未提交，一篇被标记为待完善）❌
-+ [第七章：国际交流项目](Ch7_guo-ji-jiao-liu-xiang-mu/readme.md)（已全部提交）✔
++ [第五章：科研训练和荣誉](Ch5_ke-yan-xun-lian-he-rong-yu/readme.md)（已全部提交）✅
++ [第六章：基地医院实习体会](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/readme.md)（已全部提交，但一篇被标记为待完善）⭕
++ [第七章：国际交流项目](Ch7_guo-ji-jiao-liu-xiang-mu/readme.md)（已全部提交）✅
 + [第八章：世界观，价值观与感悟](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/readme.md)（一篇未提交）❌
 
 部分附件已上传，但均未嵌入文中。
+
+## 网页版排版进度
+
+### 第一阶段（转写）
+
+转写全部已提交的Word文档为Markdown文档并进行初步排版（已完成）✅
+
++ 开始于2021/03/03
++ 结束于2021/03/08
++ 17次提交（含1个合并请求）：328 changed files with 6,173 additions and 911 deletions.
+    + 差异比较：[d58e30d...adefe80](https://github.com/zcx980605/Survive_XYSM_dev/compare/d58e30d...d88c130)
+
+### 第二阶段（精细排版）
+
+统一正文排版风格、标题风格、署名格式，编写CSS覆盖Gitbook默认主题的标题格式，调整所有内嵌的表格相关HTML代码以解决边框、空白等已知问题，解决移动设备上表格列宽不足等 + 完成附件嵌入，合入新提交的文档（正在进行）⏳
+
++ 开始于：2021/03/10
+
+### 第三阶段（内容无关校对）
+
+更正标点符号错误，更正常见错别字，删除多余空格、回车 + 合入新提交的文档（未开始）🕘
+
+### 第四阶段（内容校对）
+
+合入内容校对组的修改（未开始）🕘
 
 ----
 
@@ -45,7 +70,7 @@
     
 + 为超宽表格添加横向滚动条：[iGEM大赛经验贴](Ch2_jing-ji-jing-sai-jie-shao/4_iGEM-da-sai-jing-yan.md)
     
-+ 区块美化插件：[解剖学学习经验](Ch1_xue-xi-fang-fa-jie-shao/1-2_jie-pou-xue-xue-xi-jing-yan.md)，[局部解剖学学习体会](Ch1_xue-xi-fang-fa-jie-shao/1-4_ju-bu-jie-pou-xue-xue-xi-ti-hui.md)，[内科学学习心得](Ch1_xue-xi-fang-fa-jie-shao/5-2_nei-ke-xue-xue-xi-xin-de.md)，[药理学学习经验分享](Ch1_xue-xi-fang-fa-jie-shao/3_yao-li-xue-xue-xi-jing-yan.md)，[妇产科学学习攻略](Ch1_xue-xi-fang-fa-jie-shao/6_fu-chan-ke-xue-xue-xi-gong-lve.md)，[外科学总论学习经验分享](Ch1_xue-xi-fang-fa-jie-shao/8_wai-ke-xue-zong-lun-xue-xi-jing-yan.md)，[全国大学生英语竞赛C类经验贴](Ch2_jing-ji-jing-sai-jie-shao/6-1_ying-yu-jing-sai-C-lei-jing-yan.md)，[托福学习经验](Ch3_yu-yan-xue-xi-jie-shao/1_tuo-fu-xue-xi-jing-yan.md)，[医学英语学习](Ch3_yu-yan-xue-xi-jie-shao/4_yi-xue-ying-yu-xue-xi.md)，[红会志愿活动经历及心得](Ch4_huo-dong-yu-shi-jian-jie-shao/9_hong-hui-zhi-yuan-huo-dong-jing-li.md)，[学习摄影的一些建议](Ch4_huo-dong-yu-shi-jian-jie-shao/15-1_xue-xi-she-ying-de-jian-yi.md)，[综合素质测评解读](Ch5_ke-yan-xun-lian-he-rong-yu/8_zong-he-su-zhi-ce-ping-jie-du.md)，[临五保研政策解读](Ch5_ke-yan-xun-lian-he-rong-yu/9_lin-wu-bao-yan-zheng-ce-jie-du.md)，[耶鲁大学短期交换经验贴](Ch7_guo-ji-jiao-liu-xiang-mu/1_ye-lu-da-xue-duan-qi-jiao-huan-jing-yan.md)，[常德实习生活心得体会](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/2_chang-de-shi-xi-sheng-huo-xin-de-ti-hui.md)，[长沙市第一医院实习经验](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/6_chang-sha-shi-yi-yi-yuan-shi-xi-jing-yan.md)，[长沙市第三医院实习经验](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/7_chang-sha-shi-san-yi-yuan-shi-xi-jing-yan.md)，[湘雅医院实习心得](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/9_xiang-ya-fu-yi-shi-xi-xin-de.md)，[何为“临床躺学”](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/7_he-wei-lin-chuang-tang-xue.md)。
++ 区块美化插件：[解剖学学习经验](Ch1_xue-xi-fang-fa-jie-shao/1-2_jie-pou-xue-xue-xi-jing-yan.md)，[局部解剖学学习体会](Ch1_xue-xi-fang-fa-jie-shao/1-4_ju-bu-jie-pou-xue-xue-xi-ti-hui.md)，[内科学学习心得](Ch1_xue-xi-fang-fa-jie-shao/5-2_nei-ke-xue-xue-xi-xin-de.md)，[药理学学习经验分享](Ch1_xue-xi-fang-fa-jie-shao/3_yao-li-xue-xue-xi-jing-yan.md)，[妇产科学学习攻略](Ch1_xue-xi-fang-fa-jie-shao/6_fu-chan-ke-xue-xue-xi-gong-lve.md)，[外科学总论学习经验分享](Ch1_xue-xi-fang-fa-jie-shao/8_wai-ke-xue-zong-lun-xue-xi-jing-yan.md)，[全国大学生英语竞赛C类经验贴](Ch2_jing-ji-jing-sai-jie-shao/6-1_ying-yu-jing-sai-C-lei-jing-yan.md)，[托福学习经验](Ch3_yu-yan-xue-xi-jie-shao/1_tuo-fu-xue-xi-jing-yan.md)，[医学英语学习](Ch3_yu-yan-xue-xi-jie-shao/4_yi-xue-ying-yu-xue-xi.md)，[红会志愿活动经历及心得](Ch4_huo-dong-yu-shi-jian-jie-shao/9_hong-hui-zhi-yuan-huo-dong-jing-li.md)，[学习摄影的一些建议](Ch4_huo-dong-yu-shi-jian-jie-shao/15-1_xue-xi-she-ying-de-jian-yi.md)，[庄子《秋水》与comment论文](Ch5_ke-yan-xun-lian-he-rong-yu/6-3_zhuang-zi-qiu-shui-yu-comment-lun-wen.md)，[综合素质测评解读](Ch5_ke-yan-xun-lian-he-rong-yu/8_zong-he-su-zhi-ce-ping-jie-du.md)，[临五保研政策解读](Ch5_ke-yan-xun-lian-he-rong-yu/9_lin-wu-bao-yan-zheng-ce-jie-du.md)，[耶鲁大学短期交换经验贴](Ch7_guo-ji-jiao-liu-xiang-mu/1_ye-lu-da-xue-duan-qi-jiao-huan-jing-yan.md)，[常德实习生活心得体会](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/2_chang-de-shi-xi-sheng-huo-xin-de-ti-hui.md)，[长沙市第一医院实习经验](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/6_chang-sha-shi-yi-yi-yuan-shi-xi-jing-yan.md)，[长沙市第三医院实习经验](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/7_chang-sha-shi-san-yi-yuan-shi-xi-jing-yan.md)，[湘雅医院实习心得](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/9_xiang-ya-fu-yi-shi-xi-xin-de.md)，[何为“临床躺学”](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/7_he-wei-lin-chuang-tang-xue.md)。
 
 #### 可能存在兼容性问题的
 

@@ -70,12 +70,12 @@
     <table style="border-collapse:collapse;border:none;">
         <tr style="vertical-align:bottom;border-collapse:collapse;
         border:none;">
-            <td style="border-collapse:collapse;border:none;padding:0;">
+            <td style="border-collapse:collapse;border:none;padding-bottom:0;padding-top:0;">
                 <div align="center">
                     <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch3_5-1_8.jpeg" alt="大家的日语">
                 </div>
             </td>
-            <td style="border-collapse:collapse;border:none;padding:0;">
+            <td style="border-collapse:collapse;border:none;padding-bottom:0;padding-top:0;">
                 <div align="center">
                     <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch3_5-1_9.jpeg" alt="标准日本语">
                 </div>
@@ -145,7 +145,6 @@
 <br/>看到语法想到相应的例句（图片来源<b>语行者日语</b>，仅用于学习交流）
 </p>
 
-
 ### 备考JLPT的感受
 
 <div align=center>
@@ -199,8 +198,8 @@
         <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch3_5-1_18.png" alt="促音变规则">
         <br/>（图片来源于沪江日语，仅用于学习交流）
         </p>
-
-        （PS：全文可见https://jp.hjenglish.com/new/p439583/ ）
+        
+        PS：全文可见https://jp.hjenglish.com/new/p439583/
 
 + **阅读：**n1阅读相比n2难了不少，但做题的思路大同小异。**在单词大致过关的基础上，掌握日语长难句的阅读方法以及做题技巧，阅读基本上可以拿到比较好的分数。**一般来说，N1阅读题目是按文字的顺序出题（**顺序原则**），同时N1阅读通常先举一个比较深奥的例子，再给出一个观点；或者说先给出一个深奥难懂的观点，再举一些帮助我们理解的例子。观点句往往是题目的考点，通常也是长难句。读懂观点句意思往往能够帮助我们解题。此外，日语长难句还有一个特点：句子的主干意思通常落在句子的后半部分（**重心靠后**）。因此，当遇到长难句时可以先去看句子后半部分，读懂句子主干的意思，然后再进一步去理解这个句子。
 
@@ -216,12 +215,12 @@
 <table style="border-collapse:collapse;border:none;">
     <tr style="vertical-align:bottom;border-collapse:collapse;
     border:none;">
-        <td style="border-collapse:collapse;border:none;padding:0;">
+        <td style="border-collapse:collapse;border:none;padding-bottom:0;padding-top:0;">
             <div align="center">
                 <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch3_5-1_20.jpeg" alt="新日语能力考试考前对策N1·听力">
             </div>
         </td>
-        <td style="border-collapse:collapse;border:none;padding:0;">
+        <td style="border-collapse:collapse;border:none;padding-bottom:0;padding-top:0;">
             <div align="center">
                 <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch3_5-1_21.jpeg" alt="新日语能力考试考前对策N1·读解">
             </div>
@@ -234,12 +233,12 @@
 <table style="border-collapse:collapse;border:none;">
     <tr style="vertical-align:bottom;border-collapse:collapse;
     border:none;">
-        <td style="border-collapse:collapse;border:none;padding:0;">
+        <td style="border-collapse:collapse;border:none;padding-bottom:0;padding-top:0;">
             <div align="center">
                 <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch3_5-1_22.jpeg" alt="日语N1听力App下载（华为应用市场）">
             </div>
         </td>
-        <td style="border-collapse:collapse;border:none;padding:0;">
+        <td style="border-collapse:collapse;border:none;padding-bottom:0;padding-top:0;">
             <div align="center">
                 <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch3_5-1_23.jpeg" alt="日语N1听力App截图">
             </div>
@@ -252,12 +251,12 @@
 <table style="border-collapse:collapse;border:none;">
     <tr style="vertical-align:bottom;border-collapse:collapse;
     border:none;">
-        <td style="border-collapse:collapse;border:none;padding:0;">
+        <td style="border-collapse:collapse;border:none;padding-bottom:0;padding-top:0;">
             <div align="center">
                 <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch3_5-1_24.jpeg" alt="沪江开心词场App下载（华为应用市场）">
             </div>
         </td>
-        <td style="border-collapse:collapse;border:none;padding:0;">
+        <td style="border-collapse:collapse;border:none;padding-bottom:0;padding-top:0;">
             <div align="center">
                 <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch3_5-1_25.jpeg" alt="沪江开心词场App截图">
             </div>

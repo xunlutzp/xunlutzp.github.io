@@ -103,7 +103,7 @@
     * [长沙市第三医院实习经验](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/7_chang-sha-shi-san-yi-yuan-shi-xi-jing-yan.md)
     * [长沙市中心医院实习经历](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/8_chang-sha-shi-zhong-xin-yi-yuan-shi-xi-jing-li.md)
     * [湘雅医院实习心得](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/9_xiang-ya-fu-yi-shi-xi-xin-de.md)
-    * [！湘雅二医院实习体会](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/10.md)
+    * [湘雅二医院实习体会](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/10_xiang-ya-fu-er-shi-xi-ti-hui.md)
     * [湘雅三医院实习体会](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/11_xiang-ya-fu-san-shi-xi-ti-hui.md)
 * [国际交流项目](Ch7_guo-ji-jiao-liu-xiang-mu/readme.md)
     * [耶鲁大学短期交换经验贴](Ch7_guo-ji-jiao-liu-xiang-mu/1_ye-lu-da-xue-duan-qi-jiao-huan-jing-yan.md)
