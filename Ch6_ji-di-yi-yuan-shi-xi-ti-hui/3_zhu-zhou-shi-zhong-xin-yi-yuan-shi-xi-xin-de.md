@@ -35,19 +35,31 @@
 
 株洲市中心医院比较重视临床技能大赛，一般在相关通知下来后就会组队参加技能大赛，组员一般要求保研的同学必须参加，有特殊原因不能参加者除外。参加技能大赛的同学成绩前85%或者初赛每个项目都合格的同学可以免中期考核。培训的时间要求是早上8点到晚上9点，中间饭点可以休息两三个小时，但具体训练时间因为老师不全程陪同，可以自行调整。培训的老师主要是临床的医生，有的并不是专门搞竞赛的老师，所以在教学方面还是以评分标准为准。如果不是特别反感培训的同学，都建议报名参加一下。在整个过程中，不仅可以提高自己的临床技能，还可以在比赛过程中收获到好多乐趣。获得团队奖医院会对参赛队员有一定奖励。
 
-附：寝室和自习室照片
+## 附：寝室和自习室照片
 
-<table border=0 align="center">
-    <tr>
-        <td><div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch6_3_1.jpeg" alt="株洲市中心医院宿舍走廊"></div>
+<table style="border-collapse:collapse;border:none;">
+    <tr style="border-collapse:collapse;border:none;">
+        <td style="border-collapse:collapse;border:none;">
+            <div align=center>
+                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch6_3_1.jpeg" alt="株洲市中心医院宿舍走廊">
+            </div>
         </td>
-        <td><div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch6_3_2.jpeg" alt="株洲市中心医院宿舍内景p1"></div>
+        <td style="border-collapse:collapse;border:none;">
+            <div align=center>
+                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch6_3_2.jpeg" alt="株洲市中心医院宿舍内景p1">
+            </div>
         </td>
     </tr>
-    <tr>
-        <td><div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch6_3_3.jpeg" alt="株洲市中心医院宿舍内景p2"></div>
+    <tr style="border-collapse:collapse;border:none;">
+        <td style="border-collapse:collapse;border:none;">
+            <div align=center>
+                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch6_3_3.jpeg" alt="株洲市中心医院宿舍内景p2">
+            </div>
         </td>
-        <td><div align=center><img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch6_3_4.jpeg" alt="株洲市中心医院自习室"></div>
+        <td style="border-collapse:collapse;border:none;">
+            <div align=center>
+                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch6_3_4.jpeg" alt="株洲市中心医院自习室">
+            </div>
         </td>
     </tr>
 </table>

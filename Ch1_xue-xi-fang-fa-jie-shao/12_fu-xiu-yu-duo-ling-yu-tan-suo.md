@@ -22,7 +22,7 @@
 1. 打开 http://tz.its.csu.edu.cn/ ，输入你的账户密码，在检索栏里输入“辅修”并检索，这样历年来的辅修通知你都可以看到。
 
     <div align=center>
-    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch1_11_1.png" alt="查找辅修相关通知p1">
+    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch1_12_1.png" alt="查找辅修相关通知p1">
     </div>
 
     根据文件我们不难发现，中南大学的辅修自2014年开设，2017年起模式趋向稳定，后期的文件往往也不会发生太大变化。我们来看红框中选中的内容，是每一年辅修文件的发布时间。不难发现，辅修文件往往是在【第一学年的第二个学期开头或期末】发布的。
@@ -32,13 +32,13 @@
     举个例子：在2020年发布的辅修通知中，是2019级（大一即将结束，大二尚未开始）的学生可以报名辅修学位，2018级学生（大二结束大三未开）因为延迟一年，所以只能辅修学历。假如你是2019级的学生，你大一即将结束是2020年6月左右，此时辅修文件发布，你按照文件报名选修，则你可以申请辅修学位。如果你错过了2020年，那么2021年，你就只能申请辅修学历。
 
     <div align=center>
-    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch1_11_2.png" alt="查找辅修相关通知p2">
+    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch1_12_2.png" alt="查找辅修相关通知p2">
     </div>
 
 2. 点开通知，仔细阅读全文。最底下会有一个附件列表给你下载，这个是你要的宝贝。（红色箭头）辅修通知的附件发布有两种情况，一种是每个附件单独给你发布下载，一种是打包成rar（蓝色箭头）。在你的电脑上新建一个文件夹，把文件全下载，仔细阅读。
 
     <div align=center>
-    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch1_11_3.png" alt="辅修相关通知的附件">
+    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch1_12_3.png" alt="辅修相关通知的附件">
     </div>
 
     你可能已经注意到了，这里有该年度中南大学辅修专业清单，在里面挑选你感兴趣的专业，可以列出3个左右的备选，然后逐个查找该学院网站。
@@ -48,7 +48,7 @@
     网页检索：中南大学XXX学院 辅修，一般都会直接蹦出来。如果不行，就检索中南大学xxx学院，然后进学院网站检索。
 
     <div align=center>
-    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch1_11_4.png" alt="全网查找辅修相关通知">
+    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch1_12_4.png" alt="全网查找辅修相关通知">
     </div>
 
     如果实在网站内检索不了，你可以进入该学院网站【首页 >> 本科生培养 >> 教务公告 】，辅修通知一般都在这个分类，然后一篇篇翻。如果该学院往年办过辅修课程，那么你可以找到对应的通知和结果，如果没办过，那你最好找先看看别的专业学院情况，再跟老师沟通，最后自己权衡。这些学院的辅修通知里一般都会对辅修专业的课程体系进行介绍，比如要修多少学分（一般辅修学历20，学位50），收费情况（一般80人民币每学分），是学位学历都开展还是只开展其中一个，等等。
