@@ -1,8 +1,8 @@
 # Summary
 
 * [简介](README.md)
-* [前言](qian-yan.md)
-* [声明](sheng-ming.md)
+* [寻路桐梓坡 · 序](qian-yan.md)
+* [寻路桐梓坡 · 声明](sheng-ming.md)
 * [学习方法介绍](Ch1_xue-xi-fang-fa-jie-shao/readme.md)
     * [解剖学学习方法与资料](Ch1_xue-xi-fang-fa-jie-shao/1-0_jie-pou-xue.md)
         * [系统解剖学学习体会](Ch1_xue-xi-fang-fa-jie-shao/1-1_xi-tong-jie-pou-xue-xue-xi-ti-hui.md)
@@ -120,7 +120,8 @@
     * [回首向来萧瑟处，归去，也无风雨也无晴](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/3_hui-shou-xiang-lai-xiao-se-chu.md)
     * [保研经验](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/4_bao-yan-jing-yan.md)
     * [！考研感悟与复试信息收集](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/5.md)
-    * [放弃临床医学转行医学编辑的心路历程](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/6_zhuan-hang-yi-xue-bian-ji-de-xin-lu-li-cheng.md)
-    * [何为“临床躺学”](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/7_he-wei-lin-chuang-tang-xue.md)
-    * [学习生活中常见问题的Tips](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/8_xue-xi-sheng-huo-chang-jian-wen-ti-TIPS.md)
-    * [社论——按图索骥VS自由探索](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/9_she-lun-an-tu-suo-ji-VS-zi-you-tan-suo.md)
+    * [放弃保研，备考中山孙逸仙的经历](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/6_fang-qi-bao-yan-bei-kao-zhong-shan-sun-yi-xian.md)
+    * [放弃临床医学转行医学编辑的心路历程](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/7_zhuan-hang-yi-xue-bian-ji-de-xin-lu-li-cheng.md)
+    * [何为“临床躺学”](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/8_he-wei-lin-chuang-tang-xue.md)
+    * [学习生活中常见问题的Tips](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/9_xue-xi-sheng-huo-chang-jian-wen-ti-TIPS.md)
+    * [社论——按图索骥VS自由探索](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/10_she-lun-an-tu-suo-ji-VS-zi-you-tan-suo.md)
