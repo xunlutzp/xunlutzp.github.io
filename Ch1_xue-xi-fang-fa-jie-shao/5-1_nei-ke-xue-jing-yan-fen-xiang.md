@@ -30,6 +30,12 @@
 
 6. **病例分析题**，内科学的病例分析通常是copd、哮喘、结核、肺癌、心绞痛、肝硬化合并消化道出血，白血病分型也考过，大多数时候都很容易诊断，但还是建议大家学习的时候多注意一下鉴别诊断，并且留意是否合并高血压（分级）、糖尿病、心功能分级等，尽量写的全面一些。“进一步检查”可以平时学习时按照不同的系统列出来相应的检查方法，比如呼吸系统的影像学、纤支镜、肺泡灌洗、痰培养、pet-ct等，避免遗忘。
 
-## 附件占位符
+## 附件
+
+![曲别针](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/_1.svg)
+[内科学思维导图.zip](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Attachment/Ch1_5-1_%E5%86%85%E7%A7%91%E5%AD%A6%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.zip)
+
+![曲别针](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/_1.svg)
+[诊断学思维导图.zip](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Attachment/Ch1_5-1_%E8%AF%8A%E6%96%AD%E5%AD%A6%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.zip)
 
 注：上传的导图包括诊断学中的常见症状，内科学中呼吸、心血管、消化系统，各个系统的检查方法。

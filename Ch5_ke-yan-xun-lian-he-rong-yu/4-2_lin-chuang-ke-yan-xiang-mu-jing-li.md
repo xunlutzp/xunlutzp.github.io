@@ -92,6 +92,10 @@
 以上是nana想要给亲爱的大家分享的临床科研项目的经历，没有涉及到的内容那就见下回分解哟！由于篇幅内容限制，如果有需要文中提到到相关统计学、SPSS等相关资料欢迎邮箱：1146674243@qq.com交流和互相学习！
 
 最后以参考知乎某博主的文章结束今日分享biubiu收好哟！
-## 附件占位符
+
+## 附件
+
+![曲别针](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/_1.svg)
+[SCI写作投稿Tips.docx](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Attachment/Ch5_4-2_SCI%E5%86%99%E4%BD%9C%E6%8A%95%E7%A8%BFTips.docx)
 
 <p align="right">湘雅附二心理研究所科研助理 nana</p>
