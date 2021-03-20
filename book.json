@@ -16,6 +16,9 @@
         "tbfed-pagefooter",
         "expandable-chapters-small",
         "flexible-alerts",
+        "favicon-absolute",
+        "anchor-navigation-ex",
+        "baidu-tongji-with-multiple-channel",
         "auto-scroll-table@git+https://github.com/ideamean/gitbook-plugin-auto-scroll-table.git"
     ],
     "pluginsConfig": {
@@ -44,6 +47,36 @@
             "copyright": "Copyright &copy 本书编委会全体成员",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "favicon-absolute": {
+            "favicon": "/gitbook/images/favicon.ico",
+            "appleTouchIconPrecomposed152": "/gitbook/images/apple-touch-icon-precomposed-152.png"
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false,
+            "associatedWithSummary": true,
+            "printLog": true,
+            "multipleH1": false,
+            "mode": "float",
+            "showGoTop": true,
+            "float": {
+                "floatIcon": "fa fa-navicon",
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+            }
+        },
+        "baidu-tongji-with-multiple-channel": {
+            "url": "https://hm.baidu.com/hm.js",
+            "multipleChannelConfig": {
+                "zcx980605.github.io": {
+                    "token": "398ad45f7df04732d383364b87fccf42"
+                },
+                "zcx980605.gitee.io": {
+                    "token": "691264d9a38aca02e0f6a5de0163b5f3"
+                }
+            }
         }
     }
 }

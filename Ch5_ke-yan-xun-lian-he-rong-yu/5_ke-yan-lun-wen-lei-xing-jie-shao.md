@@ -62,9 +62,9 @@
 
 综上所述，文章有类型之分。但我认为判断是否是一篇好文章，不仅是它的类型，有时一篇case report或许就解决了临床上的一个大难题。实事求是的观点，客观公正的立场，谨慎谦虚的态度是我们过往先贤所推崇的，以古语结尾：善战者无赫赫之功，善医者无煌煌之名。希望上述的介绍对大家有一点点帮助。
 
-> <a name="脚注1">\[1\] </a>实验万事屋    
-> <a name="脚注2">\[2\] </a>NEJM作者指南https://www.nejm.org/author-center/article-types    
-> <a name="脚注3">\[3\] </a>Nature作者指南https://www.nature.com/nature/for-authors/formatting-guide    
-> <a name="脚注4">\[4\] </a>中南大学医学图书馆http://xylib.csu.edu.cn/official/index.html
+> <a id="脚注1">\[1\] </a>实验万事屋    
+> <a id="脚注2">\[2\] </a>NEJM作者指南https://www.nejm.org/author-center/article-types    
+> <a id="脚注3">\[3\] </a>Nature作者指南https://www.nature.com/nature/for-authors/formatting-guide    
+> <a id="脚注4">\[4\] </a>中南大学医学图书馆http://xylib.csu.edu.cn/official/index.html
 
 <p align="right">某无名氏<br/>写于2021年1月29日</p>
