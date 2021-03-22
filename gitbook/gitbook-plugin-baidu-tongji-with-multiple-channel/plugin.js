@@ -28,7 +28,7 @@ require(["gitbook"], function (gitbook) {
         }
     });
 
-    // Notify pageview
+    // 跟踪受访页面
     gitbook.events.bind("page.change", function () {
         var path = window.location.pathname + window.location.search
         _hmt.push(['_trackPageview', path]);
