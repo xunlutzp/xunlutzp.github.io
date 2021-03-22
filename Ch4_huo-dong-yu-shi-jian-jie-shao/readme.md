@@ -4,7 +4,7 @@
 
 + [！解剖学标本暑期制作活动](1.md)
 + [实践与支教活动开展经验分享](2_shi-jian-yu-zhi-jiao-huo-dong-kai-zhan-jing-yan.md)
-+ [暑期社会实践之送医下乡经验贴](3_song-yi-xia-xiang-jing-yan.md)
++ [暑期社会实践之送医下乡经验帖](3_song-yi-xia-xiang-jing-yan.md)
 + [鸿雁工程参加感悟](4_hong-yan-gong-cheng-can-jia-gan-wo.md)
 + [关于学生干部工作的几点感悟](5_xue-sheng-gan-bu-gong-zuo-gan-wo.md)
 + [湘雅记者团采访活动](6_xiang-ya-ji-zhe-tuan-cai-fang.md)

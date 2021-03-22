@@ -49,8 +49,8 @@
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "favicon-absolute": {
-            "favicon": "/gitbook/images/favicon.ico",
-            "appleTouchIconPrecomposed152": "/gitbook/images/apple-touch-icon-precomposed-152.png"
+            "favicon": "../gitbook/images/favicon.ico",
+            "appleTouchIconPrecomposed152": "../gitbook/images/apple-touch-icon-precomposed-152.png"
         },
         "anchor-navigation-ex": {
             "showLevel": false,

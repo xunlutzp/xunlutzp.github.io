@@ -2,7 +2,7 @@
 
 ----
 
-+ [耶鲁大学短期交换经验贴](1_ye-lu-da-xue-duan-qi-jiao-huan-jing-yan.md)
++ [耶鲁大学短期交换经验帖](1_ye-lu-da-xue-duan-qi-jiao-huan-jing-yan.md)
 + [医学生联合会短期交流经验分享](2-0_yi-xue-sheng-lian-he-hui-duan-qi-jiao-liu.md)
     + [临床交换之日本](2-1_lin-chuang-jiao-huan-zhi-ri-ben.md)
     + [临床交换之捷克](2-2_lin-chuang-jiao-huan-zhi-jie-ke.md)
