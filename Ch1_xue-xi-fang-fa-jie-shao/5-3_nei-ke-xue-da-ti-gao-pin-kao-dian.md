@@ -64,7 +64,7 @@
 15. 变异型心绞痛（variant angina pectoris）
 16. 隐匿型冠心病
 17. ⭐CHD的二级预防（ABCDE方案）
-18. Killip 分级
+18. Killip分级
 19. ⭐急性心梗的并发症
 20. 急性心梗与心绞痛的鉴别
 21. 急性心梗溶栓适应症
@@ -78,7 +78,7 @@
 29. ⭐继发性高血压的常见病因
 30. 急性感染性心内膜炎与亚急性的区别
 31. 感染性心内膜炎Duke诊断标准
-32. Beck 三联征、Kussmaul征（英）、Ewart征
+32. Beck三联征、Kussmaul征（英）、Ewart征
 33. Graham steel杂音（Graham steel murmur）
 34. Austin-Flint杂音
 35. 开瓣音（opening snap）
@@ -135,21 +135,21 @@
 18. 慢性肾脏病的临床分期
 19. 引起慢性肾衰的常见病因
 20. 慢性肾衰竭渐进性发展的危险因素
-21. 慢性肾衰竭急性加重、 恶化的危险因素
+21. 慢性肾衰竭急性加重、恶化的危险因素
 22. 肾性贫血的概念与原因
 23. 肾衰竭代谢性酸中毒的主要原因及处理
 
 ## 血液系统
 
 1. 小细胞低色素性贫血
-2. ⭐再生障碍性贫血 （aplastic anemia, AA）
+2. ⭐再生障碍性贫血（aplastic anemia, AA）
 3. 重型、非重型AA的区别
 4. ⭐AA的诊断标准
 5. AA的治疗
 6. 出现全血细胞减少的常见疾病
 7. 原位溶血
 8. ⭐白血病（leukemia）
-9. 急性白血病 ( acute leukemia, AL）
+9. 急性白血病(acute leukemia, AL）
 10. 白血病的病因
 11. ⭐MICM分型（英）
 12. 白血病浸润的临床表现
@@ -164,7 +164,7 @@
 21. 多发性骨髓瘤（multiple myeloma, MM）
 22. 特发性血小板减少性紫癫的诊断要点
 23. 血栓性血小板减少性紫癫五联征
-24. 弥散性血管内凝血（ disseminated intravascular coagulation, DIC）
+24. 弥散性血管内凝血（disseminated intravascular coagulation, DIC）
  
 ## 内分泌系统
 
@@ -187,8 +187,8 @@
 17. 糖尿病（diabetes mellitus, DM）
 18. ⭐糖尿病的分类
 19. 糖尿病蜜月期（honeymoon period）
-20. 成人隐匿性自身免疫性糖尿病（ latent autoimmune diabetes in adults, LADA）
-21. 青年人中的成年发病型糖尿病（ maturity-onset diabetes mellitus of the young, MODY）
+20. 成人隐匿性自身免疫性糖尿病（latent autoimmune diabetes in adults, LADA）
+21. 青年人中的成年发病型糖尿病（maturity-onset diabetes mellitus of the young, MODY）
 22. ⭐1、2型糖尿病的鉴别要点
 23. ⭐糖尿肾病发展分期
 24. ⭐糖尿病视网膜病变发展分期
@@ -207,14 +207,14 @@
 1. 系统性红斑狼疮（systemic lupus erythematosus, SLE）
 2. SLE病情活动度指标
 3. 系统性红斑狼疮的诊断标准（ACR 1997）
-4. 抗磷脂综合征（antiphospholipid syndrome, APS )
+4. 抗磷脂综合征（antiphospholipid syndrome, APS)
 5. 系统性红斑狼疮的免疫学异常表现
 6. ⭐狼疮危象（lupous crisis）
 7. ⭐类风湿因子
 8. 类风湿性关节炎关节外表现
-9. Caplan 综合征
-10. Felty 综合征（Felty’s syndrome）
-11. ⭐类风湿关节炎 2010/1987分类标准
+9. Caplan综合征
+10. Felty综合征（Felty’s syndrome）
+11. ⭐类风湿关节炎2010/1987分类标准
 12. 痛风石
 
 <p align="right">Ben</p>

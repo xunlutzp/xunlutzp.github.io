@@ -51,7 +51,7 @@
     </div>
     <br/>
 
-4. 利用ELSA数据库进行分析: ELSA数据库：全称是English longitudinal study of aging，开放获取，国人也有文章发表。
+4. 利用ELSA数据库进行分析:ELSA数据库：全称是English longitudinal study of aging，开放获取，国人也有文章发表。
 
     <div align=center>
     <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-1_4.jpeg" alt="国人利用ELSA数据库发表的文章1">
