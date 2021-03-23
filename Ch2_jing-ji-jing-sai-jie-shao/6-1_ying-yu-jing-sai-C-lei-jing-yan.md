@@ -75,7 +75,7 @@
 
 + **单复数用错**。要么该加S的复数，没有加，要么就是不该加s，加了~
 
-+ **介词用错**。如a book of the UK in the 17th century,该用about用了of；
++ **介词用错**。如a book of the UK in the 17th century，该用about用了of；
 
 + **词性用错**。应用形容词的用了副词，或是该用副词的用了形容词；
 

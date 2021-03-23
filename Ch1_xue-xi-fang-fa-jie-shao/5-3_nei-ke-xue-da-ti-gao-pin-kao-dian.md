@@ -109,13 +109,13 @@
 21. 肝肺综合征（hepatopulmonary syndrome）
 22. 小肝癌
 23. 伴癌综合征
-24. ⭐上消化道出血（upper gastrointestinal bleeding, UGIB)
+24. ⭐上消化道出血（upper gastrointestinal bleeding, UGIB）
 25. 上消化道出血的常见原因、治疗原则
 26. ⭐提示消化道活动性出血的临床表现（判断出血是否停止）
 
 ## 泌尿系统
 
-1. 肾炎综合征（nephritis syndrome )
+1. 肾炎综合征（nephritis syndrome）
 2. 急性肾炎综合征肾脏活检指征
 3. 急进性肾炎的鉴别诊断
 4. IgA肾病的诊断和鉴别诊断
@@ -149,7 +149,7 @@
 6. 出现全血细胞减少的常见疾病
 7. 原位溶血
 8. ⭐白血病（leukemia）
-9. 急性白血病(acute leukemia, AL）
+9. 急性白血病（acute leukemia, AL）
 10. 白血病的病因
 11. ⭐MICM分型（英）
 12. 白血病浸润的临床表现
@@ -207,7 +207,7 @@
 1. 系统性红斑狼疮（systemic lupus erythematosus, SLE）
 2. SLE病情活动度指标
 3. 系统性红斑狼疮的诊断标准（ACR 1997）
-4. 抗磷脂综合征（antiphospholipid syndrome, APS)
+4. 抗磷脂综合征（antiphospholipid syndrome, APS）
 5. 系统性红斑狼疮的免疫学异常表现
 6. ⭐狼疮危象（lupous crisis）
 7. ⭐类风湿因子
