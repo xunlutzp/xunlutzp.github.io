@@ -45,7 +45,7 @@ Part 3：专业知识临床考试，共考4天，考核学科包括内科、外�
 
 ![曲别针](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/_1.svg)
 [香港醫務委員會執照組2021年執業資格試（第一次考試）考生指南.pdf](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Attachment/Ch1_10_%E9%A6%99%E6%B8%AF%E9%86%AB%E5%8B%99%E5%A7%94%E5%93%A1%E6%9C%83%E5%9F%B7%E7%85%A7%E7%B5%842021%E5%B9%B4%E5%9F%B7%E6%A5%AD%E8%B3%87%E6%A0%BC%E8%A9%A6%EF%BC%88%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%80%83%E8%A9%A6%EF%BC%89%E8%80%83%E7%94%9F%E6%8C%87%E5%8D%97.pdf)
- 
+
 > <a id="脚注1">\[1\] </a>参考网址：https://lmchk.org/lmchk    
 > <a id="脚注2">\[2\] </a>参考网址：https://lmchk.org/hkmle    
 > <a id="脚注3">\[3\] </a>参考网址：https://leip.mchk.org.hk/EN/bexam_I.html    

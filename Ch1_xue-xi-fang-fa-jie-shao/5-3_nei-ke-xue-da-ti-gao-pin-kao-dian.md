@@ -23,9 +23,9 @@
 6. 肺心病的并发症
 7. 慢性肺心病使用正性肌力药的指征
 8. 支气管哮喘（bronchial asthma）
-9. 气道高反应性（airway hyperresponsiveness, AHR） 
+9. 气道高反应性（airway hyperresponsiveness, AHR）
 10. 支气管哮喘可逆性气流受限的客观检查
-11. 咳嗽变异性哮喘（cough-variant asthma,CVA）
+11. 咳嗽变异性哮喘（cough-variant asthma, CVA）
 12. ⭐支气管扩张（bronchiectasis）
 13. 肺炎的主要分类方法
 14. ⭐CAP/HAP/VAP
@@ -44,7 +44,7 @@
 27. ⭐肺性脑病（pulmonary encephalopathy）
 28. 胸腔渗出积液的常见病因及鉴别要点（结核性、类肺炎性、恶性）
 29. 阻塞性睡眠呼吸暂停低通气综合征（obstructive sleep apnea hypopnea syndrome, OSAHS）
- 
+
 ## 循环系统
 
 1. ⭐心力衰竭（heart failure, HF）
@@ -98,7 +98,7 @@
 10. 试述重症溃疡性结肠炎的分度标准
 11. ⭐肠结核与克罗恩病的鉴别
 12. ⭐溃疡性结肠炎与克罗恩病的鉴别
-13. 克罗恩病（Crohn disease , CD） 
+13. 克罗恩病（Crohn disease , CD）
 14. ⭐肝硬化（liver cirrhosis）
 15. ⭐肝性脑病（hepatic encephalopathy）
 16. ⭐肝性脑病的分期及特点
@@ -122,14 +122,14 @@
 5. ⭐肾病综合征（nephrotic syndrome）
 6. ⭐肾病综合征分类和常见病因
 7. 原发性肾病综合征常见的病理类型
-8. ⭐肾病综合征的的并发症
+8. ⭐肾病综合征的并发症
 9. 肾病综合征激素治疗原则及主要副作用
 10. 复杂性尿路感染
 11. 复杂性尿路感染的危险因素
 12. 尿路感染的易感因素
 13. ⭐慢性肾盂肾炎的诊断标准
 14. ⭐急性肾损伤（acute kidney injury，AKI）
-15. 慢性肾脏病-矿物质和骨异常（CKD-mineral and bone disorder, CKD-MBD） 
+15. 慢性肾脏病-矿物质和骨异常（CKD-mineral and bone disorder, CKD-MBD）
 16. 慢性肾衰竭（chronic renal failure, CRF）
 17. ⭐慢性肾脏病（chronic kidney disease, CKD）
 18. 慢性肾脏病的临床分期
@@ -165,7 +165,7 @@
 22. 特发性血小板减少性紫癫的诊断要点
 23. 血栓性血小板减少性紫癫五联征
 24. 弥散性血管内凝血（disseminated intravascular coagulation, DIC）
- 
+
 ## 内分泌系统
 
 1. 尿崩症（diabetes insipidus, DI）

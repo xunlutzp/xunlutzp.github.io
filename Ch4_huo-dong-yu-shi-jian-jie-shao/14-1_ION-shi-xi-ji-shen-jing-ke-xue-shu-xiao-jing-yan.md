@@ -67,7 +67,7 @@
 <p align=center>
 <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_14-1_6.jpeg" alt="小鼠脑切片湿片镜下观察">
 <br/>图6：小鼠脑切片湿片镜下观察（由海马逆行示踪到前额叶的神经元胞体及轴突）
-</p> 
+</p>
 <p align=center>
 <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_14-1_7.jpeg" alt="小鼠脑立体定位注射手术">
 <br/>图7：小鼠脑立体定位注射手术
