@@ -2,7 +2,7 @@
 
 ----
 
-+ [！解剖学标本暑期制作活动](1.md)
++ [暑假解剖培训小记](1_shu-jia-jie-pou-pei-xun-xiao-ji.md)
 + [实践与支教活动开展经验分享](2_shi-jian-yu-zhi-jiao-huo-dong-kai-zhan-jing-yan.md)
 + [暑期社会实践之送医下乡经验帖](3_song-yi-xia-xiang-jing-yan.md)
 + [鸿雁工程参加感悟](4_hong-yan-gong-cheng-can-jia-gan-wo.md)
@@ -24,3 +24,4 @@
     + [摄影自有一片天地——审美的培养](15-2_she-ying-zi-you-yi-pian-tian-di.md)
 + [湘雅之声经历](16_xiang-ya-zhi-sheng-jing-li.md)
 + [湘雅内科小老师授课比赛](17_xiang-ya-nei-ke-xiao-lao-shi-shou-ke-bi-sai.md)
++ [如何制作一张美观清晰的思维导图](18_ru-he-zhi-zuo-si-wei-dao-tu.md)
