@@ -3,7 +3,9 @@
 ----
 
 + [暑假解剖培训小记](1_shu-jia-jie-pou-pei-xun-xiao-ji.md)
-+ [实践与支教活动开展经验分享](2_shi-jian-yu-zhi-jiao-huo-dong-kai-zhan-jing-yan.md)
+* [大学生支教活动](2-0_da-xue-sheng-zhi-jiao.md)
+    + [实践与支教活动开展经验分享](2-1_shi-jian-yu-zhi-jiao-huo-dong-kai-zhan-jing-yan.md)
+    + [关于大学生支教活动的一些思考](2-2_da-xue-sheng-zhi-jiao-huo-dong-de-si-kao.md)
 + [暑期社会实践之送医下乡经验帖](3_song-yi-xia-xiang-jing-yan.md)
 + [鸿雁工程参加感悟](4_hong-yan-gong-cheng-can-jia-gan-wo.md)
 + [关于学生干部工作的几点感悟](5_xue-sheng-gan-bu-gong-zuo-gan-wo.md)

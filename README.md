@@ -23,7 +23,7 @@
 + [第五章：科研训练和荣誉](Ch5_ke-yan-xun-lian-he-rong-yu/readme.md)（已全部提交）✅
 + [第六章：基地医院实习体会](Ch6_ji-di-yi-yuan-shi-xi-ti-hui/readme.md)（已全部提交，但一篇被标记为待完善）⭕
 + [第七章：国际交流项目](Ch7_guo-ji-jiao-liu-xiang-mu/readme.md)（已全部提交）✅
-+ [第八章：世界观，价值观与感悟](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/readme.md)（一篇未提交）❌
++ [第八章：世界观，价值观与感悟](Ch8_shi-jie-guan-jia-zhi-guan-yu-gan-wo/readme.md)（一篇未提交，且已暂从目录移除）❌
 
 ## 网页版排版进度
 
