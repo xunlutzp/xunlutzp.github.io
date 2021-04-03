@@ -124,6 +124,8 @@
     * [回首向来萧瑟处，归去，也无风雨也无晴](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/2_hui-shou-xiang-lai-xiao-se-chu.md)
     * [保研经验](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/3_bao-yan-jing-yan.md)
     * [放弃保研，备考中山孙逸仙的经历](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/4_fang-qi-bao-yan-bei-kao-zhong-shan-sun-yi-xian.md)
+    * [420+分考研经验分享](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/5_420-fen-kao-yan-jing-yan.md)
+    * [考研调剂经验分享](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/6_kao-yan-tiao-ji-jing-yan.md)
 * [世界观，价值观与感悟](Ch10_shi-jie-guan-jia-zhi-guan-yu-gan-wo/readme.md)
     * [为“求知者”点一盏灯](Ch10_shi-jie-guan-jia-zhi-guan-yu-gan-wo/1_wei-qiu-zhi-zhe-dian-yi-zhan-deng.md)
     * [行走在荆棘小路上](Ch10_shi-jie-guan-jia-zhi-guan-yu-gan-wo/2_xing-zou-zai-jing-ji-xiao-lu-shang.md)
