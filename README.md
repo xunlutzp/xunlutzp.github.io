@@ -1,6 +1,11 @@
 # Introduction
 
-这是《寻路桐梓坡》内部测试版，不得传播。
+《寻路桐梓坡》的第一版现在已发布，作为读者，请访问以下链接：
+
++ 原始：https://xunlutzp.github.io/   
++ 国内镜像：https://xunlutzp.gitee.io/
+
+当前网址是《寻路桐梓坡》内部测试版，不得传播。
 
 对于详细介绍及许可信息等，请参阅[寻路桐梓坡 · 声明](sheng-ming.md)。
 
