@@ -25,7 +25,7 @@
 + [第七章：基地医院实习体会](Ch7_ji-di-yi-yuan-shi-xi-ti-hui/readme.md)（已全部提交，但一篇被标记为待完善）⭕
 + [第八章：国际交流项目](Ch8_guo-ji-jiao-liu-xiang-mu/readme.md)（已全部提交）✅
 + [第九章：考研/保研经验与体会](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/readme.md)（新章节，已计划新增多篇）❌
-+ [第十章：世界观，价值观与感悟](Ch10_shi-jie-guan-jia-zhi-guan-yu-gan-wo/readme.md)（一篇未提交，且已暂从目录移除）❌
++ [第十章：世界观，价值观与感悟](Ch10_shi-jie-guan-jia-zhi-guan-yu-gan-wo/readme.md)（已全部提交）✅
 
 ## 网页版排版进度
 
