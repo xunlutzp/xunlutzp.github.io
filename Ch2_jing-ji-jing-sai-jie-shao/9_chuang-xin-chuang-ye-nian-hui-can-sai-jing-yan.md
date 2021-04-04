@@ -7,10 +7,10 @@
 最新一届是2020年11月举办的第十三届国创年会。第十三届国创年会共有300所高校参加评选，460项国创项目。受新冠疫情影响，第十三届年会的项目成果通过“线上+线下”模式进行展示，最终评选出“优秀学术论文”20篇、“我最喜爱的项目”20项、“最佳创意项目”21项、“最佳创业项目”10项。
 
 <div align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_9_1.png" alt="第十三届全国大学生创新创业年会">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch2_9_1.png" alt="第十三届全国大学生创新创业年会">
 </div>
 <div align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_9_2.png" alt="第十二届全国大学生创新创业年会">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch2_9_2.png" alt="第十二届全国大学生创新创业年会">
 </div>
 
 ## 赛事含金量

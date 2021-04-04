@@ -5,7 +5,7 @@
 如果学弟学妹们本学期不好好学生理学，以后生理学永远是你的伤疤，以后各个学科都会来揭开你这个伤疤；在多年之后，它也是我们分析病例作出诊断的基础。
 
 <div align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch1_2_1.png" alt="生理药理病理生理">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch1_2_1.png" alt="生理药理病理生理">
 </div>
 
 ## 关于教材
@@ -37,7 +37,7 @@
 （1）比如学习消化生理时会遇到食管的一个结构食管下括约肌（LES），我们记忆它是因为人会因为它功能的不完全或者丧失而导致疾病。我们在此阶段（基础医学阶段）可以不去详细分析食管失迟缓症，但是我们要记住这个结构，原因就是因为它有临床意义。然后我们再去分析，为什么它会有这样的作用呢？为什么会损伤呢？哪里损伤呢？然后就可以把这些知识点串联起来，这些知识也就有了逻辑，有了意义。这个结构就算懂了。
 
 <div align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch1_2_2.png" alt="食管下括约肌">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch1_2_2.png" alt="食管下括约肌">
 </div>
 
 然后我们就可以做一个Q&A，格式如下：
@@ -51,7 +51,7 @@
     A：肺泡表面活性物质通过降低肺泡表面张力，减少组织液的生成与向肺泡内转移。如果其减少，balabala。
 
 <div align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch1_2_3.png" alt="肺泡表面张力">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch1_2_3.png" alt="肺泡表面张力">
 </div>
 
 + Q：为什么给早产儿糖皮质激素？    

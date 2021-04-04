@@ -19,15 +19,15 @@
 + **夏令营：**每年五月份至八月份，各医学院校会根据实际条件择机举办“优秀应届毕业生夏令营”活动，为学生和导师提供双向选择的机会。一般流程是：学校（院）在官网公布夏令营报名材料递交通知——学生按通知要求填好报名表、佐证材料等——学校（院）组织专家审核学生材料进行初筛——通过初筛的学生在相应日期前往目标学校（院）参加夏令营——夏令营中一般会包含宣讲会、参观、笔试、面试等活动——闭营时大部分学校（院）会给出笔试加面试的排名（面试占主导地位）并给予一定比例的优秀营员奖励。需要注意，不同学校（院）的优秀营员效力各有不同：有的仅作为一个象征性的奖励，没有实际效力；有的可以凭优秀营员证书优先参加预推免或预推免时免笔试、面试；有的相当于一份预录取协议，表明我们已经有书读啦；还有的会分等级，不是单纯的一刀切。下面是几个关于优秀营员效力的例子：
 
     <p align="center">
-    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch6_3_1.png" alt="四川大学华西医学院夏令营通知截图">
+    <img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch6_3_1.png" alt="四川大学华西医学院夏令营通知截图">
     <br/>图1. 四川大学华西医学院夏令营通知截图
     </p>
     <p align=center>
-    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch6_3_2.png" alt="上海交通大学瑞金医院夏令营通知截图">
+    <img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch6_3_2.png" alt="上海交通大学瑞金医院夏令营通知截图">
     <br/>图2. 上海交通大学瑞金医院夏令营通知截图
     </p>
     <p align=center>
-    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch6_3_3.png" alt="北京协和医学院夏令营通知截图">
+    <img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch6_3_3.png" alt="北京协和医学院夏令营通知截图">
     <br/>图3. 北京协和医学院夏令营通知截图
     </p>
 
@@ -38,7 +38,7 @@
 ## 保研的时间线
 
 <p align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch6_3_4.png" alt="保研的时间线">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch6_3_4.png" alt="保研的时间线">
 <br/>图4. 保研的时间线
 </p>
 
@@ -47,7 +47,7 @@
 ## 保研的名额
 
 <p align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch6_3_5.png" alt="保研的名额">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch6_3_5.png" alt="保研的名额">
 <br/>图5. 保研的名额
 </p>
 

@@ -15,10 +15,10 @@
 “没有解剖学就没有现代医学”，与其他课程不同，解剖学知识需要在大体老师的身上实操来获取。大体老师是解剖学课堂上另一位老师，是我们医学生对舍身奉献于医学研究的人的尊称。他们不用言语，不落文字，一心祈愿，育化良医。大体老师的奉献，让我们医学生得以研习人体结构，掌握解剖知识，体会医学中的人文情怀。他们是我们学习的磐石，是高尚的无言良师。“大体老师”让我们直观地理解人体的细微结构，掌握最基本、最全面的人体结构知识，他们用身躯诠释生命有限，大爱无疆的境界。我们要敬畏生命，有仁爱之心，一定要用最专业的态度对待每一次实验的机会。
 
 <div align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_1_1.jpeg" alt="从大体解剖标本膀胱中切出乒乓球大小的结石">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch4_1_1.jpeg" alt="从大体解剖标本膀胱中切出乒乓球大小的结石">
 </div>
 <div align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch4_1_2.jpeg" alt="乒乓球大小的膀胱结石">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch4_1_2.jpeg" alt="乒乓球大小的膀胱结石">
 </div>
 
 <p align="right">16级临五 李锐</p>
