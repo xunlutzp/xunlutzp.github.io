@@ -11,7 +11,7 @@
 医院以欧洲中世纪风格为主，就算是进入医院大堂也看不到半点医院的影子，闻不到消毒水的味道，没有来来往往的病人，也没有行色匆匆的白大褂的身影。走廊一侧摆着长椅供患者家属驻足休息，墙上挂着历任院长主任的塑像。医院的后门是我日常进出的地方，每天早上去医院报道时，天色还朦朦胧胧的，从更衣室通往手术室的阶梯像打上了追光灯，迎着外科医生们匆匆的身影。
 
 <p align="center">
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch8_2-2_1.jpeg" alt="医院正门">
+<img src="https://xunlutzp.gitee.io/Image/Ch8_2-2_1.jpeg" alt="医院正门">
 <br/>图：医院正门
 </p>
 
@@ -20,7 +20,7 @@
 为了赶上8：00开始的手术，我尽快在更衣室换好白大褂，医院有规定：医生们需要从头到脚，从里到外都武装成白色。跑上楼就是手术更衣室，被分为有菌区和无菌区。虽然划分并没有那么严格，但是每天都有两名清洁人员频繁消毒清洗这两间屋子。穿上白大褂没几分钟，就要换成淡蓝色的手术服，每天早上繁忙的仿佛是布尔诺时装周表演。
 
 <p align="center">
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch8_2-2_2.jpeg" alt="第一次进手术室的自拍">
+<img src="https://xunlutzp.gitee.io/Image/Ch8_2-2_2.jpeg" alt="第一次进手术室的自拍">
 <br/>图：谁第一次进手术室不自拍呢
 </p>
 
@@ -29,11 +29,11 @@
 手术室外有每天的日程表，基本都是手术名简称，捷克语英语相结合，一边戴好口罩帽子，一边对着日程表巴巴地瞅。经常需要拿出手机对着名字一个个查。我会选不认识的手术名看，或者选最喜欢的医生做主刀的那场手术看。总之，医生们没有任何对于我观摩手术的限制。进手术室和医生护士们点头打个招呼（捷克语的“你好”我大概学了3周才勉强学会……），搬上手术室最高的踩脚凳，和麻醉医生打好招呼后，就可以站在病人的头侧这个绝佳位置观摩手术了。心脏就在我眼皮子底下扑通扑通地跳动，直观的感受到生命的鲜活。
 
 <p align="center">
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch8_2-2_3.jpeg" alt="瓣膜置换手术">
+<img src="https://xunlutzp.gitee.io/Image/Ch8_2-2_3.jpeg" alt="瓣膜置换手术">
 <br/>图：瓣膜置换
 </p>
 <p align="center">
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch8_2-2_4.jpeg" alt="左心辅助装置植入">
+<img src="https://xunlutzp.gitee.io/Image/Ch8_2-2_4.jpeg" alt="左心辅助装置植入">
 <br/>图：左心辅助装置植入
 </p>
 
@@ -54,14 +54,14 @@
 还有总是在手术结束后给我开小讲课，画画技术一流的Dr. Stibor；有着接近两米身高但每次都会劈着叉耐心倾听我的疑问的Dr. Albert；有着深邃的蓝眼睛和卷翘长睫毛的高颜值医生Dr. Miro……
 
 <p align="center">
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch8_2-2_5.jpeg" alt="与医生们的合影">
+<img src="https://xunlutzp.gitee.io/Image/Ch8_2-2_5.jpeg" alt="与医生们的合影">
 <br/>图：与医生们的合影
 </p>
 
 出了医院就约上来自墨西哥、巴西、韩国的伙伴们一起探索布尔诺地下酒吧，尝遍每一家本地人推荐的餐馆，在茶室里教他们打山寨版中国扑克，在咖啡馆里畅聊各国文化的不同，医学教育的不同，在飘着雪的冬天夜晚，迎着路灯细细地看飘下的雪花，在街道上追着电车跑，在镜头前留下告别前的合影。
 
 <p align="center">
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch8_2-2_6.jpeg" alt="与来自世界各地的伙伴们合影">
+<img src="https://xunlutzp.gitee.io/Image/Ch8_2-2_6.jpeg" alt="与来自世界各地的伙伴们合影">
 <br/>图：与来自世界各地的伙伴们在飞驰的列车前合影
 </p>
 

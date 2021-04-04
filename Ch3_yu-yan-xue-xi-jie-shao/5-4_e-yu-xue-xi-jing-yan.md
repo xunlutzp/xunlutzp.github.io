@@ -17,13 +17,13 @@
 俄语是一门学习难度极高的语言，语法、发音均比英语复杂许多，首先字母采用了与拉丁字母构型、发音完全不同的西里尔字母体系（包括令人头疼的大舌音），读音采用拼读模式（需要注意重音），长这个样（表情包里常用的是俄文中的D）：
 
 <div align=center>
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch3_5-4_1.png" alt="俄语字母表">
+<img src="https://xunlutzp.gitee.io/Image/Ch3_5-4_1.png" alt="俄语字母表">
 </div>
 
 名词分阴阳中性单复数，动词按时态需求分成完成体动词和未完成体动词，词尾需根据主语的变化而进行变位，句子的逻辑通过代词（名词）的变格而非语序来表示，所有的代词/名词/形容词根据词尾特征有六个格（在此基础上再区分单复数变格），在网上随便搜了一张变格表给大家看看：
 
 <div align=center>
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch3_5-4_2.png" alt="俄语单复数变格表">
+<img src="https://xunlutzp.gitee.io/Image/Ch3_5-4_2.png" alt="俄语单复数变格表">
 </div>
 
 此外，还有主动式形动词、被动式形动词等等，是不是感觉头都要炸了……相比之下英语语法真的很简单了。
@@ -53,7 +53,7 @@
 这个考试只要认真准备了通过并不是很难，考过了会有证书从莫斯科寄过来（给人感觉相当正式！），大致长这个样子：
 
 <div align=center>
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch3_5-4_3.png" alt="对外俄语等级证书">
+<img src="https://xunlutzp.gitee.io/Image/Ch3_5-4_3.png" alt="对外俄语等级证书">
 </div>
 
 ## 日常学习

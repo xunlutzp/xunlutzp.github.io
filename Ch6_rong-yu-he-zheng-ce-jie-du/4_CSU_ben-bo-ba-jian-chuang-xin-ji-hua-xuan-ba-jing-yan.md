@@ -48,12 +48,12 @@
     <tr style="border-collapse:collapse;border:none;">
         <td style="border-collapse:collapse;border:none;">
             <div align=center>
-                <img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch6_4_1.jpeg" alt="截图：发送的邮件">
+                <img src="https://xunlutzp.gitee.io/Image/Ch6_4_1.jpeg" alt="截图：发送的邮件">
             </div>
         </td>
         <td style="border-collapse:collapse;border:none;">
             <div align=center>
-                <img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch6_4_2.jpeg" alt="截图：收到的回复">
+                <img src="https://xunlutzp.gitee.io/Image/Ch6_4_2.jpeg" alt="截图：收到的回复">
             </div>
         </td>
     </tr>

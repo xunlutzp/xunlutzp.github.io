@@ -34,5 +34,5 @@
 
 ## 附件
 
-![曲别针](https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/_1.svg)
+![曲别针](https://xunlutzp.gitee.io/Image/_1.svg)
 [健康中国建设团-中南大学赴湖南省株洲市茶陵县界首镇界市村医疗知识下乡暑假社会实践团申报书.doc](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Attachment/Ch4_3_%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE%E5%9B%A2-%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%B5%B4%E6%B9%96%E5%8D%97%E7%9C%81%E6%A0%AA%E6%B4%B2%E5%B8%82%E8%8C%B6%E9%99%B5%E5%8E%BF%E7%95%8C%E9%A6%96%E9%95%87%E7%95%8C%E5%B8%82%E6%9D%91%E5%8C%BB%E7%96%97%E7%9F%A5%E8%AF%86%E4%B8%8B%E4%B9%A1%E6%9A%91%E5%81%87%E7%A4%BE%E4%BC%9A%E5%AE%9E%E8%B7%B5%E5%9B%A2%E7%94%B3%E6%8A%A5%E4%B9%A6.doc)
