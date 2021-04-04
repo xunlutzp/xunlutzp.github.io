@@ -40,7 +40,7 @@
     临五16级雷雨&emsp;&emsp;&emsp;临五16级林晓锡&emsp;&emsp;麻醉16级林雨琪    
     临五16级陆漪琳&emsp;&emsp;精神16级毛珏怡&emsp;&emsp;临五16级毛世航    
     临五16级马嘉遥&emsp;&emsp;临五16级莫舒咏&emsp;&emsp;临五17级莫郁瑶    
-    精神16级倪曦&emsp;&emsp;&emsp;临五16级潘灏瑜&emsp;&emsp;临五16级彭研璟    
+    精神16级倪曦&emsp;&emsp;&emsp;临五16级潘灏瑜&emsp;&emsp;临五16级彭妍璟    
     临五16级宋丹丹&emsp;&emsp;临五16级施婧&emsp;&emsp;&emsp;临五16级申一村    
     精神16级唐牧云&emsp;&emsp;临五16级王海&emsp;&emsp;&emsp;临五18级王威扬    
     精神16级文杰&emsp;&emsp;&emsp;临五17级武明阳&emsp;&emsp;临五16级武安可    
