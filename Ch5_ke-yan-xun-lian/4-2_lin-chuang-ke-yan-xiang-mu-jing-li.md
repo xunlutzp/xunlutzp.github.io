@@ -94,6 +94,6 @@
 ## 附件
 
 ![曲别针](https://xunlutzp.gitee.io/Image/_1.svg)
-[SCI写作投稿Tips.docx](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Attachment/Ch5_4-2_SCI%E5%86%99%E4%BD%9C%E6%8A%95%E7%A8%BFTips.docx)
+[SCI写作投稿Tips.docx](https://xunlutzp.gitee.io/Attachment/Ch5_4-2_SCI%E5%86%99%E4%BD%9C%E6%8A%95%E7%A8%BFTips.docx)
 
 <p align="right">湘雅附二心理研究所科研助理 nana</p>
