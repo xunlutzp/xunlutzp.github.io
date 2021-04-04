@@ -45,39 +45,39 @@
 对科研感兴趣、未来有志于做科研工作、想报考学硕的同学，完全可以大胆的与学校/科研院所老师联系，申请实习机会，体验学习。
 
 <p align=center>
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch4_14-1_1.jpeg" alt="中科院上海生命研究院——岳阳路320号">
+<img src="https://xunlutzp.gitee.io/Image/Ch4_14-1_1.jpeg" alt="中科院上海生命研究院——岳阳路320号">
 <br/>图1.中科院上海生命研究院——岳阳路320号
 </p>
 <p align=center>
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch4_14-1_2.jpeg" alt="320大院俯拍">
+<img src="https://xunlutzp.gitee.io/Image/Ch4_14-1_2.jpeg" alt="320大院俯拍">
 <br/>图2：320大院俯拍
 </p>
 <p align=center>
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch4_14-1_3.jpeg" alt="徐汇区安福路街拍">
+<img src="https://xunlutzp.gitee.io/Image/Ch4_14-1_3.jpeg" alt="徐汇区安福路街拍">
 <br/>图3：徐汇区安福路街拍
 </p>
 <p align=center>
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch4_14-1_4.jpeg" alt="中科大厦研究生宿舍2人间">
+<img src="https://xunlutzp.gitee.io/Image/Ch4_14-1_4.jpeg" alt="中科大厦研究生宿舍2人间">
 <br/>图4：中科大厦研究生宿舍2人间
 </p>
 <p align=center>
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch4_14-1_5.jpeg" alt="小鼠脑内注射携带不同荧光蛋白元件的混合AAV后切片">
+<img src="https://xunlutzp.gitee.io/Image/Ch4_14-1_5.jpeg" alt="小鼠脑内注射携带不同荧光蛋白元件的混合AAV后切片">
 <br/>图5：小鼠脑内注射携带不同荧光蛋白元件的混合AAV后切片看表达（三种颜色merge后的图片，亮的小圆点是神经元胞体，条束状物为轴突）
 </p>
 <p align=center>
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch4_14-1_6.jpeg" alt="小鼠脑切片湿片镜下观察">
+<img src="https://xunlutzp.gitee.io/Image/Ch4_14-1_6.jpeg" alt="小鼠脑切片湿片镜下观察">
 <br/>图6：小鼠脑切片湿片镜下观察（由海马逆行示踪到前额叶的神经元胞体及轴突）
 </p>
 <p align=center>
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch4_14-1_7.jpeg" alt="小鼠脑立体定位注射手术">
+<img src="https://xunlutzp.gitee.io/Image/Ch4_14-1_7.jpeg" alt="小鼠脑立体定位注射手术">
 <br/>图7：小鼠脑立体定位注射手术
 </p>
 <p align=center>
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch4_14-1_8.jpeg" alt="灌流固定后取的小鼠全脑">
+<img src="https://xunlutzp.gitee.io/Image/Ch4_14-1_8.jpeg" alt="灌流固定后取的小鼠全脑">
 <br/>图8：灌流固定后取的小鼠全脑
 </p>
 <p align=center>
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch4_14-1_9.jpeg" alt="小鼠脑切片">
+<img src="https://xunlutzp.gitee.io/Image/Ch4_14-1_9.jpeg" alt="小鼠脑切片">
 <br/>图9：小鼠脑切片
 </p>
 <p align="right">精神1801 周孝文</p>

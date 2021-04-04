@@ -4,12 +4,12 @@
     <tr style="border-collapse:collapse;border:none;">
         <td style="border-collapse:collapse;border:none;padding:0;">
             <div align=center>
-                <img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch8_2-0_1.png" alt="临床交换">
+                <img src="https://xunlutzp.gitee.io/Image/Ch8_2-0_1.png" alt="临床交换">
             </div>
         </td>
         <td style="border-collapse:collapse;border:none;padding:0;">
             <div align=center>
-                <img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch8_2-0_2.png" alt="科研交换">
+                <img src="https://xunlutzp.gitee.io/Image/Ch8_2-0_2.png" alt="科研交换">
             </div>
         </td>
     </tr>

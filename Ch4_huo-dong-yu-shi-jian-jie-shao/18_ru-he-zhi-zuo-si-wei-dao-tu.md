@@ -7,12 +7,12 @@
 该按键位于界面右上方：“格式”→“样式”→“结构”。最常使用的结构包括**分支**和**表格**；这两种结构的灵活运用大大增强了思维导图在二维画布上的分布多样性。有时可以将分支嵌套于表格之中，可以详见下方**图1 原核生物&真核生物翻译过程的对比**；也可以将表格嵌套于分支之中，这样每个分支即是一个表格，可以详见下方**图2 急性胰腺炎**。
 
 <p align="center">
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch4_18_1.png" alt="原核生物和真核生物翻译过程的对比">
+<img src="https://xunlutzp.gitee.io/Image/Ch4_18_1.png" alt="原核生物和真核生物翻译过程的对比">
 <br/>图1 原核生物&amp;真核生物翻译过程的对比
 </p>
 
 <p align="center">
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch4_18_2.png" alt="急性胰腺炎思维导图">
+<img src="https://xunlutzp.gitee.io/Image/Ch4_18_2.png" alt="急性胰腺炎思维导图">
 <br/>图2 急性胰腺炎
 </p>
 
@@ -39,19 +39,19 @@
 我在附件中提供两个设定好格式的思维导图，模板1（图3）适用于分支型思维导图，模板2（图4）适用于表格中嵌套分支的思维导图。大家也可以在我的框架上自由发挥。
 
 <p align="center">
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch4_18_3.png" alt="Xmind模板1">
+<img src="https://xunlutzp.gitee.io/Image/Ch4_18_3.png" alt="Xmind模板1">
 <br/>图3 Xmind模板1
 </p>
 
 <p align="center">
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch4_18_4.png" alt="Xmind模板2">
+<img src="https://xunlutzp.gitee.io/Image/Ch4_18_4.png" alt="Xmind模板2">
 <br/>图4 Xmind模板2
 </p>
 
 ## 附件
 
-![曲别针](https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/_1.svg)
+![曲别针](https://xunlutzp.gitee.io/Image/_1.svg)
 [Xmind模板1.xmind](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Attachment/Ch4_18_Xmind%E6%A8%A1%E6%9D%BF1.xmind)
 
-![曲别针](https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/_1.svg)
+![曲别针](https://xunlutzp.gitee.io/Image/_1.svg)
 [Xmind模板2.xmind](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Attachment/Ch4_18_Xmind%E6%A8%A1%E6%9D%BF2.xmind)

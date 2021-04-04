@@ -12,7 +12,7 @@
 根据中大教字〔2019〕8号文件《中南大学推荐优秀应届本科毕业生免试攻读硕士学位研究生资格的管理办法》，该项比赛是列入学科竞赛保研条目的，**荣获比赛一等奖并学业成绩处于专业前50%**的学生可获得保研资格。
 
 <div align=center>
-<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch2_5_1.png" alt="学科竞赛保研">
+<img src="https://xunlutzp.gitee.io/Image/Ch2_5_1.png" alt="学科竞赛保研">
 </div>
 
 ## 大赛准备过程
