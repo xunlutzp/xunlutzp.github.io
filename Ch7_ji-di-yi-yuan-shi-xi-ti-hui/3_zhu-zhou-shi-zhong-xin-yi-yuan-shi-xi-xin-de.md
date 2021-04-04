@@ -41,24 +41,24 @@
     <tr style="border-collapse:collapse;border:none;">
         <td style="border-collapse:collapse;border:none;">
             <div align=center>
-                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_3_1.jpeg" alt="株洲市中心医院宿舍走廊">
+                <img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch7_3_1.jpeg" alt="株洲市中心医院宿舍走廊">
             </div>
         </td>
         <td style="border-collapse:collapse;border:none;">
             <div align=center>
-                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_3_2.jpeg" alt="株洲市中心医院宿舍内景p1">
+                <img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch7_3_2.jpeg" alt="株洲市中心医院宿舍内景p1">
             </div>
         </td>
     </tr>
     <tr style="border-collapse:collapse;border:none;">
         <td style="border-collapse:collapse;border:none;">
             <div align=center>
-                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_3_3.jpeg" alt="株洲市中心医院宿舍内景p2">
+                <img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch7_3_3.jpeg" alt="株洲市中心医院宿舍内景p2">
             </div>
         </td>
         <td style="border-collapse:collapse;border:none;">
             <div align=center>
-                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch7_3_4.jpeg" alt="株洲市中心医院自习室">
+                <img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch7_3_4.jpeg" alt="株洲市中心医院自习室">
             </div>
         </td>
     </tr>

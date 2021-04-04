@@ -32,10 +32,10 @@
 
 ## 附件
 
-![曲别针](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/_1.svg)
+![曲别针](https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/_1.svg)
 [内科学思维导图.zip](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Attachment/Ch1_5-1_%E5%86%85%E7%A7%91%E5%AD%A6%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.zip)
 
-![曲别针](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/_1.svg)
+![曲别针](https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/_1.svg)
 [诊断学思维导图.zip](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Attachment/Ch1_5-1_%E8%AF%8A%E6%96%AD%E5%AD%A6%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.zip)
 
 注：上传的导图包括诊断学中的常见症状，内科学中呼吸、心血管、消化系统，各个系统的检查方法。

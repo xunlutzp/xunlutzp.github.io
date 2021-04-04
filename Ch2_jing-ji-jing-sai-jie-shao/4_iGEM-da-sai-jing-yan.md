@@ -17,7 +17,7 @@
 “iGEM，全称International Genetically Engineered Machine Competition，即国际基因工程机器大赛，是合成生物学（Synthetic Biology）领域的国际性大学生最高级别学术竞赛。iGEM希望参赛者从天然生物系统入手，构建标准化的生物元器件，进而对天然生物系统进行更高效、更可靠、以及更精准地改造，或者设计全新的人工生物系统。”
 
 <p align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_4_1.jpeg" alt="关于iGEM">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch2_4_1.jpeg" alt="关于iGEM">
 <br/>iGEM官网赛事介绍 https://igem.org/About
 </p>
 
@@ -30,7 +30,7 @@
 作为湘雅医学院临床医学五年制的学姐，我讲的含金量理应与大家的保研息息相关才行。在2019年，中南大学已经颁布了红头文件将iGEM大赛收录到了竞赛目录里，序列号72号，属于国际级比赛。附件我会附在最后，方便需要的朋友们查阅。
 
 <div align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_4_2.png" alt="竞赛目录第72号">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch2_4_2.png" alt="竞赛目录第72号">
 </div>
 
 所以它的含金量我相信大家都明白了（不懂的建议结合保研政策来看），在此我还想划一个重点：根据保研政策来看，一般团队项目的加分都是需要除以奖状上总人数的，iGEM肯定是属于团队比赛，但是比赛最终颁发的奖状却人人（仅指去美国参加最终项目展示的所有人）都有且上面只会有自己一个人的名字。
@@ -38,7 +38,7 @@
 此外，iGEM也被收录在《中南大学推荐优秀应届本科毕业生免试攻读硕士学位研究生资格的管理办法》，当团队获得金奖时，如果你在团队中的贡献度可以达到全队前两名，则有可能获得保研资格。
 
 <p align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_4_3.png" alt="中大教字〔2019〕8号表格">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch2_4_3.png" alt="中大教字〔2019〕8号表格">
 <br/>中大教字〔2019〕8号《中南大学推荐优秀应届本科毕业生免试攻读硕士学位研究生资格的管理办法》
 </p>
 
@@ -47,7 +47,7 @@
 总而言之，在学业不受影响的情况下（不知道药理期中还在不在双十一），我还是很乐意看到学弟学妹们去参加的。
 
 <p align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_4_4.png" alt="2016 Judging Handbook">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch2_4_4.png" alt="2016 Judging Handbook">
 <br/>2016 Judging Handbook http://2016.igem.org/Judging/Handbook
 </p>
 
@@ -488,7 +488,7 @@
 ## 大赛赛程
 
 <p align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_4_5.png" alt="iGEM竞赛赛程">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch2_4_5.png" alt="iGEM竞赛赛程">
 <br/>iGEM官方比赛日历|Calendar https://igem.org/Competition
 </p>
 
@@ -605,10 +605,10 @@
 > 紫色由实验组单独完成、黄色由Human Practices组单独完成，蓝色由建模组单独完成，其余项为各组共同完成
 
 <p align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_4_6.png" alt="2020年iGEM评审指南·铜奖">
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_4_7.png" alt="2020年iGEM评审指南·银奖">
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_4_8.png" alt="2020年iGEM评审指南·金奖p1">
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_4_9.png" alt="2020年iGEM评审指南·金奖p2">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch2_4_6.png" alt="2020年iGEM评审指南·铜奖">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch2_4_7.png" alt="2020年iGEM评审指南·银奖">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch2_4_8.png" alt="2020年iGEM评审指南·金奖p1">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch2_4_9.png" alt="2020年iGEM评审指南·金奖p2">
 <br/>2020年iGEM评审官方指南 https://2020.igem.org/wiki/images/7/71/2020_Judging_Handbook.pdf
 </p>
 

@@ -18,24 +18,24 @@
     <tr style="border-collapse:collapse;border:none;">
         <td style="border-collapse:collapse;border:none;">
             <div align=center>
-                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-2_1.jpeg" alt="培训阶段的记录1">
+                <img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch5_4-2_1.jpeg" alt="培训阶段的记录1">
             </div>
         </td>
         <td style="border-collapse:collapse;border:none;">
             <div align=center>
-                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-2_2.jpeg" alt="培训阶段的记录2">
+                <img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch5_4-2_2.jpeg" alt="培训阶段的记录2">
             </div>
         </td>
     </tr>
     <tr style="border-collapse:collapse;border:none;">
         <td style="border-collapse:collapse;border:none;">
             <div align=center>
-                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-2_3.jpeg" alt="培训阶段的记录3">
+                <img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch5_4-2_3.jpeg" alt="培训阶段的记录3">
             </div>
         </td>
         <td style="border-collapse:collapse;border:none;">
             <div align=center>
-                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-2_4.jpeg" alt="培训阶段的记录4">
+                <img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch5_4-2_4.jpeg" alt="培训阶段的记录4">
             </div>
         </td>
     </tr>
@@ -72,12 +72,12 @@
 > 3. 文献检索：推荐文献检索：
 >     1. 大木虫学术导航 http://www.4243.net/
 >         <div align=center>
-          <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-2_5.png" alt="大木虫学术导航">
+          <img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch5_4-2_5.png" alt="大木虫学术导航">
           </div>
 >
 >     2. https://sci-hub.tf/
 >         <div align=center>
-          <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-2_6.png" alt="SCI-HUB">
+          <img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch5_4-2_6.png" alt="SCI-HUB">
           </div>
 >
 >     3. 若能够使用VPN，直接Google学术也非常便捷
@@ -93,7 +93,7 @@
 
 ## 附件
 
-![曲别针](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/_1.svg)
+![曲别针](https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/_1.svg)
 [SCI写作投稿Tips.docx](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Attachment/Ch5_4-2_SCI%E5%86%99%E4%BD%9C%E6%8A%95%E7%A8%BFTips.docx)
 
 <p align="right">湘雅附二心理研究所科研助理 nana</p>

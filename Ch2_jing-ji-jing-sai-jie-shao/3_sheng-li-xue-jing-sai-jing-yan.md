@@ -31,11 +31,11 @@
 *PS. 许建平老师的公选课《生理学问题探讨》与IMSPQ密切相关，而且给分很好！欢迎有一定英语基础、对生理有兴趣，敢于挑战自己的学弟学妹们选修！可以真正在公选课上学到知识，加深对生理的理解并同时提升自己的英语能力。（在有一定生理基础即生理所在学年以后选修效果更佳）。*
 
 <div align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_3_1.png" alt="2019年IMSPQ笔试现场">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch2_3_1.png" alt="2019年IMSPQ笔试现场">
 </div>
 <br/>
 <div align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch2_3_2.png" alt="2019年IMSPQ口试现场">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch2_3_2.png" alt="2019年IMSPQ口试现场">
 </div>
 
 <p align="right">马嘉遥</p>

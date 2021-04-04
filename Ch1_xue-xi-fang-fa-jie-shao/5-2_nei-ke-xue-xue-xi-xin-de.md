@@ -10,13 +10,13 @@
 “易上手”是因为相对形态学等基础学科而言，内科学有更多应试方法可循。如前所述，内科期末一般只会考察上课讲过的内容，又考虑到内科为统考，三个院的上课内容可能会有差别，因此在开学初我们便可以拿到三个院的课表，在目录上只标记三个院将会讲到的疾病，这样信心会倍增。在学习习惯上，我推荐大家学完一种疾病，便试着用几句话概括该疾病的主要内容，这项工作可以借助课本上疾病已有的定义进行扩充，包括疾病最重要的病因、最具特点的临床表现、诊断金标准与一线治疗，并将可能考到的名词解释与简答题在书本上标记或摘录下来（可参考附录里Ben整理的高频考点），为方便定期复习，我推荐借助Anki来完成这项归纳整理工作，示例如下：
 
 <div align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch1_5-2_1.png" alt="Anki示例">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch1_5-2_1.png" alt="Anki示例">
 </div>
 
 根据自身习惯，大家也可以借助其他学习工具如思维导图，我习惯使用Xmind构建某种疾病的基本框架，在后续复习过程中逐渐添加更为详尽和重要的知识要点，示例如下。
 
 <div align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch1_5-2_2.png" alt="XMind示例">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch1_5-2_2.png" alt="XMind示例">
 </div>
 
 ## 内科应试技巧

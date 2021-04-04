@@ -47,7 +47,7 @@
 + 你的论文是自己做的统计学分析吗？你是第一作者吗？
 
 <p align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch9_6_1.jpeg" alt="意向培养单位志愿表">
+<img src="https://gitee.com/xunlutzp/xunlutzp/raw/master/Image/Ch9_6_1.jpeg" alt="意向培养单位志愿表">
 <br/>图1 意向培养单位志愿表（表的内容是给五个机构排序）
 </p>
 
