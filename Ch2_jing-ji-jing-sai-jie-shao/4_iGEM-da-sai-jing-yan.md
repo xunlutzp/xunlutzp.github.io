@@ -589,7 +589,7 @@
 
 ## 如何获得奖项
 
-在iGEM中，奖项被分为Medals和Prizes，Medals即为金（Gold）银（Silver）铜（Bronze）奖，Prizes则按照赛道及各组工作表现分为最佳治疗奖、最佳诊断奖、最佳食物奖、最佳环境奖、最佳海报、最佳建模奖、最佳教育奖最佳Integrated Human Practices奖等近30个单项奖。
+在iGEM中，奖项被分为Medals和Prizes，Medals即为金（Gold）银（Silver）铜（Bronze）奖，Prizes则按照赛道及各组工作表现分为最佳治疗奖、最佳诊断奖、最佳食物奖、最佳环境奖、最佳海报、最佳建模奖、最佳教育奖和最佳Integrated Human Practices奖等近30个单项奖。
 
 我校团队参与iGEM至今保持了一银（2018）两金（2019/2020）的好成绩，团队建设基本成熟，取得团队金奖并不困难。我所谓取得金奖之所以不难是因为：
 
@@ -612,7 +612,7 @@
 <br/>2020年iGEM评审官方指南 https://2020.igem.org/wiki/images/7/71/2020_Judging_Handbook.pdf
 </p>
 
-相比于Medasl，Prizes则具有更强的竞争性，是颁发给某一领域的最佳的队伍。截止2020年，我校团队还未获得单项奖，但我校iGEM团队CSU_CHINA也一直坚持不懈地在向获得单项奖的目标而努力。
+相比于Medals，Prizes则具有更强的竞争性，是颁发给某一领域的最佳的队伍。截止2020年，我校团队还未获得单项奖，但我校iGEM团队CSU_CHINA也一直坚持不懈地在向获得单项奖的目标而努力。
 
 以下是一些iGEM重要网址：
 
