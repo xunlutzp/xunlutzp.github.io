@@ -51,7 +51,7 @@
 ## 附件
 
 ![曲别针](https://xunlutzp.gitee.io/Image/_1.svg)
-[Xmind模板1.xmind](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Attachment/Ch4_18_Xmind%E6%A8%A1%E6%9D%BF1.xmind)
+[Xmind模板1.xmind](https://xunlutzp.gitee.io/Attachment/Ch4_18_Xmind%E6%A8%A1%E6%9D%BF1.xmind)
 
 ![曲别针](https://xunlutzp.gitee.io/Image/_1.svg)
-[Xmind模板2.xmind](https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Attachment/Ch4_18_Xmind%E6%A8%A1%E6%9D%BF2.xmind)
+[Xmind模板2.xmind](https://xunlutzp.gitee.io/Attachment/Ch4_18_Xmind%E6%A8%A1%E6%9D%BF2.xmind)
