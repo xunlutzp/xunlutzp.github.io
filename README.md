@@ -85,7 +85,7 @@
 * [篮球活动及篮球训练](Ch4_huo-dong-yu-shi-jian-jie-shao/10_lan-qiu-huo-dong-ji-lan-qiu-xun-lian.md)
 * [艺术团经历](Ch4_huo-dong-yu-shi-jian-jie-shao/11_yi-shu-tuan-jing-li.md)
 * [运动心得](Ch4_huo-dong-yu-shi-jian-jie-shao/12_yun-dong-xin-de.md)
-* [编程学习](Ch4_huo-dong-yu-shi-jian-jie-shao/13-0_bian-cheng-xue-xi)
+* [编程学习](Ch4_huo-dong-yu-shi-jian-jie-shao/13-0_bian-cheng-xue-xi.md)
     + [编程学习与应用](Ch4_huo-dong-yu-shi-jian-jie-shao/13-1_bian-cheng-xue-xi-yu-ying-yong.md)
     + [从程序语言起步的副业实例](Ch4_huo-dong-yu-shi-jian-jie-shao/13-2_cong-cheng-xu-yu-yan-qi-bu-de-fu-ye-shi-li.md)
 * [神经科学暑校活动](Ch4_huo-dong-yu-shi-jian-jie-shao/14-0_shen-jing-ke-xue-shu-xiao.md)
