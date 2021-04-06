@@ -13,7 +13,7 @@
 
 ## 总目录
 
-[寻路桐梓坡 · 序](qian-yan.md)
+[寻路桐梓坡 · 前言](qian-yan.md)
 
 [寻路桐梓坡 · 声明](sheng-ming.md)
 

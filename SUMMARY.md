@@ -1,7 +1,7 @@
 # Summary
 
 * [简介](README.md)
-* [寻路桐梓坡 · 序](qian-yan.md)
+* [寻路桐梓坡 · 前言](qian-yan.md)
 * [寻路桐梓坡 · 声明](sheng-ming.md)
 * [学习方法介绍](Ch1_xue-xi-fang-fa-jie-shao/readme.md)
     * [解剖学学习方法与资料](Ch1_xue-xi-fang-fa-jie-shao/1-0_jie-pou-xue.md)
