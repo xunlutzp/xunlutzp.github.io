@@ -37,7 +37,8 @@
 * [外科学各论学习经验分享](Ch1_xue-xi-fang-fa-jie-shao/9_wai-ke-xue-ge-luo-xue-xi-jing-yan.md)
 * [神经解剖学经验分享](Ch1_xue-xi-fang-fa-jie-shao/10_shen-jing-jie-pou-xue-jing-yan.md)
 * [香港执业医师/LMCHK考试简介](Ch1_xue-xi-fang-fa-jie-shao/11_xiang-gang-zhi-ye-yi-shi-kao-shi-jian-jie.md)
-* [辅修与多领域探索](Ch1_xue-xi-fang-fa-jie-shao/12_fu-xiu-yu-duo-ling-yu-tan-suo.md)
+* [美国执业医师考试简介](Ch1_xue-xi-fang-fa-jie-shao/12_mei-guo-zhi-ye-yi-shi-kao-shi-jian-jie.md)
+* [辅修与多领域探索](Ch1_xue-xi-fang-fa-jie-shao/13_fu-xiu-yu-duo-ling-yu-tan-suo.md)
 
 ### [第二章：竞技竞赛介绍](Ch2_jing-ji-jing-sai-jie-shao/readme.md)
 
@@ -96,6 +97,7 @@
 * [湘雅之声经历](Ch4_huo-dong-yu-shi-jian-jie-shao/16_xiang-ya-zhi-sheng-jing-li.md)
 * [湘雅内科小老师授课比赛](Ch4_huo-dong-yu-shi-jian-jie-shao/17_xiang-ya-nei-ke-xiao-lao-shi-shou-ke-bi-sai.md)
 * [如何制作一张美观清晰的思维导图](Ch4_huo-dong-yu-shi-jian-jie-shao/18_ru-he-zhi-zuo-si-wei-dao-tu.md)
+* [健康中南项目实践经验](Ch4_huo-dong-yu-shi-jian-jie-shao/19_jian-kang-zhong-nan-xiang-mu-jing-yan.md)
 
 ### [第五章：科研训练](Ch5_ke-yan-xun-lian/readme.md)
 
@@ -148,6 +150,8 @@
     * [临床交换之法国](Ch8_guo-ji-jiao-liu-xiang-mu/2-3_lin-chuang-jiao-huan-zhi-fa-guo.md)
     * [科研交换之立陶宛](Ch8_guo-ji-jiao-liu-xiang-mu/2-4_ke-yan-jiao-huan-zhi-li-tao-wan.md)
     * [科研交换之巴西](Ch8_guo-ji-jiao-liu-xiang-mu/2-5_ke-yan-jiao-huan-zhi-ba-xi.md)
+* [新加坡留学申请经验](Ch8_guo-ji-jiao-liu-xiang-mu/3_xin-jia-po-liu-xue-shen-qing-jing-yan.md)
+* [CSC-英国曼彻斯特大学合作奖学金项目申请经验](Ch8_guo-ji-jiao-liu-xiang-mu/4_CSC-UoM-jiang-xue-jin-xiang-mu-sheng-qing-jing-yan.md)
 
 ### [第九章：考研/保研经验与体会](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/readme.md)
 
@@ -156,7 +160,12 @@
 * [保研经验](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/3_bao-yan-jing-yan.md)
 * [放弃保研，备考中山孙逸仙的经历](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/4_fang-qi-bao-yan-bei-kao-zhong-shan-sun-yi-xian.md)
 * [420+分考研经验分享](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/5_420-fen-kao-yan-jing-yan.md)
-* [考研调剂经验分享](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/6_kao-yan-tiao-ji-jing-yan.md)
+* [北京大学第六医院考研经验](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/6_bei-da-liu-yuan-kao-yan-jing-yan.md)
+* [考研上岸瑞金医院心路历程](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/7_kao-yan-shang-an-rui-jin-xin-lu-li-cheng.md)
+* [中山大学考研经验分享](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/8_zhong-shan-da-xue-kao-yan-jing-yan.md)
+* [考研调剂经验分享](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/9_kao-yan-tiao-ji-jing-yan.md)
+* [千淘万漉虽辛苦，吹尽黄沙始到金——调剂经验帖](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/10_qian-tao-wan-lu-sui-xin-ku.md)
+* [山重水复——调剂经验帖](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/11_shan-chong-shui-fu.md)
 
 ### [第十章：世界观，价值观与感悟](Ch10_shi-jie-guan-jia-zhi-guan-yu-gan-wo/readme.md)
 
@@ -166,3 +175,5 @@
 * [何为“临床躺学”](Ch10_shi-jie-guan-jia-zhi-guan-yu-gan-wo/4_he-wei-lin-chuang-tang-xue.md)
 * [学习生活中常见问题的Tips](Ch10_shi-jie-guan-jia-zhi-guan-yu-gan-wo/5_xue-xi-sheng-huo-chang-jian-wen-ti-TIPS.md)
 * [社论——按图索骥VS自由探索](Ch10_shi-jie-guan-jia-zhi-guan-yu-gan-wo/6_she-lun-an-tu-suo-ji-VS-zi-you-tan-suo.md)
+
+[寻路桐梓坡 · 尾言](hou-ji.md)
