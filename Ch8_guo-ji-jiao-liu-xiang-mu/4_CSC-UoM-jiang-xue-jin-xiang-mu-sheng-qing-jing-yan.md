@@ -64,7 +64,7 @@
 
 1. 准备材料
     <div align=center>
-    <img src="https://xunlutzp.gitee.io/Image/Ch6_7_2.png" alt="材料清单">
+    <img src="https://xunlutzp.gitee.io/Image/Ch8_4_2.png" alt="材料清单">
     </div>
 
 2. 校内申请系统填写（申请系统studyabroad.csu.edu.cn/）
@@ -80,7 +80,7 @@
     4. 申请材料一律使用A4复印纸打印或复印，请在申请表第一页粘贴申请人近期彩色照片（一寸免冠、光纸正面）；
 
 <div align=center>
-<img src="https://xunlutzp.gitee.io/Image/Ch6_7_2.png" alt="CSC-UoM Joint Scholarship项目申请流程一览表">
+<img src="https://xunlutzp.gitee.io/Image/Ch8_4_2.png" alt="CSC-UoM Joint Scholarship项目申请流程一览表">
 </div>
 
 ## 申请心得与体会

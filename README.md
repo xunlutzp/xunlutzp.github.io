@@ -126,7 +126,6 @@
     * [精神科综合选拔经验](Ch6_rong-yu-he-zheng-ce-jie-du/5-1_jing-shen-ke-zong-xuan-jing-yan.md)
     * [湘雅医院感染科综合选拔经验](Ch6_rong-yu-he-zheng-ce-jie-du/5-2_xiang-ya-yi-yuan-gan-ran-ke-zong-xuan-jing-yan.md)
 * [国际会议公费申报流程](Ch6_rong-yu-he-zheng-ce-jie-du/6_guo-ji-hui-yi-gong-fei-shen-bao-liu-cheng.md)
-* [CSC-英国曼彻斯特大学合作奖学金项目申请经验](Ch6_rong-yu-he-zheng-ce-jie-du/7_CSC-UoM-jiang-xue-jin-xiang-mu-sheng-qing-jing-yan.md)
 
 ### [第七章：基地医院实习体会](Ch7_ji-di-yi-yuan-shi-xi-ti-hui/readme.md)
 
@@ -152,6 +151,7 @@
     * [科研交换之立陶宛](Ch8_guo-ji-jiao-liu-xiang-mu/2-4_ke-yan-jiao-huan-zhi-li-tao-wan.md)
     * [科研交换之巴西](Ch8_guo-ji-jiao-liu-xiang-mu/2-5_ke-yan-jiao-huan-zhi-ba-xi.md)
 * [新加坡留学申请经验](Ch8_guo-ji-jiao-liu-xiang-mu/3_xin-jia-po-liu-xue-shen-qing-jing-yan.md)
+* [CSC-英国曼彻斯特大学合作奖学金项目申请经验](Ch8_guo-ji-jiao-liu-xiang-mu/4_CSC-UoM-jiang-xue-jin-xiang-mu-sheng-qing-jing-yan.md)
 
 ### [第九章：考研/保研经验与体会](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/readme.md)
 
@@ -175,3 +175,5 @@
 * [何为“临床躺学”](Ch10_shi-jie-guan-jia-zhi-guan-yu-gan-wo/4_he-wei-lin-chuang-tang-xue.md)
 * [学习生活中常见问题的Tips](Ch10_shi-jie-guan-jia-zhi-guan-yu-gan-wo/5_xue-xi-sheng-huo-chang-jian-wen-ti-TIPS.md)
 * [社论——按图索骥VS自由探索](Ch10_shi-jie-guan-jia-zhi-guan-yu-gan-wo/6_she-lun-an-tu-suo-ji-VS-zi-you-tan-suo.md)
+
+[寻路桐梓坡 · 尾言](hou-ji.md)

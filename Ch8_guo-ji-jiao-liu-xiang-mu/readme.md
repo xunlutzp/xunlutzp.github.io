@@ -10,3 +10,4 @@
     + [科研交换之立陶宛](2-4_ke-yan-jiao-huan-zhi-li-tao-wan.md)
     + [科研交换之巴西](2-5_ke-yan-jiao-huan-zhi-ba-xi.md)
 + [新加坡留学申请经验](3_xin-jia-po-liu-xue-shen-qing-jing-yan.md)
++ [CSC-英国曼彻斯特大学合作奖学金项目申请经验](4_CSC-UoM-jiang-xue-jin-xiang-mu-sheng-qing-jing-yan.md)
