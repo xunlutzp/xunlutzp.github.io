@@ -10,3 +10,4 @@
     + [精神科综合选拔经验](5-1_jing-shen-ke-zong-xuan-jing-yan.md)
     + [湘雅医院感染科综合选拔经验](5-2_xiang-ya-yi-yuan-gan-ran-ke-zong-xuan-jing-yan.md)
 + [国际会议公费申报流程](6_guo-ji-hui-yi-gong-fei-shen-bao-liu-cheng.md)
++ [CSC-英国曼彻斯特大学合作奖学金项目申请经验](7_CSC-UoM-jiang-xue-jin-xiang-mu-sheng-qing-jing-yan.md)
