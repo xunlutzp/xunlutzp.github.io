@@ -15,6 +15,8 @@
 
 [寻路桐梓坡 · 声明](sheng-ming.md)
 
+[寻路桐梓坡 · 序](xu.md)
+
 [寻路桐梓坡 · 前言](qian-yan.md)
 
 ### [第一章：学习方法介绍](Ch1_xue-xi-fang-fa-jie-shao/readme.md)
