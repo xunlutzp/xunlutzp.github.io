@@ -4,12 +4,12 @@
     <tr style="border-collapse:collapse;border:none;">
         <td style="border-collapse:collapse;border:none;padding:0;">
             <div align=center>
-                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch8_2-0_1.png" alt="临床交换">
+                <img src="https://xunlutzp.gitee.io/Image/Ch8_2-0_1.png" alt="临床交换">
             </div>
         </td>
         <td style="border-collapse:collapse;border:none;padding:0;">
             <div align=center>
-                <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch8_2-0_2.png" alt="科研交换">
+                <img src="https://xunlutzp.gitee.io/Image/Ch8_2-0_2.png" alt="科研交换">
             </div>
         </td>
     </tr>
@@ -20,7 +20,6 @@
 交换项目中规模最大，最受大家欢迎的是临床交换（professional exchange，PE）和科研交换（research exchange，RE）项目。项目为期一月，每年湘雅有30个左右的名额，可选择的交换国家包括德国、日本、芬兰、瑞典、挪威、法国、意大利、西班牙、俄罗斯、捷克等。其中20名同学将前往这些国家的医院在科室实习，10名同学则将前往医院实验室加入自己心仪的科研小组。项目的模式为双边交换，即国外的大学及医院会为我校学生提供免费住宿和工作餐，反之，外国留学生在华住宿和工作餐由湘雅提供。实习所在医院会为每位交换生安排1-2位联络人，确保其在生活工作都安全、丰富。交换生可以申请全年任何一个月的时间参加交换，其中寒暑假成为最热门的时间，各个国家的联合会都会在此期间安排national trip，为交换生在周末组团前往其他城市游玩提供机会。
 
 ## 出访流程 | The process
-
 ### 2018年11月
 
 （1）在大三学年上学期大概11月中旬时，学院发布了项目申请的通知，有一定的选拔条件（比较硬性的条件有：优先考虑托福、雅思成绩优秀者，综测排名原则上为前50%，上一学年不得有不及格科目，已通过六级考试），符合条件的学生自行邮箱提交申请表和申请材料（英语成绩证明材料、加权成绩和排名截图），申请表需要辅导员签字。

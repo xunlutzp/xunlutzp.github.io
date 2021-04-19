@@ -54,11 +54,11 @@
 3. 强调重点词汇和短语的巩固。
 
 <div align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch3_4_1.png" alt="图1">
+<img src="https://xunlutzp.gitee.io/Image/Ch3_4_1.png" alt="图1">
 </div>
 <br/>
 <div align=center>
-<img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch3_4_2.png" alt="图2">
+<img src="https://xunlutzp.gitee.io/Image/Ch3_4_2.png" alt="图2">
 </div>
 
 当然，个人的智慧是有限的，以上不是唯一的方法，也不是最好的方法。在日常学习中也可以多加留心，比如部分笔记可以用英语；比如思考一下L-选择素、P-选择素、E-选择素的L/P/E分别代表什么单词？（leukocyte, platelet, endothelial）；比如多看一些国外的医学视频和文献。

@@ -9,7 +9,6 @@
 或许有同学问，为何不好好挖掘自己医院的数据库呢？大概是比较麻烦吧，需要自己整理若干材料，走若干流程。既然如此麻烦，为何不在已有数据库上找到合适的角度切入呢？一来借此机会掌握临床研究的种种概念，二来提升自身的统计学技能和计算机水平。
 
 ## 相关问题与个人看法
-
 ### 如何找到数据库？
 
 答：阅览文献，在临床研究的Methods中找答案。
@@ -33,31 +32,31 @@
 1. 利用MIMIC III数据库的数据发表的文章，浙大某急诊科医生2018年发表在《重症医疗监护》中的论文。
 
     <div align=center>
-    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-1_1.png" alt="浙大急诊科医生2018年利用MIMIC III数据库的数据发表的文章">
+    <img src="https://xunlutzp.gitee.io/Image/Ch5_4-1_1.png" alt="浙大急诊科医生2018年利用MIMIC III数据库的数据发表的文章">
     </div>
     <br/>
 
-2. 利用随机对照试验发表的二次研究，浙大某急诊科医生2019年发表在JCR1区，影响因子7.414的文章。
+2. 利用随机对照试验发表的二次研究，浙大某急诊科医生2019年发表在JCR1区的文章。
 
     <div align=center>
-    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-1_2.png" alt="浙大急诊科医生2019年利用随机对照试验发表的二次研究文章">
+    <img src="https://xunlutzp.gitee.io/Image/Ch5_4-1_2.png" alt="浙大急诊科医生2019年利用随机对照试验发表的二次研究文章">
     </div>
     <br/>
 
-3. 利用GEO数据库进行基因网状分析，浙大某急诊科医生2020年发表在JCR2区，影响因子4.124的文章。
+3. 利用GEO数据库进行基因网状分析，浙大某急诊科医生2020年发表在JCR2区的文章。
 
     <div align=center>
-    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-1_3.png" alt="浙大急诊科医生2020年利用GEO数据库进行基因网状分析发表的文章">
+    <img src="https://xunlutzp.gitee.io/Image/Ch5_4-1_3.png" alt="浙大急诊科医生2020年利用GEO数据库进行基因网状分析发表的文章">
     </div>
     <br/>
 
 4. 利用ELSA数据库进行分析，ELSA数据库全称是English longitudinal study of aging，开放获取，国人也有文章发表。
 
     <div align=center>
-    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-1_4.jpeg" alt="国人利用ELSA数据库发表的文章1">
+    <img src="https://xunlutzp.gitee.io/Image/Ch5_4-1_4.jpeg" alt="国人利用ELSA数据库发表的文章1">
     </div>
     <div align=center>
-    <img src="https://gitee.com/zcx980605/Survive_XYSM_dev/raw/master/Image/Ch5_4-1_5.jpeg" alt="国人利用ELSA数据库发表的文章2">
+    <img src="https://xunlutzp.gitee.io/Image/Ch5_4-1_5.jpeg" alt="国人利用ELSA数据库发表的文章2">
     </div>
     <br/>
 
