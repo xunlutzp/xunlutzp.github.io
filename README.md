@@ -20,17 +20,19 @@
 
 ## 内容编写进度
 
-+ [寻路桐梓坡 · 序](qian-yan.md)（已完成）✅
-+ [第一章：学习方法介绍](Ch1_xue-xi-fang-fa-jie-shao/readme.md)（一篇未提交，且未编入目录）❌
-+ [第二章：竞技竞赛介绍](Ch2_jing-ji-jing-sai-jie-shao/readme.md)（已全部提交，但一篇被标记为待完善）⭕
-+ [第三章：语言学习介绍](Ch3_yu-yan-xue-xi-jie-shao/readme.md)（已全部提交）✅
-+ [第四章：活动与实践介绍](Ch4_huo-dong-yu-shi-jian-jie-shao/readme.md)（已全部提交）✅
-+ [第五章：科研训练](Ch5_ke-yan-xun-lian/readme.md)（已全部提交）✅
-+ [第六章：荣誉和政策解读](Ch6_rong-yu-he-zheng-ce-jie-du/readme.md)（已全部提交）✅
-+ [第七章：基地医院实习体会](Ch7_ji-di-yi-yuan-shi-xi-ti-hui/readme.md)（已全部提交，但一篇被标记为待完善）⭕
-+ [第八章：国际交流项目](Ch8_guo-ji-jiao-liu-xiang-mu/readme.md)（已全部提交）✅
-+ [第九章：考研/保研经验与体会](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/readme.md)（新章节，已计划新增多篇）❌
-+ [第十章：世界观，价值观与感悟](Ch10_shi-jie-guan-jia-zhi-guan-yu-gan-wo/readme.md)（已全部提交）✅
+|章节|所含内容及编写状态|标记|
+|----|----|----|
+|（[声明](sheng-ming.md)，[序](xu.md)，[前言](qian-yan.md)，[尾言](hou-ji.md)）|4篇，已完成|✅|
+|[第一章：学习方法介绍](Ch1_xue-xi-fang-fa-jie-shao/readme.md)|共计18篇，已全部提交|✅|
+|[第二章：竞技竞赛介绍](Ch2_jing-ji-jing-sai-jie-shao/readme.md)|共计11篇，已全部提交，1篇被标记为待完善|⭕|
+|[第三章：语言学习介绍](Ch3_yu-yan-xue-xi-jie-shao/readme.md)|共计9篇，已全部提交|✅|
+|[第四章：活动与实践介绍](Ch4_huo-dong-yu-shi-jian-jie-shao/readme.md)|共计25篇，已全部提交|✅|
+|[第五章：科研训练](Ch5_ke-yan-xun-lian/readme.md)|共计11篇，已全部提交|✅|
+|[第六章：荣誉和政策解读](Ch6_rong-yu-he-zheng-ce-jie-du/readme.md)|共计7篇，已全部提交|✅|
+|[第七章：基地医院实习体会](Ch7_ji-di-yi-yuan-shi-xi-ti-hui/readme.md)|共计11篇，已全部提交，1篇被标记为待完善|⭕|
+|[第八章：国际交流项目](Ch8_guo-ji-jiao-liu-xiang-mu/readme.md)|共计9篇（其中5篇拆分自原稿1篇），已全部提交|✅|
+|[第九章：考研/保研经验与体会](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/readme.md)|共计11篇，已全部提交|✅|
+|[第十章：世界观，价值观与感悟](Ch10_shi-jie-guan-jia-zhi-guan-yu-gan-wo/readme.md)|共计6篇，已全部提交|✅|
 
 ## 网页版排版进度
 
@@ -80,10 +82,10 @@
 
 ### 第五阶段（准备发布）
 
-合入新提交的文档，更正之前阶段未发现的问题，建立公有账号，移交项目所有权（正在进行）⏳
+合入新提交的文档，更正之前阶段未发现的问题，建立公有账号，移交项目所有权（已完成）✅
 
 + 开始于：2021/04/02
-+ 预计完成于：2021/04/04
++ 完成于：2021/04/04
 
 ----
 
