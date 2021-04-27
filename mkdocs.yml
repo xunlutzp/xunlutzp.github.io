@@ -2,15 +2,35 @@ docs_dir: lnk_for_mkdocs
 
 site_name: 寻路桐梓坡
 site_description: 寻路桐梓坡简介
-site_author: 本书编委会
+site_author: 寻路桐梓坡编委会
 site_url: https://xunlutzp.github.io/
 
-repo_name: 'xunlutzp/xunlutzp.github.io'
-repo_url: 'https://github.com/xunlutzp/xunlutzp.github.io'
+copyright: Copyright &copy; 本书编委会全体成员
+
+repo_name: xunlutzp/xunlutzp.github.io
+repo_url: https://github.com/xunlutzp/xunlutzp.github.io
+edit_uri: edit/master/
 
 theme:
   name: material
   language: 'zh'
+  icon:
+    repo: fontawesome/brands/git-alt
+  features:
+    - navigation.instant
+    - navigation.top
+    # - toc.integrate
+
+extra:
+  generator: false
+
+markdown_extensions:
+  - admonition
+  - pymdownx.magiclink
+  - pymdownx.tilde 
+
+plugins:
+  - git-revision-date-localized
 
 nav:
   - 简介: index.md
