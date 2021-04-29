@@ -17,7 +17,7 @@ switch (window.location.hostname) {
         var notrack = true
 }
 
-if (notrack) {
+if (!notrack) {
 
     var _hmt = _hmt || [];
     
