@@ -1,4 +1,4 @@
-docs_dir: lnk_for_mkdocs
+docs_dir: dir_for_mkdocs
 
 site_name: 寻路桐梓坡
 site_description: 寻路桐梓坡简介
@@ -23,6 +23,9 @@ theme:
 
 extra:
   generator: false
+
+extra_javascript:
+  - extrajavascripts/baidu_analytics.js
 
 markdown_extensions:
   - admonition
