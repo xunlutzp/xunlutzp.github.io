@@ -12,9 +12,9 @@
 
 **感悟：**comment只是一种观点，一种不经过同行评议的文章类型，并非是“学术成果”或者追逐名利的工具。庄子在《秋水》的最后的告诫，希望与大家共勉：不要用有意的作为去扭曲事物的禀性，也不要为获取虚名而不遗余力。谨慎地持守自然的禀性而不丧失，这就叫返归本真。
 
-> [!NOTE|style:callout]
-> 注1：文笔好，才情高的同学，欢迎关注《柳叶刀》的“威克利-伍连德奖”。
->
-> 注2：《The Lancet》除letter to editor和comment外，还包括：Perspectives, reflection, in focus, insight, culture, media watch, in context和spotlight。观点类文章不需同行评议，包括：社会关注的健康问题或医学问题，对书籍，电影，戏剧和展览的评价以及病人撰写的作品。
+!!! NOTE
+    注1：文笔好，才情高的同学，欢迎关注《柳叶刀》的“威克利-伍连德奖”。
+
+    注2：《The Lancet》除letter to editor和comment外，还包括：Perspectives, reflection, in focus, insight, culture, media watch, in context和spotlight。观点类文章不需同行评议，包括：社会关注的健康问题或医学问题，对书籍，电影，戏剧和展览的评价以及病人撰写的作品。
 
 <p align="right">某槟榔君<br/>写于2021年1月26日</p>

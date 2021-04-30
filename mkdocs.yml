@@ -29,8 +29,9 @@ extra_javascript:
 
 markdown_extensions:
   - admonition
+  - pymdownx.details
   - pymdownx.magiclink
-  - pymdownx.tilde 
+  - pymdownx.tilde
 
 plugins:
   - git-revision-date-localized
