@@ -16,6 +16,19 @@ theme:
   language: 'zh'
   icon:
     repo: fontawesome/brands/git-alt
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: 切换到夜间模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      toggle:
+        icon: material/toggle-switch
+        name: 关闭夜间模式
   features:
     - navigation.instant
     - navigation.top
@@ -24,8 +37,11 @@ theme:
 extra:
   generator: false
 
+extra_css:
+  - extra/mystyle.css
+
 extra_javascript:
-  - extrajavascripts/baidu_analytics.js
+  - extra/baidu_analytics.js
 
 markdown_extensions:
   - admonition
@@ -34,7 +50,9 @@ markdown_extensions:
   - pymdownx.tilde
 
 plugins:
-  - git-revision-date-localized
+  - search
+  - git-revision-date-localized:
+      type: datetime
 
 nav:
   - 简介: index.md
