@@ -1,4 +1,4 @@
-var notrack = false
+var track = true
 
 switch (window.location.hostname) {
     case "xunlutzp.github.io":
@@ -14,10 +14,10 @@ switch (window.location.hostname) {
         var token = "310ef0d3cb71c5cfbac358ba5d489af5"
         break
     default:
-        var notrack = true
+        var track = false
 }
 
-if (!notrack) {
+if (track) {
 
     var _hmt = _hmt || [];
 
@@ -28,8 +28,8 @@ if (!notrack) {
         s.parentNode.insertBefore(hm, s);
     })();
 
-    location$.subscribe(function () {
-        var path = window.location.pathname + window.location.search
+    location$.subscribe(function (location) {
+        var path = location.pathname + location.search
         _hmt.push(['_trackPageview', path]);
     })
 }
