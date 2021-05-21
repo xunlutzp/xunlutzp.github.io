@@ -2,48 +2,48 @@
 
 + **编委会顾问**
 
-    中南大学副校长、湘雅医学院院长&emsp;&emsp;&emsp;&nbsp;陈翔教授    
-    中南大学湘雅医学院党委书记&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;黎志宏
+    中南大学副校长、湘雅医学院院长&emsp;&emsp;&emsp;&ensp;&nbsp;陈翔 教授    
+    中南大学湘雅医学院党委书记&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;黎志宏 教授
 
 + **执行编委会**（排名不分先后）
 
-    临五16级袁铭阳&emsp;&emsp;临五16级朱威&emsp;&emsp;&emsp;临五16级赵臣轩    
-    临五16级汤不器&emsp;&emsp;临五16级黄灵鹃&emsp;&emsp;临五16级周博伦    
-    临五16级游梦姝&emsp;&emsp;临五16级罗曼文&emsp;&emsp;精神16级林嘉惠
+    临五16级 袁铭阳&emsp;&emsp;临五16级 朱威&emsp;&emsp;&emsp;临五16级 赵臣轩    
+    临五16级 汤不器&emsp;&emsp;临五16级 黄灵鹃&emsp;&emsp;临五16级 周博伦    
+    临五16级 游梦姝&emsp;&emsp;临五16级 罗曼文&emsp;&emsp;精神16级 林嘉惠
 
 + **编委会成员**（按照姓氏拼音顺序排列）
 
-    临五16级白璐&emsp;&emsp;&emsp;临五16级巴证清&emsp;&emsp;临五13级毕国澍    
-    临五16级陈镜颖&emsp;&emsp;临五18级陈诗茵&emsp;&emsp;临五16级陈银华    
-    临五16级陈天然&emsp;&emsp;临五16级程柳杨&emsp;&emsp;精神16级邓超    
-    临五16级邓思涵&emsp;&emsp;临五16级段时新&emsp;&emsp;临五15级付傲    
-    临五16级冯韬锦&emsp;&emsp;临五16级甘清桦&emsp;&emsp;临五16级郭文璟    
-    临五16级何柳儿&emsp;&emsp;临五16级黄秋&emsp;&emsp;&emsp;临五16级何御坤    
-    临五16级贺逸夫&emsp;&emsp;临五16级贺筠博&emsp;&emsp;临五16级华玉泽    
-    临五16级蒋伯岳&emsp;&emsp;临五16级姜朝晖&emsp;&emsp;临五13级贾硕    
-    临五16级计筱珊&emsp;&emsp;临五16级梁楚婷&emsp;&emsp;临五18级刘昊琳    
-    临五16级刘嘉苗&emsp;&emsp;临五17级刘志聪&emsp;&emsp;临五16级李春博    
-    临五16级李思源&emsp;&emsp;临五16级李少雅&emsp;&emsp;临五16级李琳    
-    临五15级刘香贺&emsp;&emsp;临五16级李沛泓&emsp;&emsp;临五16级李锐      
-    临五16级李樨&emsp;&emsp;&emsp;临五16级李翔宇&emsp;&emsp;精神16级李云飞扬&emsp;&emsp;     
-    临五16级李臻&emsp;&emsp;&emsp;临五17级梁明钰&emsp;&emsp;临五16级黎鑫琦    
-    临五16级卢虹妤&emsp;&emsp;临八16级卢朋&emsp;&emsp;&emsp;临五16级雷雨    
-    临五16级林晓锡&emsp;&emsp;麻醉16级林雨琪&emsp;&emsp;临五16级陆漪琳    
-    预防16级麦尔蔓&emsp;&emsp;精神16级毛珏怡&emsp;&emsp;临五16级毛世航&emsp;&emsp;     
-    临五16级马嘉遥&emsp;&emsp;临五16级莫舒咏&emsp;&emsp;临五17级莫郁瑶&emsp;&emsp;     
-    临五14级缪嘉西&emsp;&emsp;精神16级倪曦&emsp;&emsp;&emsp;临五16级潘灏瑜    
-    临五16级彭妍璟&emsp;&emsp;临五16级宋丹丹&emsp;&emsp;临五16级施婧    
-    临五16级申一村&emsp;&emsp;精神16级唐牧云&emsp;&emsp;临五16级王海    
-    临五18级王威扬&emsp;&emsp;精神16级文杰&emsp;&emsp;&emsp;临五17级武明阳    
-    临五16级武安可&emsp;&emsp;临五16级吴钰清&emsp;&emsp;临五16级谢海斌    
-    临五16级谢卓霖&emsp;&emsp;临五16级徐依萍&emsp;&emsp;临五16级杨志寰    
-    精神16级杨柳&emsp;&emsp;&emsp;基础16级叶丽&emsp;&emsp;&emsp;临五16级喻泊遥    
-    麻醉16级张昌腾&emsp;&emsp;临五16级张耕铭&emsp;&emsp;临五16级张皓程    
-    口五16级张海文&emsp;&emsp;临五17级张汉伊&emsp;&emsp;预防16级张娜    
-    临五16级张楠&emsp;&emsp;&emsp;临五16级张思维&emsp;&emsp;临五16级张煜轩    
-    临八08级张丽丽&emsp;&emsp;临五16级周泓&emsp;&emsp;&emsp;精神18级周孝文    
-    神内18级周然&emsp;&emsp;&emsp;护理16级周雅琴&emsp;&emsp;临五16级朱艳    
-    临八17级朱子晴
+    临五16级 白璐&emsp;&emsp;&emsp;临五16级 巴证清&emsp;&emsp;临五13级 毕国澍    
+    临五16级 陈镜颖&emsp;&emsp;临五18级 陈诗茵&emsp;&emsp;临五16级 陈银华    
+    临五16级 陈天然&emsp;&emsp;临五16级 程柳杨&emsp;&emsp;精神16级 邓超    
+    临五16级 邓思涵&emsp;&emsp;临五16级 段时新&emsp;&emsp;临五15级 付傲    
+    临五16级 冯韬锦&emsp;&emsp;临五16级 甘清桦&emsp;&emsp;临五16级 郭文璟    
+    临五16级 何柳儿&emsp;&emsp;临五16级 黄秋&emsp;&emsp;&emsp;临五16级 何御坤    
+    临五16级 贺逸夫&emsp;&emsp;临五16级 贺筠博&emsp;&emsp;临五16级 华玉泽    
+    临五16级 蒋伯岳&emsp;&emsp;临五16级 姜朝晖&emsp;&emsp;临五13级 贾硕    
+    临五16级 计筱珊&emsp;&emsp;临五16级 梁楚婷&emsp;&emsp;临五18级 刘昊琳    
+    临五16级 刘嘉苗&emsp;&emsp;临五17级 刘志聪&emsp;&emsp;临五16级 李春博    
+    临五16级 李思源&emsp;&emsp;临五16级 李少雅&emsp;&emsp;临五16级 李琳    
+    临五15级 刘香贺&emsp;&emsp;临五16级 李沛泓&emsp;&emsp;临五16级 李锐      
+    临五16级 李樨&emsp;&emsp;&emsp;临五16级 李翔宇&emsp;&emsp;精神16级 李云飞扬&emsp;&emsp;     
+    临五16级 李臻&emsp;&emsp;&emsp;临五17级 梁明钰&emsp;&emsp;临五16级 黎鑫琦    
+    临五16级 卢虹妤&emsp;&emsp;临八16级 卢朋&emsp;&emsp;&emsp;临五16级 雷雨    
+    临五16级 林晓锡&emsp;&emsp;麻醉16级 林雨琪&emsp;&emsp;临五16级 陆漪琳    
+    预防16级 麦尔蔓&emsp;&emsp;精神16级 毛珏怡&emsp;&emsp;临五16级 毛世航&emsp;&emsp;     
+    临五16级 马嘉遥&emsp;&emsp;临五16级 莫舒咏&emsp;&emsp;临五17级 莫郁瑶&emsp;&emsp;     
+    临五14级 缪嘉西&emsp;&emsp;精神16级 倪曦&emsp;&emsp;&emsp;临五16级 潘灏瑜    
+    临五16级 彭妍璟&emsp;&emsp;临五16级 宋丹丹&emsp;&emsp;临五16级 施婧    
+    临五16级 申一村&emsp;&emsp;精神16级 唐牧云&emsp;&emsp;临五16级 王海    
+    临五18级 王威扬&emsp;&emsp;精神16级 文杰&emsp;&emsp;&emsp;临五17级 武明阳    
+    临五16级 武安可&emsp;&emsp;临五16级 吴钰清&emsp;&emsp;临五16级 谢海斌    
+    临五16级 谢卓霖&emsp;&emsp;临五16级 徐依萍&emsp;&emsp;临五16级 杨志寰    
+    精神16级 杨柳&emsp;&emsp;&emsp;基础16级 叶丽&emsp;&emsp;&emsp;临五16级 喻泊遥    
+    麻醉16级 张昌腾&emsp;&emsp;临五16级 张耕铭&emsp;&emsp;临五16级 张皓程    
+    口五16级 张海文&emsp;&emsp;临五17级 张汉伊&emsp;&emsp;预防16级 张娜    
+    临五16级 张楠&emsp;&emsp;&emsp;临五16级 张思维&emsp;&emsp;临五16级 张煜轩    
+    临八08级 张丽丽&emsp;&emsp;临五16级 周泓&emsp;&emsp;&emsp;精神18级 周孝文    
+    神内18级 周然&emsp;&emsp;&emsp;护理16级 周雅琴&emsp;&emsp;临五16级 朱艳    
+    临八17级 朱子晴
 
 ----
 
