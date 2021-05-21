@@ -2,7 +2,8 @@
 
 + **编委会顾问**
 
-    中南大学副校长、湘雅医学院院长&emsp;&emsp;&emsp;&nbsp;陈翔教授
+    中南大学副校长、湘雅医学院院长&emsp;&emsp;&emsp;&nbsp;陈翔教授    
+    中南大学湘雅医学院党委书记&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;黎志宏
 
 + **执行编委会**（排名不分先后）
 
