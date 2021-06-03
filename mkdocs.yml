@@ -1,7 +1,7 @@
 docs_dir: dir_for_mkdocs
 
 site_name: 寻路桐梓坡
-site_description: 寻路桐梓坡简介
+site_description: 寻路桐梓坡——面向湘雅医学院医学本科生的经验帖合集
 site_author: 寻路桐梓坡编委会
 site_url: https://xunlutzp.github.io/
 
