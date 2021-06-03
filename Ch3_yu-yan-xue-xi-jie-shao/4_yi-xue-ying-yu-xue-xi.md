@@ -5,33 +5,36 @@
 首先要知道医学英语对于母语是英语的外国人来说也是天书一般的存在，所以其实大家的起跑线都是一样的，英语基础差也可以学会医学英语。学习医学英语是有方法可循的，不要死记硬背。
 
 + 通过词根词缀来理解单词或猜测单词的意思，善于自己去总结规律
-    > [!TIP|style:callout|label:一个例子]
-    > 比如以葡萄糖glucose为例，    
-    > 糖酵解：glycolysis，（glyco-指糖，lysis有溶解的意思）   
-    > 糖原合成：glycogenesis，（generate：产生→genesis：生成，合成）  
-    > 糖原分解：glycogenelysis    
-    > 糖原：glycogen（-gen是指一种物质尚未被激活使用的状态，比如各种酶原：trypsinogen，pepsinogen等等）
+
+    !!! EXAMPLE "一个例子"
+        比如以**葡萄糖glucose**为例：    
+        糖酵解：glycolysis，（glyco-指糖，lysis有溶解的意思）   
+        糖原合成：glycogenesis，（generate：产生→genesis：生成，合成）  
+        糖原分解：glycogenelysis    
+        糖原：glycogen（-gen是指一种物质尚未被激活使用的状态，比如各种酶原：trypsinogen，pepsinogen等等）
 
 + 先学会单词的读音才能进一步记住它：学会通过看音标来正确读音
 
 + 多看英文文献或者英文版的医学专业书籍/教材
-    > [!TIP|style:callout]
-    > 看文献的时候用一个简单易操作的查词app，电脑推荐欧路词典，鼠标取词就能查看，句子翻译也很准确。不要急于去给每个生词都标上中文意思，这样等你通篇标完，你完全没看懂全文在讲什么。（道理同适用于英语阅读）
+
+    !!! TIP
+        看文献的时候用一个简单易操作的查词app，电脑推荐欧路词典，鼠标取词就能查看，句子翻译也很准确。不要急于去给每个生词都标上中文意思，这样等你通篇标完，你完全没看懂全文在讲什么。（道理同适用于英语阅读）
 
 + 多听、多看英文版医学视频
 
 + 多看英文解释
-    > [!TIP|style:callout]
-    > 对于专业的医学知识或医学名词的解释，大多数时候英文解释是更容易理解的，直译成中文后有时会变得很拗口，所以遇到医学术语，可以先去查看维基百科wikipedia或者Google上的专业英文释义。
 
-> [!NOTE|style:flat|label:一些推荐|iconVisibility:hidden]
-> 推荐医学专业英文原版书籍和视频：Pathoma（Fundamentals of Pathology，考USMLE的病理复习一手材料，附讲解视频，入门级上手简单易懂，某宝可买，也有电子版）
->
-> 推荐词典：欧路词典
->
-> 推荐网站：uptodate临床顾问英文版（某宝可买会员），wikipedia
->
-> 推荐英文医学视频：osmosis（动画形式讲解病例，目前有出中文字幕的资源），Sketchy Microbiology（动画形式讲解，有助于记忆，但看懂需要比较高的英语基础）
+    !!! TIP
+        对于专业的医学知识或医学名词的解释，大多数时候英文解释是更容易理解的，直译成中文后有时会变得很拗口，所以遇到医学术语，可以先去查看维基百科wikipedia或者Google上的专业英文释义。
+
+!!! SUCCESS "一些推荐"
+    推荐医学专业英文原版书籍和视频：Pathoma（Fundamentals of Pathology，考USMLE的病理复习一手材料，附讲解视频，入门级上手简单易懂，某宝可买，也有电子版）
+
+    推荐词典：欧路词典
+
+    推荐网站：uptodate临床顾问英文版（某宝可买会员），wikipedia
+
+    推荐英文医学视频：osmosis（动画形式讲解病例，目前有出中文字幕的资源），Sketchy Microbiology（动画形式讲解，有助于记忆，但看懂需要比较高的英语基础）
 
 <p align="right">16级临五 李樨</p>
 

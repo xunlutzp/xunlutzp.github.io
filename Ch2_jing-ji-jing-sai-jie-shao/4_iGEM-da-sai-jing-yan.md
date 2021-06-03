@@ -600,8 +600,8 @@
 
 ## 附：2020年iGEM评奖标准
 
-> [!NOTE|style:callout|label:注：]
-> 紫色由实验组单独完成、黄色由Human Practices组单独完成，蓝色由建模组单独完成，其余项为各组共同完成
+!!! NOTE "注："
+    紫色由实验组单独完成、黄色由Human Practices组单独完成，蓝色由建模组单独完成，其余项为各组共同完成
 
 <p align=center>
 <img src="https://xunlutzp.gitee.io/Image/Ch2_4_6.png" alt="2020年iGEM评审指南·铜奖">
