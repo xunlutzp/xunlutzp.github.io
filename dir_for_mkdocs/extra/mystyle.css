@@ -42,9 +42,9 @@
     width: 1.1rem;
     height: 1.1rem;
 }
-html .md-typeset .admonition>:first-child, html .md-typeset details>:first-child{
+html .md-typeset .admonition>:nth-child(2), html .md-typeset details>:nth-child(2){
     padding-top: .75em;
-    margin-bottom: .75em;
+    /* margin-bottom: .75em; */
 }
 .md-typeset .admonition, .md-typeset details{
     font-size: .75rem;
