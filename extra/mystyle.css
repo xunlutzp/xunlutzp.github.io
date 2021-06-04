@@ -1,0 +1,85 @@
+.md-typeset h1 {
+    font-weight: 700;
+}
+
+.md-typeset h2 {
+    margin-top: 1em;
+    margin-bottom: .5em;
+    font-size: 1.75em;
+    font-weight: 700;
+}
+.md-typeset h3{
+    border-left-style: solid;
+    border-left-width: 3px;
+    border-left-color: #ccc;
+    padding-left: 6px;
+    margin-top: 1em;
+    margin-bottom: .5em;
+    font-size: 1.5em;
+    font-weight: 500;
+}
+.md-typeset h4{
+    text-decoration-style: solid;
+    text-decoration-line: underline;
+    text-decoration-color: #000;
+    text-underline-position: under;
+    padding-left: 2px;
+    margin-top: .75em;
+    margin-bottom: .25em;
+    font-size: 1.25em;
+    font-weight: 500;
+}
+.md-typeset h5, .md-typeset h6{
+    margin-top: .75em;
+    margin-bottom: .25em;
+    font-size: 1em;
+    font-weight: 300;
+}
+/* .md-typeset .admonition-title, .md-typeset summary{
+    margin-bottom: .75em;
+} */
+.md-typeset .admonition-title:before, .md-typeset summary:before{
+    width: 1.1rem;
+    height: 1.1rem;
+}
+html .md-typeset .admonition>:nth-child(2), html .md-typeset details>:nth-child(2){
+    padding-top: .75em;
+    /* margin-bottom: .75em; */
+}
+.md-typeset .admonition, .md-typeset details{
+    font-size: .75rem;
+}
+.md-typeset table:not([class]){
+    font-size: .8rem;
+}
+.md-typeset table:not([class]) td, .md-typeset table:not([class]) th{
+    vertical-align: middle;
+}
+.md-typeset ol, .md-typeset ul{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: .75em;
+}
+.md-typeset ol li:first-child, .md-typeset ul li:first-child{
+    margin-top: -.25em;
+}
+.md-typeset ol li:last-child, .md-typeset ul li:last-child{
+    margin-bottom: .5em;
+}
+.md-typeset ol li p, .md-typeset ul li p{
+    margin-top: 0;
+    /* margin-bottom: 0; */
+}
+.md-typeset hr{
+    border-width: .3rem;
+}
+.md-source-date{
+    margin-top: -1em;
+}
+p{
+    margin-top: 0;
+    margin-bottom: .85em;
+}
+thead, th{
+    white-space: nowrap;
+}
