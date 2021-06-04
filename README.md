@@ -4,12 +4,15 @@
 
 对于详细介绍及许可信息等，请参阅[寻路桐梓坡 · 声明](sheng-ming.md)。
 
-> [!WARNING|style:callout|label:需要注意]
-> 我们已接入百度统计用于统计访问量，对于其隐私政策，请参阅[百度统计隐私政策](https://tongji.baidu.com/web/help/article?id=330&type=0&castk=LTE%3D)
+!!! WARNING "需要注意"
+    我们已接入百度统计用于统计访问量，对于其隐私政策，请参阅[百度统计隐私政策](https://tongji.baidu.com/web/help/article?id=330&type=0&castk=LTE%3D)
 
 如果你对本书的内容存在疑惑、认为某些内容不属实/片面、或是有任何建议，欢迎在GitHub提出issue，也可以通过邮件联系寻路桐梓坡编委会（联系方式请见[寻路桐梓坡 · 声明](sheng-ming.md)）。我们会尽力解答或做出修改。
 
 如果你希望投稿，欢迎在GitHub中提Pull Request，也可以邮件联系寻路桐梓坡编委会。我们会尽快审核并考虑合并。
+
+??? QUESTION "希望浏览早期的Gitbook版本？"
+    当前版本存在已知的Bug（源自lunr.js不支持中文）——“搜索结果不全”，目前，我们依然提供了Gitbook版本的网页，如果你希望访问，请[单击此链接](gitbook)
 
 ## 总目录
 
