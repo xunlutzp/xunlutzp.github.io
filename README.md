@@ -181,6 +181,7 @@
 * [放弃临床医学转行医学编辑的心路历程](ChA_shi-jie-guan-jia-zhi-guan-yu-gan-wo/3_zhuan-hang-yi-xue-bian-ji-de-xin-lu-li-cheng.md)
 * [何为“临床躺学”](ChA_shi-jie-guan-jia-zhi-guan-yu-gan-wo/4_he-wei-lin-chuang-tang-xue.md)
 * [学习生活中常见问题的Tips](ChA_shi-jie-guan-jia-zhi-guan-yu-gan-wo/5_xue-xi-sheng-huo-chang-jian-wen-ti-TIPS.md)
-* [社论——按图索骥VS自由探索](ChA_shi-jie-guan-jia-zhi-guan-yu-gan-wo/6_she-lun-an-tu-suo-ji-VS-zi-you-tan-suo.md)
+* [站在巨人的肩膀上](ChA_shi-jie-guan-jia-zhi-guan-yu-gan-wo/6_zhan-zai-ju-ren-de-jian-bang-shang.md)
+* [社论——按图索骥VS自由探索](ChA_shi-jie-guan-jia-zhi-guan-yu-gan-wo/7_she-lun-an-tu-suo-ji-VS-zi-you-tan-suo.md)
 
 [寻路桐梓坡 · 尾言](hou-ji.md)
