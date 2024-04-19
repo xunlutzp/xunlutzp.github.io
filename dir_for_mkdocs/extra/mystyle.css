@@ -76,6 +76,9 @@ html .md-typeset .admonition>:nth-child(2), html .md-typeset details>:nth-child(
 .md-source-date{
     margin-top: -1em;
 }
+.md-progress {
+    height: 0.25rem;
+}
 p{
     margin-top: 0;
     margin-bottom: .85em;

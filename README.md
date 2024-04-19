@@ -12,7 +12,9 @@
 如果你希望投稿，欢迎在GitHub中提Pull Request，也可以邮件联系寻路桐梓坡编委会。我们会尽快审核并考虑合并。
 
 ??? QUESTION "希望浏览早期的Gitbook版本？"
-    当前版本存在已知的Bug（源自lunr.js不支持中文）——“搜索结果不全”，目前，我们依然提供了Gitbook版本的网页，如果你希望访问，请[单击此链接](gitbook)
+    当前版本存在已知的Bug——“搜索结果不全”（源自当前的“结巴分词+lunr.js”方案不支持中文中缀搜索与后缀搜索，且受限于字典，部分语句分词效果不佳），目前，我们依然提供了Gitbook版本的网页，如果你希望访问，请[单击此链接](gitbook)
+
+----
 
 ## 总目录
 
@@ -159,6 +161,7 @@
     * [科研交换之巴西](Ch8_guo-ji-jiao-liu-xiang-mu/2-5_ke-yan-jiao-huan-zhi-ba-xi.md)
 * [新加坡留学申请经验](Ch8_guo-ji-jiao-liu-xiang-mu/3_xin-jia-po-liu-xue-shen-qing-jing-yan.md)
 * [CSC-英国曼彻斯特大学合作奖学金项目申请经验](Ch8_guo-ji-jiao-liu-xiang-mu/4_CSC-UoM-jiang-xue-jin-xiang-mu-sheng-qing-jing-yan.md)
+* [CSC-德国慕尼黑大学合作奖学金博士申请经验](Ch8_guo-ji-jiao-liu-xiang-mu/5_CSC-LMU-jiang-xue-jin-bo-shi-shen-qing-jing-yan.md)
 
 ### [第九章：考研/保研经验与体会](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/readme.md)
 
