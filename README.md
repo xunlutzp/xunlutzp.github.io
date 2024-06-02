@@ -162,6 +162,7 @@
 * [新加坡留学申请经验](Ch8_guo-ji-jiao-liu-xiang-mu/3_xin-jia-po-liu-xue-shen-qing-jing-yan.md)
 * [CSC-英国曼彻斯特大学合作奖学金项目申请经验](Ch8_guo-ji-jiao-liu-xiang-mu/4_CSC-UoM-jiang-xue-jin-xiang-mu-sheng-qing-jing-yan.md)
 * [CSC-德国慕尼黑大学合作奖学金博士申请经验](Ch8_guo-ji-jiao-liu-xiang-mu/5_CSC-LMU-jiang-xue-jin-bo-shi-shen-qing-jing-yan.md)
+* [CSC-德国柏林夏里特医学院个人渠道博士申请经验](Ch8_guo-ji-jiao-liu-xiang-mu/6_CSC-Charite-ge-ren-qv-dao-bo-shi-sheng-qing-jing-yan.md)
 
 ### [第九章：考研/保研经验与体会](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/readme.md)
 
