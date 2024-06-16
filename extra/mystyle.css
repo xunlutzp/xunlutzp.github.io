@@ -1,7 +1,6 @@
 .md-typeset h1 {
     font-weight: 700;
 }
-
 .md-typeset h2 {
     margin-top: 1em;
     margin-bottom: .5em;
@@ -78,6 +77,9 @@ html .md-typeset .admonition>:nth-child(2), html .md-typeset details>:nth-child(
 }
 .md-progress {
     height: 0.25rem;
+}
+.md-typeset {
+    text-align: justify;
 }
 p{
     margin-top: 0;
