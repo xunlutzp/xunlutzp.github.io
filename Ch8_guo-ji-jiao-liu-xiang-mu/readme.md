@@ -14,3 +14,4 @@
 + [CSC-德国慕尼黑大学合作奖学金博士申请经验](5_CSC-LMU-jiang-xue-jin-bo-shi-shen-qing-jing-yan.md)
 + [CSC-德国柏林夏里特医学院个人渠道博士申请经验](6_CSC-Charite-ge-ren-qv-dao-bo-shi-sheng-qing-jing-yan.md)
 + [CSC-法国索邦大学个人渠道博士申请经验](7_CSC-Sorbonne-ge-ren-qv-dao-bo-shi-sheng-qing-jing-yan.md)
++ [香港大学科研助理和岗位制博士申请经验](8_HKU-RA-PhD-shen-qing-jing-yan.md)

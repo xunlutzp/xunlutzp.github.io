@@ -9,3 +9,4 @@
 + [学习生活中常见问题的Tips](5_xue-xi-sheng-huo-chang-jian-wen-ti-TIPS.md)
 + [站在巨人的肩膀上](6_zhan-zai-ju-ren-de-jian-bang-shang.md)
 + [社论——按图索骥VS自由探索](7_she-lun-an-tu-suo-ji-VS-zi-you-tan-suo.md)
++ [内科专硕三年：抱怨、迷茫与前行](8_nei-ke-zhuan-shuo-3y.md)
