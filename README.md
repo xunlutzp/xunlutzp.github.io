@@ -164,6 +164,7 @@
 * [CSC-德国慕尼黑大学合作奖学金博士申请经验](Ch8_guo-ji-jiao-liu-xiang-mu/5_CSC-LMU-jiang-xue-jin-bo-shi-shen-qing-jing-yan.md)
 * [CSC-德国柏林夏里特医学院个人渠道博士申请经验](Ch8_guo-ji-jiao-liu-xiang-mu/6_CSC-Charite-ge-ren-qv-dao-bo-shi-sheng-qing-jing-yan.md)
 * [CSC-法国索邦大学个人渠道博士申请经验](Ch8_guo-ji-jiao-liu-xiang-mu/7_CSC-Sorbonne-ge-ren-qv-dao-bo-shi-sheng-qing-jing-yan.md)
+* [香港大学科研助理和岗位制博士申请经验](Ch8_guo-ji-jiao-liu-xiang-mu/8_HKU-RA-PhD-shen-qing-jing-yan.md)
 
 ### [第九章：考研/保研经验与体会](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/readme.md)
 
@@ -188,5 +189,6 @@
 * [学习生活中常见问题的Tips](ChA_shi-jie-guan-jia-zhi-guan-yu-gan-wo/5_xue-xi-sheng-huo-chang-jian-wen-ti-TIPS.md)
 * [站在巨人的肩膀上](ChA_shi-jie-guan-jia-zhi-guan-yu-gan-wo/6_zhan-zai-ju-ren-de-jian-bang-shang.md)
 * [社论——按图索骥VS自由探索](ChA_shi-jie-guan-jia-zhi-guan-yu-gan-wo/7_she-lun-an-tu-suo-ji-VS-zi-you-tan-suo.md)
+* [内科专硕三年：抱怨、迷茫与前行](ChA_shi-jie-guan-jia-zhi-guan-yu-gan-wo/8_nei-ke-zhuan-shuo-3y.md)
 
 [寻路桐梓坡 · 尾言](hou-ji.md)
